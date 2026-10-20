@@ -1,0 +1,6925 @@
+{
+ "session": "2025/2026",
+ "registrationOpen": true,
+ "students": [
+  {
+   "studentId": "CSC/2025/001",
+   "name": "Esther Abubakar",
+   "programme": "Computer Science",
+   "level": 100,
+   "passwordHash": "ef92b778bafe771e89245b89ecbc08a44a4e166c06659911881f383d4473e94f"
+  },
+  {
+   "studentId": "CSC/2025/002",
+   "name": "Zainab Chukwu",
+   "programme": "Computer Science",
+   "level": 100,
+   "passwordHash": "ef92b778bafe771e89245b89ecbc08a44a4e166c06659911881f383d4473e94f"
+  },
+  {
+   "studentId": "CSC/2025/003",
+   "name": "Obinna Okafor",
+   "programme": "Computer Science",
+   "level": 100,
+   "passwordHash": "ef92b778bafe771e89245b89ecbc08a44a4e166c06659911881f383d4473e94f"
+  },
+  {
+   "studentId": "CSC/2025/004",
+   "name": "Kelechi Balogun",
+   "programme": "Computer Science",
+   "level": 100,
+   "passwordHash": "ef92b778bafe771e89245b89ecbc08a44a4e166c06659911881f383d4473e94f"
+  },
+  {
+   "studentId": "CSC/2025/005",
+   "name": "Grace Ogunleye",
+   "programme": "Computer Science",
+   "level": 100,
+   "passwordHash": "ef92b778bafe771e89245b89ecbc08a44a4e166c06659911881f383d4473e94f"
+  },
+  {
+   "studentId": "CSC/2025/006",
+   "name": "Oluwaseun Afolabi",
+   "programme": "Computer Science",
+   "level": 100,
+   "passwordHash": "ef92b778bafe771e89245b89ecbc08a44a4e166c06659911881f383d4473e94f"
+  },
+  {
+   "studentId": "CSC/2025/007",
+   "name": "Oluwaseun Danjuma",
+   "programme": "Computer Science",
+   "level": 100,
+   "passwordHash": "ef92b778bafe771e89245b89ecbc08a44a4e166c06659911881f383d4473e94f"
+  },
+  {
+   "studentId": "CSC/2025/008",
+   "name": "Segun Eze",
+   "programme": "Computer Science",
+   "level": 100,
+   "passwordHash": "ef92b778bafe771e89245b89ecbc08a44a4e166c06659911881f383d4473e94f"
+  },
+  {
+   "studentId": "CSC/2025/009",
+   "name": "Babajide Mohammed",
+   "programme": "Computer Science",
+   "level": 100,
+   "passwordHash": "ef92b778bafe771e89245b89ecbc08a44a4e166c06659911881f383d4473e94f"
+  },
+  {
+   "studentId": "CSC/2025/010",
+   "name": "Aisha Eze",
+   "programme": "Computer Science",
+   "level": 100,
+   "passwordHash": "ef92b778bafe771e89245b89ecbc08a44a4e166c06659911881f383d4473e94f"
+  },
+  {
+   "studentId": "CSC/2025/011",
+   "name": "Yetunde Abubakar",
+   "programme": "Computer Science",
+   "level": 100,
+   "passwordHash": "ef92b778bafe771e89245b89ecbc08a44a4e166c06659911881f383d4473e94f"
+  },
+  {
+   "studentId": "CSC/2025/012",
+   "name": "Chiamaka Eze",
+   "programme": "Computer Science",
+   "level": 100,
+   "passwordHash": "ef92b778bafe771e89245b89ecbc08a44a4e166c06659911881f383d4473e94f"
+  },
+  {
+   "studentId": "CSC/2025/013",
+   "name": "Amina Abubakar",
+   "programme": "Computer Science",
+   "level": 100,
+   "passwordHash": "ef92b778bafe771e89245b89ecbc08a44a4e166c06659911881f383d4473e94f"
+  },
+  {
+   "studentId": "CSC/2025/014",
+   "name": "David Balogun",
+   "programme": "Computer Science",
+   "level": 100,
+   "passwordHash": "ef92b778bafe771e89245b89ecbc08a44a4e166c06659911881f383d4473e94f"
+  },
+  {
+   "studentId": "CSC/2025/015",
+   "name": "Oluwaseun Adeyemi",
+   "programme": "Computer Science",
+   "level": 100,
+   "passwordHash": "ef92b778bafe771e89245b89ecbc08a44a4e166c06659911881f383d4473e94f"
+  },
+  {
+   "studentId": "CSC/2025/016",
+   "name": "Yetunde Ibrahim",
+   "programme": "Computer Science",
+   "level": 100,
+   "passwordHash": "ef92b778bafe771e89245b89ecbc08a44a4e166c06659911881f383d4473e94f"
+  },
+  {
+   "studentId": "CSC/2025/017",
+   "name": "Oluwaseun Nwosu",
+   "programme": "Computer Science",
+   "level": 100,
+   "passwordHash": "ef92b778bafe771e89245b89ecbc08a44a4e166c06659911881f383d4473e94f"
+  },
+  {
+   "studentId": "CSC/2025/018",
+   "name": "Funmilayo Ogunleye",
+   "programme": "Computer Science",
+   "level": 100,
+   "passwordHash": "ef92b778bafe771e89245b89ecbc08a44a4e166c06659911881f383d4473e94f"
+  },
+  {
+   "studentId": "CSC/2025/019",
+   "name": "Ibrahim Ibrahim",
+   "programme": "Computer Science",
+   "level": 100,
+   "passwordHash": "ef92b778bafe771e89245b89ecbc08a44a4e166c06659911881f383d4473e94f"
+  },
+  {
+   "studentId": "CSC/2025/020",
+   "name": "Yetunde Nnamdi",
+   "programme": "Computer Science",
+   "level": 100,
+   "passwordHash": "ef92b778bafe771e89245b89ecbc08a44a4e166c06659911881f383d4473e94f"
+  },
+  {
+   "studentId": "CSC/2025/021",
+   "name": "Blessing Nnamdi",
+   "programme": "Computer Science",
+   "level": 100,
+   "passwordHash": "ef92b778bafe771e89245b89ecbc08a44a4e166c06659911881f383d4473e94f"
+  },
+  {
+   "studentId": "CSC/2025/022",
+   "name": "Adaeze Adeyemi",
+   "programme": "Computer Science",
+   "level": 100,
+   "passwordHash": "ef92b778bafe771e89245b89ecbc08a44a4e166c06659911881f383d4473e94f"
+  },
+  {
+   "studentId": "CSC/2025/023",
+   "name": "Musa Yusuf",
+   "programme": "Computer Science",
+   "level": 100,
+   "passwordHash": "ef92b778bafe771e89245b89ecbc08a44a4e166c06659911881f383d4473e94f"
+  },
+  {
+   "studentId": "CSC/2025/024",
+   "name": "Tunde Bello",
+   "programme": "Computer Science",
+   "level": 100,
+   "passwordHash": "ef92b778bafe771e89245b89ecbc08a44a4e166c06659911881f383d4473e94f"
+  },
+  {
+   "studentId": "CSC/2025/025",
+   "name": "Temitope Olawale",
+   "programme": "Computer Science",
+   "level": 100,
+   "passwordHash": "ef92b778bafe771e89245b89ecbc08a44a4e166c06659911881f383d4473e94f"
+  },
+  {
+   "studentId": "CSC/2025/026",
+   "name": "Musa Bello",
+   "programme": "Computer Science",
+   "level": 100,
+   "passwordHash": "ef92b778bafe771e89245b89ecbc08a44a4e166c06659911881f383d4473e94f"
+  },
+  {
+   "studentId": "CSC/2025/027",
+   "name": "Ibrahim Yusuf",
+   "programme": "Computer Science",
+   "level": 100,
+   "passwordHash": "ef92b778bafe771e89245b89ecbc08a44a4e166c06659911881f383d4473e94f"
+  },
+  {
+   "studentId": "CSC/2025/028",
+   "name": "Musa Mohammed",
+   "programme": "Computer Science",
+   "level": 100,
+   "passwordHash": "ef92b778bafe771e89245b89ecbc08a44a4e166c06659911881f383d4473e94f"
+  },
+  {
+   "studentId": "CSC/2025/029",
+   "name": "Funmilayo Abubakar",
+   "programme": "Computer Science",
+   "level": 100,
+   "passwordHash": "ef92b778bafe771e89245b89ecbc08a44a4e166c06659911881f383d4473e94f"
+  },
+  {
+   "studentId": "CSC/2025/030",
+   "name": "Chinedu Abubakar",
+   "programme": "Computer Science",
+   "level": 100,
+   "passwordHash": "ef92b778bafe771e89245b89ecbc08a44a4e166c06659911881f383d4473e94f"
+  },
+  {
+   "studentId": "CSC/2025/031",
+   "name": "Grace Nwosu",
+   "programme": "Computer Science",
+   "level": 100,
+   "passwordHash": "ef92b778bafe771e89245b89ecbc08a44a4e166c06659911881f383d4473e94f"
+  },
+  {
+   "studentId": "CSC/2025/032",
+   "name": "Segun Danjuma",
+   "programme": "Computer Science",
+   "level": 100,
+   "passwordHash": "ef92b778bafe771e89245b89ecbc08a44a4e166c06659911881f383d4473e94f"
+  },
+  {
+   "studentId": "CSC/2025/033",
+   "name": "Esther Ogunleye",
+   "programme": "Computer Science",
+   "level": 100,
+   "passwordHash": "ef92b778bafe771e89245b89ecbc08a44a4e166c06659911881f383d4473e94f"
+  },
+  {
+   "studentId": "CSC/2025/034",
+   "name": "Ifeoma Abubakar",
+   "programme": "Computer Science",
+   "level": 100,
+   "passwordHash": "ef92b778bafe771e89245b89ecbc08a44a4e166c06659911881f383d4473e94f"
+  },
+  {
+   "studentId": "CSC/2025/035",
+   "name": "Chinedu Okonkwo",
+   "programme": "Computer Science",
+   "level": 100,
+   "passwordHash": "ef92b778bafe771e89245b89ecbc08a44a4e166c06659911881f383d4473e94f"
+  },
+  {
+   "studentId": "CSC/2025/036",
+   "name": "Ibrahim Afolabi",
+   "programme": "Computer Science",
+   "level": 100,
+   "passwordHash": "ef92b778bafe771e89245b89ecbc08a44a4e166c06659911881f383d4473e94f"
+  },
+  {
+   "studentId": "CSC/2025/037",
+   "name": "Obinna Ibrahim",
+   "programme": "Computer Science",
+   "level": 100,
+   "passwordHash": "ef92b778bafe771e89245b89ecbc08a44a4e166c06659911881f383d4473e94f"
+  },
+  {
+   "studentId": "CSC/2025/038",
+   "name": "Mercy Nnamdi",
+   "programme": "Computer Science",
+   "level": 100,
+   "passwordHash": "ef92b778bafe771e89245b89ecbc08a44a4e166c06659911881f383d4473e94f"
+  },
+  {
+   "studentId": "CSC/2025/039",
+   "name": "Ifeoma Nwosu",
+   "programme": "Computer Science",
+   "level": 100,
+   "passwordHash": "ef92b778bafe771e89245b89ecbc08a44a4e166c06659911881f383d4473e94f"
+  },
+  {
+   "studentId": "CSC/2025/040",
+   "name": "Aisha Abubakar",
+   "programme": "Computer Science",
+   "level": 100,
+   "passwordHash": "ef92b778bafe771e89245b89ecbc08a44a4e166c06659911881f383d4473e94f"
+  },
+  {
+   "studentId": "CSC/2024/001",
+   "name": "Emeka Okonkwo",
+   "programme": "Computer Science",
+   "level": 200,
+   "passwordHash": "ef92b778bafe771e89245b89ecbc08a44a4e166c06659911881f383d4473e94f"
+  },
+  {
+   "studentId": "CSC/2024/002",
+   "name": "Kelechi Okafor",
+   "programme": "Computer Science",
+   "level": 200,
+   "passwordHash": "ef92b778bafe771e89245b89ecbc08a44a4e166c06659911881f383d4473e94f"
+  },
+  {
+   "studentId": "CSC/2024/003",
+   "name": "Grace Nwosu",
+   "programme": "Computer Science",
+   "level": 200,
+   "passwordHash": "ef92b778bafe771e89245b89ecbc08a44a4e166c06659911881f383d4473e94f"
+  },
+  {
+   "studentId": "CSC/2024/004",
+   "name": "Chinedu Balogun",
+   "programme": "Computer Science",
+   "level": 200,
+   "passwordHash": "ef92b778bafe771e89245b89ecbc08a44a4e166c06659911881f383d4473e94f"
+  },
+  {
+   "studentId": "CSC/2024/005",
+   "name": "Kelechi Nwosu",
+   "programme": "Computer Science",
+   "level": 200,
+   "passwordHash": "ef92b778bafe771e89245b89ecbc08a44a4e166c06659911881f383d4473e94f"
+  },
+  {
+   "studentId": "CSC/2024/006",
+   "name": "David Nnamdi",
+   "programme": "Computer Science",
+   "level": 200,
+   "passwordHash": "ef92b778bafe771e89245b89ecbc08a44a4e166c06659911881f383d4473e94f"
+  },
+  {
+   "studentId": "CSC/2024/007",
+   "name": "David Yusuf",
+   "programme": "Computer Science",
+   "level": 200,
+   "passwordHash": "ef92b778bafe771e89245b89ecbc08a44a4e166c06659911881f383d4473e94f"
+  },
+  {
+   "studentId": "CSC/2024/008",
+   "name": "Tunde Nwosu",
+   "programme": "Computer Science",
+   "level": 200,
+   "passwordHash": "ef92b778bafe771e89245b89ecbc08a44a4e166c06659911881f383d4473e94f"
+  },
+  {
+   "studentId": "CSC/2024/009",
+   "name": "Amina Nwosu",
+   "programme": "Computer Science",
+   "level": 200,
+   "passwordHash": "ef92b778bafe771e89245b89ecbc08a44a4e166c06659911881f383d4473e94f"
+  },
+  {
+   "studentId": "CSC/2024/010",
+   "name": "Temitope Okonkwo",
+   "programme": "Computer Science",
+   "level": 200,
+   "passwordHash": "ef92b778bafe771e89245b89ecbc08a44a4e166c06659911881f383d4473e94f"
+  },
+  {
+   "studentId": "CSC/2024/011",
+   "name": "Emeka Okonkwo",
+   "programme": "Computer Science",
+   "level": 200,
+   "passwordHash": "ef92b778bafe771e89245b89ecbc08a44a4e166c06659911881f383d4473e94f"
+  },
+  {
+   "studentId": "CSC/2024/012",
+   "name": "Ifeoma Okonkwo",
+   "programme": "Computer Science",
+   "level": 200,
+   "passwordHash": "ef92b778bafe771e89245b89ecbc08a44a4e166c06659911881f383d4473e94f"
+  },
+  {
+   "studentId": "CSC/2024/013",
+   "name": "Segun Mohammed",
+   "programme": "Computer Science",
+   "level": 200,
+   "passwordHash": "ef92b778bafe771e89245b89ecbc08a44a4e166c06659911881f383d4473e94f"
+  },
+  {
+   "studentId": "CSC/2024/014",
+   "name": "Oluwaseun Afolabi",
+   "programme": "Computer Science",
+   "level": 200,
+   "passwordHash": "ef92b778bafe771e89245b89ecbc08a44a4e166c06659911881f383d4473e94f"
+  },
+  {
+   "studentId": "CSC/2024/015",
+   "name": "Mercy Yusuf",
+   "programme": "Computer Science",
+   "level": 200,
+   "passwordHash": "ef92b778bafe771e89245b89ecbc08a44a4e166c06659911881f383d4473e94f"
+  },
+  {
+   "studentId": "CSC/2024/016",
+   "name": "Funmilayo Nnamdi",
+   "programme": "Computer Science",
+   "level": 200,
+   "passwordHash": "ef92b778bafe771e89245b89ecbc08a44a4e166c06659911881f383d4473e94f"
+  },
+  {
+   "studentId": "CSC/2024/017",
+   "name": "Daniel Adeyemi",
+   "programme": "Computer Science",
+   "level": 200,
+   "passwordHash": "ef92b778bafe771e89245b89ecbc08a44a4e166c06659911881f383d4473e94f"
+  },
+  {
+   "studentId": "CSC/2024/018",
+   "name": "Samuel Adebayo",
+   "programme": "Computer Science",
+   "level": 200,
+   "passwordHash": "ef92b778bafe771e89245b89ecbc08a44a4e166c06659911881f383d4473e94f"
+  },
+  {
+   "studentId": "CSC/2024/019",
+   "name": "Yetunde Ogunleye",
+   "programme": "Computer Science",
+   "level": 200,
+   "passwordHash": "ef92b778bafe771e89245b89ecbc08a44a4e166c06659911881f383d4473e94f"
+  },
+  {
+   "studentId": "CSC/2024/020",
+   "name": "Ifeoma Chukwu",
+   "programme": "Computer Science",
+   "level": 200,
+   "passwordHash": "ef92b778bafe771e89245b89ecbc08a44a4e166c06659911881f383d4473e94f"
+  },
+  {
+   "studentId": "CSC/2024/021",
+   "name": "Temitope Chukwu",
+   "programme": "Computer Science",
+   "level": 200,
+   "passwordHash": "ef92b778bafe771e89245b89ecbc08a44a4e166c06659911881f383d4473e94f"
+  },
+  {
+   "studentId": "CSC/2024/022",
+   "name": "Chinedu Ogunleye",
+   "programme": "Computer Science",
+   "level": 200,
+   "passwordHash": "ef92b778bafe771e89245b89ecbc08a44a4e166c06659911881f383d4473e94f"
+  },
+  {
+   "studentId": "CSC/2024/023",
+   "name": "Esther Okonkwo",
+   "programme": "Computer Science",
+   "level": 200,
+   "passwordHash": "ef92b778bafe771e89245b89ecbc08a44a4e166c06659911881f383d4473e94f"
+  },
+  {
+   "studentId": "CSC/2024/024",
+   "name": "Tunde Mohammed",
+   "programme": "Computer Science",
+   "level": 200,
+   "passwordHash": "ef92b778bafe771e89245b89ecbc08a44a4e166c06659911881f383d4473e94f"
+  },
+  {
+   "studentId": "CSC/2024/025",
+   "name": "Uche Adeyemi",
+   "programme": "Computer Science",
+   "level": 200,
+   "passwordHash": "ef92b778bafe771e89245b89ecbc08a44a4e166c06659911881f383d4473e94f"
+  },
+  {
+   "studentId": "CSC/2024/026",
+   "name": "Ibrahim Yusuf",
+   "programme": "Computer Science",
+   "level": 200,
+   "passwordHash": "ef92b778bafe771e89245b89ecbc08a44a4e166c06659911881f383d4473e94f"
+  },
+  {
+   "studentId": "CSC/2024/027",
+   "name": "Emeka Ibrahim",
+   "programme": "Computer Science",
+   "level": 200,
+   "passwordHash": "ef92b778bafe771e89245b89ecbc08a44a4e166c06659911881f383d4473e94f"
+  },
+  {
+   "studentId": "CSC/2024/028",
+   "name": "Blessing Eze",
+   "programme": "Computer Science",
+   "level": 200,
+   "passwordHash": "ef92b778bafe771e89245b89ecbc08a44a4e166c06659911881f383d4473e94f"
+  },
+  {
+   "studentId": "CSC/2024/029",
+   "name": "Oluwaseun Abubakar",
+   "programme": "Computer Science",
+   "level": 200,
+   "passwordHash": "ef92b778bafe771e89245b89ecbc08a44a4e166c06659911881f383d4473e94f"
+  },
+  {
+   "studentId": "CSC/2024/030",
+   "name": "Mercy Afolabi",
+   "programme": "Computer Science",
+   "level": 200,
+   "passwordHash": "ef92b778bafe771e89245b89ecbc08a44a4e166c06659911881f383d4473e94f"
+  },
+  {
+   "studentId": "CSC/2024/031",
+   "name": "Babajide Nwosu",
+   "programme": "Computer Science",
+   "level": 200,
+   "passwordHash": "ef92b778bafe771e89245b89ecbc08a44a4e166c06659911881f383d4473e94f"
+  },
+  {
+   "studentId": "CSC/2024/032",
+   "name": "Segun Okafor",
+   "programme": "Computer Science",
+   "level": 200,
+   "passwordHash": "ef92b778bafe771e89245b89ecbc08a44a4e166c06659911881f383d4473e94f"
+  },
+  {
+   "studentId": "CSC/2024/033",
+   "name": "Temitope Nnamdi",
+   "programme": "Computer Science",
+   "level": 200,
+   "passwordHash": "ef92b778bafe771e89245b89ecbc08a44a4e166c06659911881f383d4473e94f"
+  },
+  {
+   "studentId": "CSC/2024/034",
+   "name": "Emeka Ekwueme",
+   "programme": "Computer Science",
+   "level": 200,
+   "passwordHash": "ef92b778bafe771e89245b89ecbc08a44a4e166c06659911881f383d4473e94f"
+  },
+  {
+   "studentId": "CSC/2024/035",
+   "name": "Yetunde Yusuf",
+   "programme": "Computer Science",
+   "level": 200,
+   "passwordHash": "ef92b778bafe771e89245b89ecbc08a44a4e166c06659911881f383d4473e94f"
+  },
+  {
+   "studentId": "CSC/2024/036",
+   "name": "Temitope Yusuf",
+   "programme": "Computer Science",
+   "level": 200,
+   "passwordHash": "ef92b778bafe771e89245b89ecbc08a44a4e166c06659911881f383d4473e94f"
+  },
+  {
+   "studentId": "CSC/2024/037",
+   "name": "Daniel Nnamdi",
+   "programme": "Computer Science",
+   "level": 200,
+   "passwordHash": "ef92b778bafe771e89245b89ecbc08a44a4e166c06659911881f383d4473e94f"
+  },
+  {
+   "studentId": "CSC/2024/038",
+   "name": "Halima Balogun",
+   "programme": "Computer Science",
+   "level": 200,
+   "passwordHash": "ef92b778bafe771e89245b89ecbc08a44a4e166c06659911881f383d4473e94f"
+  },
+  {
+   "studentId": "CSC/2024/039",
+   "name": "Joseph Chukwu",
+   "programme": "Computer Science",
+   "level": 200,
+   "passwordHash": "ef92b778bafe771e89245b89ecbc08a44a4e166c06659911881f383d4473e94f"
+  },
+  {
+   "studentId": "CSC/2024/040",
+   "name": "Segun Nnamdi",
+   "programme": "Computer Science",
+   "level": 200,
+   "passwordHash": "ef92b778bafe771e89245b89ecbc08a44a4e166c06659911881f383d4473e94f"
+  },
+  {
+   "studentId": "CSC/2023/001",
+   "name": "Chukwuemeka Obi",
+   "programme": "Computer Science",
+   "level": 300,
+   "passwordHash": "ef92b778bafe771e89245b89ecbc08a44a4e166c06659911881f383d4473e94f"
+  },
+  {
+   "studentId": "CSC/2023/002",
+   "name": "Segun Abubakar",
+   "programme": "Computer Science",
+   "level": 300,
+   "passwordHash": "ef92b778bafe771e89245b89ecbc08a44a4e166c06659911881f383d4473e94f"
+  },
+  {
+   "studentId": "CSC/2023/003",
+   "name": "Chinedu Yusuf",
+   "programme": "Computer Science",
+   "level": 300,
+   "passwordHash": "ef92b778bafe771e89245b89ecbc08a44a4e166c06659911881f383d4473e94f"
+  },
+  {
+   "studentId": "CSC/2023/004",
+   "name": "Uche Obi",
+   "programme": "Computer Science",
+   "level": 300,
+   "passwordHash": "ef92b778bafe771e89245b89ecbc08a44a4e166c06659911881f383d4473e94f"
+  },
+  {
+   "studentId": "CSC/2023/005",
+   "name": "Amina Olawale",
+   "programme": "Computer Science",
+   "level": 300,
+   "passwordHash": "ef92b778bafe771e89245b89ecbc08a44a4e166c06659911881f383d4473e94f"
+  },
+  {
+   "studentId": "CSC/2023/006",
+   "name": "Ifeoma Afolabi",
+   "programme": "Computer Science",
+   "level": 300,
+   "passwordHash": "ef92b778bafe771e89245b89ecbc08a44a4e166c06659911881f383d4473e94f"
+  },
+  {
+   "studentId": "CSC/2023/007",
+   "name": "Joseph Chukwu",
+   "programme": "Computer Science",
+   "level": 300,
+   "passwordHash": "ef92b778bafe771e89245b89ecbc08a44a4e166c06659911881f383d4473e94f"
+  },
+  {
+   "studentId": "CSC/2023/008",
+   "name": "Funmilayo Danjuma",
+   "programme": "Computer Science",
+   "level": 300,
+   "passwordHash": "ef92b778bafe771e89245b89ecbc08a44a4e166c06659911881f383d4473e94f"
+  },
+  {
+   "studentId": "CSC/2023/009",
+   "name": "Chinedu Olawale",
+   "programme": "Computer Science",
+   "level": 300,
+   "passwordHash": "ef92b778bafe771e89245b89ecbc08a44a4e166c06659911881f383d4473e94f"
+  },
+  {
+   "studentId": "CSC/2023/010",
+   "name": "Obinna Bello",
+   "programme": "Computer Science",
+   "level": 300,
+   "passwordHash": "ef92b778bafe771e89245b89ecbc08a44a4e166c06659911881f383d4473e94f"
+  },
+  {
+   "studentId": "CSC/2023/011",
+   "name": "Zainab Mohammed",
+   "programme": "Computer Science",
+   "level": 300,
+   "passwordHash": "ef92b778bafe771e89245b89ecbc08a44a4e166c06659911881f383d4473e94f"
+  },
+  {
+   "studentId": "CSC/2023/012",
+   "name": "Grace Adebayo",
+   "programme": "Computer Science",
+   "level": 300,
+   "passwordHash": "ef92b778bafe771e89245b89ecbc08a44a4e166c06659911881f383d4473e94f"
+  },
+  {
+   "studentId": "CSC/2023/013",
+   "name": "Chiamaka Balogun",
+   "programme": "Computer Science",
+   "level": 300,
+   "passwordHash": "ef92b778bafe771e89245b89ecbc08a44a4e166c06659911881f383d4473e94f"
+  },
+  {
+   "studentId": "CSC/2023/014",
+   "name": "Temitope Ibrahim",
+   "programme": "Computer Science",
+   "level": 300,
+   "passwordHash": "ef92b778bafe771e89245b89ecbc08a44a4e166c06659911881f383d4473e94f"
+  },
+  {
+   "studentId": "CSC/2023/015",
+   "name": "Grace Nnamdi",
+   "programme": "Computer Science",
+   "level": 300,
+   "passwordHash": "ef92b778bafe771e89245b89ecbc08a44a4e166c06659911881f383d4473e94f"
+  },
+  {
+   "studentId": "CSC/2023/016",
+   "name": "Grace Ekwueme",
+   "programme": "Computer Science",
+   "level": 300,
+   "passwordHash": "ef92b778bafe771e89245b89ecbc08a44a4e166c06659911881f383d4473e94f"
+  },
+  {
+   "studentId": "CSC/2023/017",
+   "name": "Aisha Danjuma",
+   "programme": "Computer Science",
+   "level": 300,
+   "passwordHash": "ef92b778bafe771e89245b89ecbc08a44a4e166c06659911881f383d4473e94f"
+  },
+  {
+   "studentId": "CSC/2023/018",
+   "name": "Chinedu Adeyemi",
+   "programme": "Computer Science",
+   "level": 300,
+   "passwordHash": "ef92b778bafe771e89245b89ecbc08a44a4e166c06659911881f383d4473e94f"
+  },
+  {
+   "studentId": "CSC/2023/019",
+   "name": "Grace Balogun",
+   "programme": "Computer Science",
+   "level": 300,
+   "passwordHash": "ef92b778bafe771e89245b89ecbc08a44a4e166c06659911881f383d4473e94f"
+  },
+  {
+   "studentId": "CSC/2023/020",
+   "name": "Obinna Okafor",
+   "programme": "Computer Science",
+   "level": 300,
+   "passwordHash": "ef92b778bafe771e89245b89ecbc08a44a4e166c06659911881f383d4473e94f"
+  },
+  {
+   "studentId": "CSC/2023/021",
+   "name": "Joseph Adeyemi",
+   "programme": "Computer Science",
+   "level": 300,
+   "passwordHash": "ef92b778bafe771e89245b89ecbc08a44a4e166c06659911881f383d4473e94f"
+  },
+  {
+   "studentId": "CSC/2023/022",
+   "name": "Temitope Adeyemi",
+   "programme": "Computer Science",
+   "level": 300,
+   "passwordHash": "ef92b778bafe771e89245b89ecbc08a44a4e166c06659911881f383d4473e94f"
+  },
+  {
+   "studentId": "CSC/2023/023",
+   "name": "Chiamaka Abubakar",
+   "programme": "Computer Science",
+   "level": 300,
+   "passwordHash": "ef92b778bafe771e89245b89ecbc08a44a4e166c06659911881f383d4473e94f"
+  },
+  {
+   "studentId": "CSC/2023/024",
+   "name": "Aisha Okonkwo",
+   "programme": "Computer Science",
+   "level": 300,
+   "passwordHash": "ef92b778bafe771e89245b89ecbc08a44a4e166c06659911881f383d4473e94f"
+  },
+  {
+   "studentId": "CSC/2023/025",
+   "name": "Obinna Abubakar",
+   "programme": "Computer Science",
+   "level": 300,
+   "passwordHash": "ef92b778bafe771e89245b89ecbc08a44a4e166c06659911881f383d4473e94f"
+  },
+  {
+   "studentId": "CSC/2023/026",
+   "name": "Uche Okonkwo",
+   "programme": "Computer Science",
+   "level": 300,
+   "passwordHash": "ef92b778bafe771e89245b89ecbc08a44a4e166c06659911881f383d4473e94f"
+  },
+  {
+   "studentId": "CSC/2023/027",
+   "name": "Mercy Ibrahim",
+   "programme": "Computer Science",
+   "level": 300,
+   "passwordHash": "ef92b778bafe771e89245b89ecbc08a44a4e166c06659911881f383d4473e94f"
+  },
+  {
+   "studentId": "CSC/2023/028",
+   "name": "Mercy Okonkwo",
+   "programme": "Computer Science",
+   "level": 300,
+   "passwordHash": "ef92b778bafe771e89245b89ecbc08a44a4e166c06659911881f383d4473e94f"
+  },
+  {
+   "studentId": "CSC/2023/029",
+   "name": "Mercy Ekwueme",
+   "programme": "Computer Science",
+   "level": 300,
+   "passwordHash": "ef92b778bafe771e89245b89ecbc08a44a4e166c06659911881f383d4473e94f"
+  },
+  {
+   "studentId": "CSC/2023/030",
+   "name": "Joseph Adeyemi",
+   "programme": "Computer Science",
+   "level": 300,
+   "passwordHash": "ef92b778bafe771e89245b89ecbc08a44a4e166c06659911881f383d4473e94f"
+  },
+  {
+   "studentId": "CSC/2023/031",
+   "name": "Yetunde Balogun",
+   "programme": "Computer Science",
+   "level": 300,
+   "passwordHash": "ef92b778bafe771e89245b89ecbc08a44a4e166c06659911881f383d4473e94f"
+  },
+  {
+   "studentId": "CSC/2023/032",
+   "name": "Esther Nwosu",
+   "programme": "Computer Science",
+   "level": 300,
+   "passwordHash": "ef92b778bafe771e89245b89ecbc08a44a4e166c06659911881f383d4473e94f"
+  },
+  {
+   "studentId": "CSC/2023/033",
+   "name": "Segun Ekwueme",
+   "programme": "Computer Science",
+   "level": 300,
+   "passwordHash": "ef92b778bafe771e89245b89ecbc08a44a4e166c06659911881f383d4473e94f"
+  },
+  {
+   "studentId": "CSC/2023/034",
+   "name": "Musa Mohammed",
+   "programme": "Computer Science",
+   "level": 300,
+   "passwordHash": "ef92b778bafe771e89245b89ecbc08a44a4e166c06659911881f383d4473e94f"
+  },
+  {
+   "studentId": "CSC/2023/035",
+   "name": "Kelechi Adebayo",
+   "programme": "Computer Science",
+   "level": 300,
+   "passwordHash": "ef92b778bafe771e89245b89ecbc08a44a4e166c06659911881f383d4473e94f"
+  },
+  {
+   "studentId": "CSC/2023/036",
+   "name": "Zainab Okafor",
+   "programme": "Computer Science",
+   "level": 300,
+   "passwordHash": "ef92b778bafe771e89245b89ecbc08a44a4e166c06659911881f383d4473e94f"
+  },
+  {
+   "studentId": "CSC/2023/037",
+   "name": "Samuel Abubakar",
+   "programme": "Computer Science",
+   "level": 300,
+   "passwordHash": "ef92b778bafe771e89245b89ecbc08a44a4e166c06659911881f383d4473e94f"
+  },
+  {
+   "studentId": "CSC/2023/038",
+   "name": "David Okafor",
+   "programme": "Computer Science",
+   "level": 300,
+   "passwordHash": "ef92b778bafe771e89245b89ecbc08a44a4e166c06659911881f383d4473e94f"
+  },
+  {
+   "studentId": "CSC/2023/039",
+   "name": "Yetunde Adebayo",
+   "programme": "Computer Science",
+   "level": 300,
+   "passwordHash": "ef92b778bafe771e89245b89ecbc08a44a4e166c06659911881f383d4473e94f"
+  },
+  {
+   "studentId": "CSC/2023/040",
+   "name": "David Adebayo",
+   "programme": "Computer Science",
+   "level": 300,
+   "passwordHash": "ef92b778bafe771e89245b89ecbc08a44a4e166c06659911881f383d4473e94f"
+  },
+  {
+   "studentId": "CSC/2022/001",
+   "name": "Ngozi Ekwueme",
+   "programme": "Computer Science",
+   "level": 400,
+   "passwordHash": "ef92b778bafe771e89245b89ecbc08a44a4e166c06659911881f383d4473e94f"
+  },
+  {
+   "studentId": "CSC/2022/002",
+   "name": "Adaeze Ekwueme",
+   "programme": "Computer Science",
+   "level": 400,
+   "passwordHash": "ef92b778bafe771e89245b89ecbc08a44a4e166c06659911881f383d4473e94f"
+  },
+  {
+   "studentId": "CSC/2022/003",
+   "name": "Daniel Olawale",
+   "programme": "Computer Science",
+   "level": 400,
+   "passwordHash": "ef92b778bafe771e89245b89ecbc08a44a4e166c06659911881f383d4473e94f"
+  },
+  {
+   "studentId": "CSC/2022/004",
+   "name": "Oluwaseun Afolabi",
+   "programme": "Computer Science",
+   "level": 400,
+   "passwordHash": "ef92b778bafe771e89245b89ecbc08a44a4e166c06659911881f383d4473e94f"
+  },
+  {
+   "studentId": "CSC/2022/005",
+   "name": "Obinna Afolabi",
+   "programme": "Computer Science",
+   "level": 400,
+   "passwordHash": "ef92b778bafe771e89245b89ecbc08a44a4e166c06659911881f383d4473e94f"
+  },
+  {
+   "studentId": "CSC/2022/006",
+   "name": "Kelechi Nwosu",
+   "programme": "Computer Science",
+   "level": 400,
+   "passwordHash": "ef92b778bafe771e89245b89ecbc08a44a4e166c06659911881f383d4473e94f"
+  },
+  {
+   "studentId": "CSC/2022/007",
+   "name": "Emeka Okafor",
+   "programme": "Computer Science",
+   "level": 400,
+   "passwordHash": "ef92b778bafe771e89245b89ecbc08a44a4e166c06659911881f383d4473e94f"
+  },
+  {
+   "studentId": "CSC/2022/008",
+   "name": "Funmilayo Obi",
+   "programme": "Computer Science",
+   "level": 400,
+   "passwordHash": "ef92b778bafe771e89245b89ecbc08a44a4e166c06659911881f383d4473e94f"
+  },
+  {
+   "studentId": "CSC/2022/009",
+   "name": "Yetunde Bello",
+   "programme": "Computer Science",
+   "level": 400,
+   "passwordHash": "ef92b778bafe771e89245b89ecbc08a44a4e166c06659911881f383d4473e94f"
+  },
+  {
+   "studentId": "CSC/2022/010",
+   "name": "Ngozi Adeyemi",
+   "programme": "Computer Science",
+   "level": 400,
+   "passwordHash": "ef92b778bafe771e89245b89ecbc08a44a4e166c06659911881f383d4473e94f"
+  },
+  {
+   "studentId": "CSC/2022/011",
+   "name": "Ibrahim Adebayo",
+   "programme": "Computer Science",
+   "level": 400,
+   "passwordHash": "ef92b778bafe771e89245b89ecbc08a44a4e166c06659911881f383d4473e94f"
+  },
+  {
+   "studentId": "CSC/2022/012",
+   "name": "Obinna Mohammed",
+   "programme": "Computer Science",
+   "level": 400,
+   "passwordHash": "ef92b778bafe771e89245b89ecbc08a44a4e166c06659911881f383d4473e94f"
+  },
+  {
+   "studentId": "CSC/2022/013",
+   "name": "Ngozi Balogun",
+   "programme": "Computer Science",
+   "level": 400,
+   "passwordHash": "ef92b778bafe771e89245b89ecbc08a44a4e166c06659911881f383d4473e94f"
+  },
+  {
+   "studentId": "CSC/2022/014",
+   "name": "Samuel Nwosu",
+   "programme": "Computer Science",
+   "level": 400,
+   "passwordHash": "ef92b778bafe771e89245b89ecbc08a44a4e166c06659911881f383d4473e94f"
+  },
+  {
+   "studentId": "CSC/2022/015",
+   "name": "Grace Eze",
+   "programme": "Computer Science",
+   "level": 400,
+   "passwordHash": "ef92b778bafe771e89245b89ecbc08a44a4e166c06659911881f383d4473e94f"
+  },
+  {
+   "studentId": "CSC/2022/016",
+   "name": "Chiamaka Adebayo",
+   "programme": "Computer Science",
+   "level": 400,
+   "passwordHash": "ef92b778bafe771e89245b89ecbc08a44a4e166c06659911881f383d4473e94f"
+  },
+  {
+   "studentId": "CSC/2022/017",
+   "name": "Babajide Nnamdi",
+   "programme": "Computer Science",
+   "level": 400,
+   "passwordHash": "ef92b778bafe771e89245b89ecbc08a44a4e166c06659911881f383d4473e94f"
+  },
+  {
+   "studentId": "CSC/2022/018",
+   "name": "Obinna Ibrahim",
+   "programme": "Computer Science",
+   "level": 400,
+   "passwordHash": "ef92b778bafe771e89245b89ecbc08a44a4e166c06659911881f383d4473e94f"
+  },
+  {
+   "studentId": "CSC/2022/019",
+   "name": "Ibrahim Nnamdi",
+   "programme": "Computer Science",
+   "level": 400,
+   "passwordHash": "ef92b778bafe771e89245b89ecbc08a44a4e166c06659911881f383d4473e94f"
+  },
+  {
+   "studentId": "CSC/2022/020",
+   "name": "Adaeze Obi",
+   "programme": "Computer Science",
+   "level": 400,
+   "passwordHash": "ef92b778bafe771e89245b89ecbc08a44a4e166c06659911881f383d4473e94f"
+  },
+  {
+   "studentId": "CSC/2022/021",
+   "name": "Yetunde Mohammed",
+   "programme": "Computer Science",
+   "level": 400,
+   "passwordHash": "ef92b778bafe771e89245b89ecbc08a44a4e166c06659911881f383d4473e94f"
+  },
+  {
+   "studentId": "CSC/2022/022",
+   "name": "Daniel Eze",
+   "programme": "Computer Science",
+   "level": 400,
+   "passwordHash": "ef92b778bafe771e89245b89ecbc08a44a4e166c06659911881f383d4473e94f"
+  },
+  {
+   "studentId": "CSC/2022/023",
+   "name": "Amina Afolabi",
+   "programme": "Computer Science",
+   "level": 400,
+   "passwordHash": "ef92b778bafe771e89245b89ecbc08a44a4e166c06659911881f383d4473e94f"
+  },
+  {
+   "studentId": "CSC/2022/024",
+   "name": "Mercy Abubakar",
+   "programme": "Computer Science",
+   "level": 400,
+   "passwordHash": "ef92b778bafe771e89245b89ecbc08a44a4e166c06659911881f383d4473e94f"
+  },
+  {
+   "studentId": "CSC/2022/025",
+   "name": "Tunde Ogunleye",
+   "programme": "Computer Science",
+   "level": 400,
+   "passwordHash": "ef92b778bafe771e89245b89ecbc08a44a4e166c06659911881f383d4473e94f"
+  },
+  {
+   "studentId": "CSC/2022/026",
+   "name": "Samuel Nwosu",
+   "programme": "Computer Science",
+   "level": 400,
+   "passwordHash": "ef92b778bafe771e89245b89ecbc08a44a4e166c06659911881f383d4473e94f"
+  },
+  {
+   "studentId": "CSC/2022/027",
+   "name": "Babajide Eze",
+   "programme": "Computer Science",
+   "level": 400,
+   "passwordHash": "ef92b778bafe771e89245b89ecbc08a44a4e166c06659911881f383d4473e94f"
+  },
+  {
+   "studentId": "CSC/2022/028",
+   "name": "Oluwaseun Nnamdi",
+   "programme": "Computer Science",
+   "level": 400,
+   "passwordHash": "ef92b778bafe771e89245b89ecbc08a44a4e166c06659911881f383d4473e94f"
+  },
+  {
+   "studentId": "CSC/2022/029",
+   "name": "Uche Eze",
+   "programme": "Computer Science",
+   "level": 400,
+   "passwordHash": "ef92b778bafe771e89245b89ecbc08a44a4e166c06659911881f383d4473e94f"
+  },
+  {
+   "studentId": "CSC/2022/030",
+   "name": "Mercy Ekwueme",
+   "programme": "Computer Science",
+   "level": 400,
+   "passwordHash": "ef92b778bafe771e89245b89ecbc08a44a4e166c06659911881f383d4473e94f"
+  },
+  {
+   "studentId": "CSC/2022/031",
+   "name": "Funmilayo Yusuf",
+   "programme": "Computer Science",
+   "level": 400,
+   "passwordHash": "ef92b778bafe771e89245b89ecbc08a44a4e166c06659911881f383d4473e94f"
+  },
+  {
+   "studentId": "CSC/2022/032",
+   "name": "Temitope Okafor",
+   "programme": "Computer Science",
+   "level": 400,
+   "passwordHash": "ef92b778bafe771e89245b89ecbc08a44a4e166c06659911881f383d4473e94f"
+  },
+  {
+   "studentId": "CSC/2022/033",
+   "name": "Chinedu Afolabi",
+   "programme": "Computer Science",
+   "level": 400,
+   "passwordHash": "ef92b778bafe771e89245b89ecbc08a44a4e166c06659911881f383d4473e94f"
+  },
+  {
+   "studentId": "CSC/2022/034",
+   "name": "Adaeze Ekwueme",
+   "programme": "Computer Science",
+   "level": 400,
+   "passwordHash": "ef92b778bafe771e89245b89ecbc08a44a4e166c06659911881f383d4473e94f"
+  },
+  {
+   "studentId": "CSC/2022/035",
+   "name": "Yetunde Bello",
+   "programme": "Computer Science",
+   "level": 400,
+   "passwordHash": "ef92b778bafe771e89245b89ecbc08a44a4e166c06659911881f383d4473e94f"
+  },
+  {
+   "studentId": "CSC/2022/036",
+   "name": "Adaeze Okafor",
+   "programme": "Computer Science",
+   "level": 400,
+   "passwordHash": "ef92b778bafe771e89245b89ecbc08a44a4e166c06659911881f383d4473e94f"
+  },
+  {
+   "studentId": "CSC/2022/037",
+   "name": "Joseph Bello",
+   "programme": "Computer Science",
+   "level": 400,
+   "passwordHash": "ef92b778bafe771e89245b89ecbc08a44a4e166c06659911881f383d4473e94f"
+  },
+  {
+   "studentId": "CSC/2022/038",
+   "name": "Samuel Nwosu",
+   "programme": "Computer Science",
+   "level": 400,
+   "passwordHash": "ef92b778bafe771e89245b89ecbc08a44a4e166c06659911881f383d4473e94f"
+  },
+  {
+   "studentId": "CSC/2022/039",
+   "name": "Obinna Okonkwo",
+   "programme": "Computer Science",
+   "level": 400,
+   "passwordHash": "ef92b778bafe771e89245b89ecbc08a44a4e166c06659911881f383d4473e94f"
+  },
+  {
+   "studentId": "CSC/2022/040",
+   "name": "Aisha Danjuma",
+   "programme": "Computer Science",
+   "level": 400,
+   "passwordHash": "ef92b778bafe771e89245b89ecbc08a44a4e166c06659911881f383d4473e94f"
+  }
+ ],
+ "admins": [
+  {
+   "username": "admin",
+   "passwordHash": "240be518fabd2724ddb6f04eeb1da5967448d7e831c08c8fa822809f74c720a9"
+  }
+ ],
+ "courses": [
+  {
+   "courseCode": "CSC101",
+   "title": "Introduction to Computer Science",
+   "unitLoad": 3,
+   "level": 100,
+   "programme": "Computer Science",
+   "expectedEnrolment": 110,
+   "slotId": 3,
+   "venueId": 2
+  },
+  {
+   "courseCode": "MTH101",
+   "title": "Elementary Mathematics I",
+   "unitLoad": 3,
+   "level": 100,
+   "programme": "Computer Science",
+   "expectedEnrolment": 220,
+   "slotId": 7,
+   "venueId": 1
+  },
+  {
+   "courseCode": "PHY101",
+   "title": "General Physics I",
+   "unitLoad": 3,
+   "level": 100,
+   "programme": "Computer Science",
+   "expectedEnrolment": 220,
+   "slotId": 12,
+   "venueId": 1
+  },
+  {
+   "courseCode": "CHM101",
+   "title": "General Chemistry I",
+   "unitLoad": 3,
+   "level": 100,
+   "programme": "Computer Science",
+   "expectedEnrolment": 220,
+   "slotId": 16,
+   "venueId": 1
+  },
+  {
+   "courseCode": "GST111",
+   "title": "Communication in English",
+   "unitLoad": 2,
+   "level": 100,
+   "programme": "Computer Science",
+   "expectedEnrolment": 240,
+   "slotId": 22,
+   "venueId": 1
+  },
+  {
+   "courseCode": "PHY107",
+   "title": "General Physics Laboratory I",
+   "unitLoad": 1,
+   "level": 100,
+   "programme": "Computer Science",
+   "expectedEnrolment": 55,
+   "slotId": 4,
+   "venueId": 3
+  },
+  {
+   "courseCode": "CSC201",
+   "title": "Computer Programming I",
+   "unitLoad": 3,
+   "level": 200,
+   "programme": "Computer Science",
+   "expectedEnrolment": 55,
+   "slotId": 5,
+   "venueId": 3
+  },
+  {
+   "courseCode": "CSC203",
+   "title": "Discrete Structures",
+   "unitLoad": 3,
+   "level": 200,
+   "programme": "Computer Science",
+   "expectedEnrolment": 55,
+   "slotId": 8,
+   "venueId": 3
+  },
+  {
+   "courseCode": "CSC205",
+   "title": "Introduction to Operating Systems",
+   "unitLoad": 3,
+   "level": 200,
+   "programme": "Computer Science",
+   "expectedEnrolment": 55,
+   "slotId": 13,
+   "venueId": 3
+  },
+  {
+   "courseCode": "MTH201",
+   "title": "Mathematical Methods I",
+   "unitLoad": 3,
+   "level": 200,
+   "programme": "Computer Science",
+   "expectedEnrolment": 100,
+   "slotId": 17,
+   "venueId": 2
+  },
+  {
+   "courseCode": "STA201",
+   "title": "Statistics for Physical Sciences",
+   "unitLoad": 3,
+   "level": 200,
+   "programme": "Computer Science",
+   "expectedEnrolment": 100,
+   "slotId": 23,
+   "venueId": 2
+  },
+  {
+   "courseCode": "ENT211",
+   "title": "Entrepreneurship and Innovation",
+   "unitLoad": 2,
+   "level": 200,
+   "programme": "Computer Science",
+   "expectedEnrolment": 110,
+   "slotId": 9,
+   "venueId": 2
+  },
+  {
+   "courseCode": "CSC301",
+   "title": "Structured Programming",
+   "unitLoad": 3,
+   "level": 300,
+   "programme": "Computer Science",
+   "expectedEnrolment": 50,
+   "slotId": 1,
+   "venueId": 5
+  },
+  {
+   "courseCode": "CSC303",
+   "title": "Data Structures and Algorithms",
+   "unitLoad": 3,
+   "level": 300,
+   "programme": "Computer Science",
+   "expectedEnrolment": 50,
+   "slotId": 6,
+   "venueId": 5
+  },
+  {
+   "courseCode": "CSC305",
+   "title": "Operating Systems",
+   "unitLoad": 3,
+   "level": 300,
+   "programme": "Computer Science",
+   "expectedEnrolment": 50,
+   "slotId": 11,
+   "venueId": 5
+  },
+  {
+   "courseCode": "CSC307",
+   "title": "Computer Architecture",
+   "unitLoad": 3,
+   "level": 300,
+   "programme": "Computer Science",
+   "expectedEnrolment": 50,
+   "slotId": 21,
+   "venueId": 5
+  },
+  {
+   "courseCode": "CSC309",
+   "title": "Database Design and Management",
+   "unitLoad": 3,
+   "level": 300,
+   "programme": "Computer Science",
+   "expectedEnrolment": 50,
+   "slotId": 2,
+   "venueId": 5
+  },
+  {
+   "courseCode": "CSC311",
+   "title": "Web Application Development",
+   "unitLoad": 2,
+   "level": 300,
+   "programme": "Computer Science",
+   "expectedEnrolment": 25,
+   "slotId": 19,
+   "venueId": 6
+  },
+  {
+   "courseCode": "CSC313",
+   "title": "Computer Graphics",
+   "unitLoad": 2,
+   "level": 300,
+   "programme": "Computer Science",
+   "expectedEnrolment": 25,
+   "slotId": 19,
+   "venueId": 5
+  },
+  {
+   "courseCode": "CSC401",
+   "title": "Software Engineering",
+   "unitLoad": 3,
+   "level": 400,
+   "programme": "Computer Science",
+   "expectedEnrolment": 45,
+   "slotId": 10,
+   "venueId": 5
+  },
+  {
+   "courseCode": "CSC403",
+   "title": "Artificial Intelligence",
+   "unitLoad": 3,
+   "level": 400,
+   "programme": "Computer Science",
+   "expectedEnrolment": 45,
+   "slotId": 18,
+   "venueId": 5
+  },
+  {
+   "courseCode": "CSC405",
+   "title": "Computer Networks and Communication",
+   "unitLoad": 3,
+   "level": 400,
+   "programme": "Computer Science",
+   "expectedEnrolment": 45,
+   "slotId": 24,
+   "venueId": 5
+  },
+  {
+   "courseCode": "CSC407",
+   "title": "Research Methodology",
+   "unitLoad": 2,
+   "level": 400,
+   "programme": "Computer Science",
+   "expectedEnrolment": 45,
+   "slotId": 1,
+   "venueId": 3
+  },
+  {
+   "courseCode": "CSC409",
+   "title": "Cloud Computing",
+   "unitLoad": 2,
+   "level": 400,
+   "programme": "Computer Science",
+   "expectedEnrolment": 25,
+   "slotId": 14,
+   "venueId": 6
+  },
+  {
+   "courseCode": "CSC411",
+   "title": "Cyber Security",
+   "unitLoad": 2,
+   "level": 400,
+   "programme": "Computer Science",
+   "expectedEnrolment": 25,
+   "slotId": 14,
+   "venueId": 5
+  }
+ ],
+ "timeSlots": [
+  {
+   "slotId": 1,
+   "day": "Mon",
+   "start": "08:00",
+   "end": "10:00"
+  },
+  {
+   "slotId": 2,
+   "day": "Mon",
+   "start": "10:00",
+   "end": "12:00"
+  },
+  {
+   "slotId": 3,
+   "day": "Mon",
+   "start": "12:00",
+   "end": "14:00"
+  },
+  {
+   "slotId": 4,
+   "day": "Mon",
+   "start": "14:00",
+   "end": "16:00"
+  },
+  {
+   "slotId": 5,
+   "day": "Mon",
+   "start": "16:00",
+   "end": "18:00"
+  },
+  {
+   "slotId": 6,
+   "day": "Tue",
+   "start": "08:00",
+   "end": "10:00"
+  },
+  {
+   "slotId": 7,
+   "day": "Tue",
+   "start": "10:00",
+   "end": "12:00"
+  },
+  {
+   "slotId": 8,
+   "day": "Tue",
+   "start": "12:00",
+   "end": "14:00"
+  },
+  {
+   "slotId": 9,
+   "day": "Tue",
+   "start": "14:00",
+   "end": "16:00"
+  },
+  {
+   "slotId": 10,
+   "day": "Tue",
+   "start": "16:00",
+   "end": "18:00"
+  },
+  {
+   "slotId": 11,
+   "day": "Wed",
+   "start": "08:00",
+   "end": "10:00"
+  },
+  {
+   "slotId": 12,
+   "day": "Wed",
+   "start": "10:00",
+   "end": "12:00"
+  },
+  {
+   "slotId": 13,
+   "day": "Wed",
+   "start": "12:00",
+   "end": "14:00"
+  },
+  {
+   "slotId": 14,
+   "day": "Wed",
+   "start": "14:00",
+   "end": "16:00"
+  },
+  {
+   "slotId": 15,
+   "day": "Wed",
+   "start": "16:00",
+   "end": "18:00"
+  },
+  {
+   "slotId": 16,
+   "day": "Thu",
+   "start": "08:00",
+   "end": "10:00"
+  },
+  {
+   "slotId": 17,
+   "day": "Thu",
+   "start": "10:00",
+   "end": "12:00"
+  },
+  {
+   "slotId": 18,
+   "day": "Thu",
+   "start": "12:00",
+   "end": "14:00"
+  },
+  {
+   "slotId": 19,
+   "day": "Thu",
+   "start": "14:00",
+   "end": "16:00"
+  },
+  {
+   "slotId": 20,
+   "day": "Thu",
+   "start": "16:00",
+   "end": "18:00"
+  },
+  {
+   "slotId": 21,
+   "day": "Fri",
+   "start": "08:00",
+   "end": "10:00"
+  },
+  {
+   "slotId": 22,
+   "day": "Fri",
+   "start": "10:00",
+   "end": "12:00"
+  },
+  {
+   "slotId": 23,
+   "day": "Fri",
+   "start": "12:00",
+   "end": "14:00"
+  },
+  {
+   "slotId": 24,
+   "day": "Fri",
+   "start": "14:00",
+   "end": "16:00"
+  },
+  {
+   "slotId": 25,
+   "day": "Fri",
+   "start": "16:00",
+   "end": "18:00"
+  }
+ ],
+ "venues": [
+  {
+   "venueId": 1,
+   "name": "Lecture Theatre 1",
+   "capacity": 250
+  },
+  {
+   "venueId": 2,
+   "name": "Lecture Theatre 2",
+   "capacity": 120
+  },
+  {
+   "venueId": 3,
+   "name": "Faculty Hall A",
+   "capacity": 60
+  },
+  {
+   "venueId": 4,
+   "name": "Faculty Hall B",
+   "capacity": 60
+  },
+  {
+   "venueId": 5,
+   "name": "Computer Lab 1",
+   "capacity": 50
+  },
+  {
+   "venueId": 6,
+   "name": "Computer Lab 2",
+   "capacity": 40
+  }
+ ],
+ "registrations": [
+  {
+   "regId": "a5d39ac1-3276-454b-91d3-25ddf2624614",
+   "studentId": "CSC/2025/001",
+   "courseCode": "CSC101",
+   "session": "2025/2026",
+   "status": "REGISTERED"
+  },
+  {
+   "regId": "c86cf094-da3b-4da0-ad34-e649f54403e0",
+   "studentId": "CSC/2025/001",
+   "courseCode": "MTH101",
+   "session": "2025/2026",
+   "status": "REGISTERED"
+  },
+  {
+   "regId": "26f5d6e2-7f1f-4a5d-8132-7f817d937b8a",
+   "studentId": "CSC/2025/001",
+   "courseCode": "PHY101",
+   "session": "2025/2026",
+   "status": "REGISTERED"
+  },
+  {
+   "regId": "974fc1ce-1a64-4b7f-b2c6-4151a1e6f2ef",
+   "studentId": "CSC/2025/001",
+   "courseCode": "CHM101",
+   "session": "2025/2026",
+   "status": "REGISTERED"
+  },
+  {
+   "regId": "44d238a0-e108-4ce5-bdeb-7e8f85acb48e",
+   "studentId": "CSC/2025/001",
+   "courseCode": "GST111",
+   "session": "2025/2026",
+   "status": "REGISTERED"
+  },
+  {
+   "regId": "f3f916d5-4e05-45ef-ac51-d8fd9ec26607",
+   "studentId": "CSC/2025/001",
+   "courseCode": "PHY107",
+   "session": "2025/2026",
+   "status": "REGISTERED"
+  },
+  {
+   "regId": "b91f22ac-f761-45be-b211-ab1b6b741819",
+   "studentId": "CSC/2025/002",
+   "courseCode": "CSC101",
+   "session": "2025/2026",
+   "status": "REGISTERED"
+  },
+  {
+   "regId": "0108148f-5b60-4c9f-bb1f-4b37ed4bd572",
+   "studentId": "CSC/2025/002",
+   "courseCode": "PHY101",
+   "session": "2025/2026",
+   "status": "REGISTERED"
+  },
+  {
+   "regId": "56fc2c88-4a9d-476e-935a-d9e9d3e421a0",
+   "studentId": "CSC/2025/002",
+   "courseCode": "CHM101",
+   "session": "2025/2026",
+   "status": "REGISTERED"
+  },
+  {
+   "regId": "56d8c412-2c57-4845-9e3a-78d5cabb7038",
+   "studentId": "CSC/2025/002",
+   "courseCode": "GST111",
+   "session": "2025/2026",
+   "status": "REGISTERED"
+  },
+  {
+   "regId": "229be3ab-4260-4d58-9987-13eb7dbeb47b",
+   "studentId": "CSC/2025/002",
+   "courseCode": "PHY107",
+   "session": "2025/2026",
+   "status": "REGISTERED"
+  },
+  {
+   "regId": "07b66d21-19b3-4e77-bc2f-1e2737a248b3",
+   "studentId": "CSC/2025/003",
+   "courseCode": "MTH101",
+   "session": "2025/2026",
+   "status": "REGISTERED"
+  },
+  {
+   "regId": "5b27aa1b-b176-474e-808a-12ceced847de",
+   "studentId": "CSC/2025/003",
+   "courseCode": "PHY101",
+   "session": "2025/2026",
+   "status": "REGISTERED"
+  },
+  {
+   "regId": "72c4bd7e-3b24-4646-bc1f-53bc454e9053",
+   "studentId": "CSC/2025/003",
+   "courseCode": "CHM101",
+   "session": "2025/2026",
+   "status": "REGISTERED"
+  },
+  {
+   "regId": "7150df5d-a8c9-4e30-8e26-a67584018b44",
+   "studentId": "CSC/2025/003",
+   "courseCode": "GST111",
+   "session": "2025/2026",
+   "status": "REGISTERED"
+  },
+  {
+   "regId": "81b93dc2-4ec8-4e80-a61f-26118b597b53",
+   "studentId": "CSC/2025/003",
+   "courseCode": "PHY107",
+   "session": "2025/2026",
+   "status": "REGISTERED"
+  },
+  {
+   "regId": "85543db0-f715-4b14-b4f8-3d8864dfa19a",
+   "studentId": "CSC/2025/004",
+   "courseCode": "CSC101",
+   "session": "2025/2026",
+   "status": "REGISTERED"
+  },
+  {
+   "regId": "a8b51255-0e9e-418b-9a5d-f6e55b5389a2",
+   "studentId": "CSC/2025/004",
+   "courseCode": "MTH101",
+   "session": "2025/2026",
+   "status": "REGISTERED"
+  },
+  {
+   "regId": "113e86b4-cadf-49f1-9c98-dfee3e2ca7a1",
+   "studentId": "CSC/2025/004",
+   "courseCode": "CHM101",
+   "session": "2025/2026",
+   "status": "REGISTERED"
+  },
+  {
+   "regId": "bc4ddd90-ac11-4826-8a4b-cdf9ac30088c",
+   "studentId": "CSC/2025/004",
+   "courseCode": "GST111",
+   "session": "2025/2026",
+   "status": "REGISTERED"
+  },
+  {
+   "regId": "6281ba7d-7f14-4c49-bdea-3cdb25e141b6",
+   "studentId": "CSC/2025/004",
+   "courseCode": "PHY107",
+   "session": "2025/2026",
+   "status": "REGISTERED"
+  },
+  {
+   "regId": "13af8711-c625-4542-b78c-f26e08e59418",
+   "studentId": "CSC/2025/005",
+   "courseCode": "CSC101",
+   "session": "2025/2026",
+   "status": "REGISTERED"
+  },
+  {
+   "regId": "dcf1e6b4-4a8d-4c72-8f54-bd4cf37bb92a",
+   "studentId": "CSC/2025/005",
+   "courseCode": "MTH101",
+   "session": "2025/2026",
+   "status": "REGISTERED"
+  },
+  {
+   "regId": "2b6902ec-5fff-4678-a95f-4c5fc8f7d5ff",
+   "studentId": "CSC/2025/005",
+   "courseCode": "PHY101",
+   "session": "2025/2026",
+   "status": "REGISTERED"
+  },
+  {
+   "regId": "7d28bc0b-ff8c-41b7-925d-2a3277c4d1a4",
+   "studentId": "CSC/2025/005",
+   "courseCode": "CHM101",
+   "session": "2025/2026",
+   "status": "REGISTERED"
+  },
+  {
+   "regId": "ee8be176-0996-4103-80ab-fc0cdc094536",
+   "studentId": "CSC/2025/005",
+   "courseCode": "GST111",
+   "session": "2025/2026",
+   "status": "REGISTERED"
+  },
+  {
+   "regId": "e5e2bd17-49ae-4195-988e-3d566fd68563",
+   "studentId": "CSC/2025/005",
+   "courseCode": "PHY107",
+   "session": "2025/2026",
+   "status": "REGISTERED"
+  },
+  {
+   "regId": "0c99ae8f-6312-451d-9cf0-a774c21f6394",
+   "studentId": "CSC/2025/006",
+   "courseCode": "CSC101",
+   "session": "2025/2026",
+   "status": "REGISTERED"
+  },
+  {
+   "regId": "bb91c8f0-a0d7-41ea-9d89-df49001f7da9",
+   "studentId": "CSC/2025/006",
+   "courseCode": "MTH101",
+   "session": "2025/2026",
+   "status": "REGISTERED"
+  },
+  {
+   "regId": "0248cc7d-f5b6-46bb-9da0-745800b4f70c",
+   "studentId": "CSC/2025/006",
+   "courseCode": "PHY101",
+   "session": "2025/2026",
+   "status": "REGISTERED"
+  },
+  {
+   "regId": "a00bf422-9813-4d3b-8859-ed5d8723c68e",
+   "studentId": "CSC/2025/006",
+   "courseCode": "CHM101",
+   "session": "2025/2026",
+   "status": "REGISTERED"
+  },
+  {
+   "regId": "06bf8642-535e-4c0c-ae3a-23bc92168f19",
+   "studentId": "CSC/2025/006",
+   "courseCode": "GST111",
+   "session": "2025/2026",
+   "status": "REGISTERED"
+  },
+  {
+   "regId": "9257800d-64ad-459f-89af-473cf6e3175e",
+   "studentId": "CSC/2025/006",
+   "courseCode": "PHY107",
+   "session": "2025/2026",
+   "status": "REGISTERED"
+  },
+  {
+   "regId": "d5784472-c263-43a7-97f2-ee8183c35ae1",
+   "studentId": "CSC/2025/007",
+   "courseCode": "CSC101",
+   "session": "2025/2026",
+   "status": "REGISTERED"
+  },
+  {
+   "regId": "bd4026cf-93c0-42c6-a36d-7a399929c855",
+   "studentId": "CSC/2025/007",
+   "courseCode": "MTH101",
+   "session": "2025/2026",
+   "status": "REGISTERED"
+  },
+  {
+   "regId": "f65f1cc1-d0fb-4e15-8865-432221372d0d",
+   "studentId": "CSC/2025/007",
+   "courseCode": "PHY101",
+   "session": "2025/2026",
+   "status": "REGISTERED"
+  },
+  {
+   "regId": "ace3ccf3-52ce-4adb-b669-3dc2ba769161",
+   "studentId": "CSC/2025/007",
+   "courseCode": "CHM101",
+   "session": "2025/2026",
+   "status": "REGISTERED"
+  },
+  {
+   "regId": "2e3f1f6b-d64b-4d32-a609-f29ac58cd48c",
+   "studentId": "CSC/2025/007",
+   "courseCode": "GST111",
+   "session": "2025/2026",
+   "status": "REGISTERED"
+  },
+  {
+   "regId": "14e88f35-2f97-45c1-92da-e74e893ac5ea",
+   "studentId": "CSC/2025/007",
+   "courseCode": "PHY107",
+   "session": "2025/2026",
+   "status": "REGISTERED"
+  },
+  {
+   "regId": "58d516bc-25d5-4623-91ec-6425dd2fc20f",
+   "studentId": "CSC/2025/008",
+   "courseCode": "CSC101",
+   "session": "2025/2026",
+   "status": "REGISTERED"
+  },
+  {
+   "regId": "a5dc4e52-5a9f-4d97-9dec-52043ecb4473",
+   "studentId": "CSC/2025/008",
+   "courseCode": "MTH101",
+   "session": "2025/2026",
+   "status": "REGISTERED"
+  },
+  {
+   "regId": "f2749cde-3405-4221-94a8-c16ab3af2a93",
+   "studentId": "CSC/2025/008",
+   "courseCode": "PHY101",
+   "session": "2025/2026",
+   "status": "REGISTERED"
+  },
+  {
+   "regId": "addddc77-527f-42f5-8bc8-2349eca542f9",
+   "studentId": "CSC/2025/008",
+   "courseCode": "CHM101",
+   "session": "2025/2026",
+   "status": "REGISTERED"
+  },
+  {
+   "regId": "b1bc8309-aaff-4882-b72d-8da752f8e2a1",
+   "studentId": "CSC/2025/008",
+   "courseCode": "GST111",
+   "session": "2025/2026",
+   "status": "REGISTERED"
+  },
+  {
+   "regId": "f7e952ac-02ae-45f0-ae20-5613f898abff",
+   "studentId": "CSC/2025/008",
+   "courseCode": "PHY107",
+   "session": "2025/2026",
+   "status": "REGISTERED"
+  },
+  {
+   "regId": "337bda70-6669-41e9-9217-c637e510efb4",
+   "studentId": "CSC/2025/009",
+   "courseCode": "CSC101",
+   "session": "2025/2026",
+   "status": "REGISTERED"
+  },
+  {
+   "regId": "2b15a4de-d866-4d03-b5d9-a90b01a9d476",
+   "studentId": "CSC/2025/009",
+   "courseCode": "MTH101",
+   "session": "2025/2026",
+   "status": "REGISTERED"
+  },
+  {
+   "regId": "964cb46c-231e-43d1-ba85-a9aeabe58c53",
+   "studentId": "CSC/2025/009",
+   "courseCode": "PHY101",
+   "session": "2025/2026",
+   "status": "REGISTERED"
+  },
+  {
+   "regId": "39fdb6d1-1134-4ab7-b3b8-de26db7ccaf6",
+   "studentId": "CSC/2025/009",
+   "courseCode": "CHM101",
+   "session": "2025/2026",
+   "status": "REGISTERED"
+  },
+  {
+   "regId": "2579760c-01c9-4b6e-842e-3bb5f757a055",
+   "studentId": "CSC/2025/009",
+   "courseCode": "GST111",
+   "session": "2025/2026",
+   "status": "REGISTERED"
+  },
+  {
+   "regId": "8e9ab6fb-2a3f-4136-9185-582c623a5a66",
+   "studentId": "CSC/2025/009",
+   "courseCode": "PHY107",
+   "session": "2025/2026",
+   "status": "REGISTERED"
+  },
+  {
+   "regId": "f0c940dc-7070-4d2c-974e-c59a400ee6e0",
+   "studentId": "CSC/2025/010",
+   "courseCode": "CSC101",
+   "session": "2025/2026",
+   "status": "REGISTERED"
+  },
+  {
+   "regId": "2679d7da-d088-4d88-b328-06287b9bc2b5",
+   "studentId": "CSC/2025/010",
+   "courseCode": "MTH101",
+   "session": "2025/2026",
+   "status": "REGISTERED"
+  },
+  {
+   "regId": "fc77a6ad-056b-4ca2-8708-20299eaaccaf",
+   "studentId": "CSC/2025/010",
+   "courseCode": "PHY101",
+   "session": "2025/2026",
+   "status": "REGISTERED"
+  },
+  {
+   "regId": "6c61c14b-d186-4f7b-aecc-f7b7fe0fa3e0",
+   "studentId": "CSC/2025/010",
+   "courseCode": "CHM101",
+   "session": "2025/2026",
+   "status": "REGISTERED"
+  },
+  {
+   "regId": "060320db-a2ce-4e81-8353-66749539ae8c",
+   "studentId": "CSC/2025/010",
+   "courseCode": "GST111",
+   "session": "2025/2026",
+   "status": "REGISTERED"
+  },
+  {
+   "regId": "be54b930-aa12-4891-9c12-755493cfa1a1",
+   "studentId": "CSC/2025/010",
+   "courseCode": "PHY107",
+   "session": "2025/2026",
+   "status": "REGISTERED"
+  },
+  {
+   "regId": "3256842e-dbd6-476f-adfe-aa22e51ef97f",
+   "studentId": "CSC/2025/011",
+   "courseCode": "CSC101",
+   "session": "2025/2026",
+   "status": "REGISTERED"
+  },
+  {
+   "regId": "b2e19abd-7b2b-432e-96ad-b0feda344806",
+   "studentId": "CSC/2025/011",
+   "courseCode": "PHY101",
+   "session": "2025/2026",
+   "status": "REGISTERED"
+  },
+  {
+   "regId": "7da4d7d7-8234-43a8-a872-a7d434d6aed6",
+   "studentId": "CSC/2025/011",
+   "courseCode": "CHM101",
+   "session": "2025/2026",
+   "status": "REGISTERED"
+  },
+  {
+   "regId": "4e1036f5-1e31-4361-aec5-11cf0679485b",
+   "studentId": "CSC/2025/011",
+   "courseCode": "PHY107",
+   "session": "2025/2026",
+   "status": "REGISTERED"
+  },
+  {
+   "regId": "f4bee8a7-ea59-42a2-b3e2-df43b2bb31fe",
+   "studentId": "CSC/2025/012",
+   "courseCode": "CSC101",
+   "session": "2025/2026",
+   "status": "REGISTERED"
+  },
+  {
+   "regId": "0f0ad38c-a65a-47c7-938b-aec45ac812fe",
+   "studentId": "CSC/2025/012",
+   "courseCode": "MTH101",
+   "session": "2025/2026",
+   "status": "REGISTERED"
+  },
+  {
+   "regId": "d44a773c-b538-43ee-ae48-6e18d87a96e8",
+   "studentId": "CSC/2025/012",
+   "courseCode": "PHY101",
+   "session": "2025/2026",
+   "status": "REGISTERED"
+  },
+  {
+   "regId": "faf7fd76-374f-4a44-8447-a49fde8373ce",
+   "studentId": "CSC/2025/012",
+   "courseCode": "CHM101",
+   "session": "2025/2026",
+   "status": "REGISTERED"
+  },
+  {
+   "regId": "25d5b788-f502-4f0d-b4c2-b3435879ce80",
+   "studentId": "CSC/2025/012",
+   "courseCode": "GST111",
+   "session": "2025/2026",
+   "status": "REGISTERED"
+  },
+  {
+   "regId": "345902ee-0244-4cbd-8377-a85c788ddc5a",
+   "studentId": "CSC/2025/012",
+   "courseCode": "PHY107",
+   "session": "2025/2026",
+   "status": "REGISTERED"
+  },
+  {
+   "regId": "db08e7c2-cce4-4036-960b-126dc4cc4762",
+   "studentId": "CSC/2025/013",
+   "courseCode": "CSC101",
+   "session": "2025/2026",
+   "status": "REGISTERED"
+  },
+  {
+   "regId": "a6ac618d-6790-4927-91fb-0bc20688ccb3",
+   "studentId": "CSC/2025/013",
+   "courseCode": "MTH101",
+   "session": "2025/2026",
+   "status": "REGISTERED"
+  },
+  {
+   "regId": "e558d8df-9005-44a0-98fb-cd94bc9b25d5",
+   "studentId": "CSC/2025/013",
+   "courseCode": "PHY101",
+   "session": "2025/2026",
+   "status": "REGISTERED"
+  },
+  {
+   "regId": "c96fe93f-71fd-428b-b3c1-6934e7b19580",
+   "studentId": "CSC/2025/013",
+   "courseCode": "CHM101",
+   "session": "2025/2026",
+   "status": "REGISTERED"
+  },
+  {
+   "regId": "2ff51a9b-60ac-42bb-bd70-06213a973ad1",
+   "studentId": "CSC/2025/013",
+   "courseCode": "GST111",
+   "session": "2025/2026",
+   "status": "REGISTERED"
+  },
+  {
+   "regId": "283044d4-78f2-486a-84f6-a845ceeba391",
+   "studentId": "CSC/2025/013",
+   "courseCode": "PHY107",
+   "session": "2025/2026",
+   "status": "REGISTERED"
+  },
+  {
+   "regId": "4734aec7-1fc3-4f12-be0a-2c37431e5c2b",
+   "studentId": "CSC/2025/014",
+   "courseCode": "CSC101",
+   "session": "2025/2026",
+   "status": "REGISTERED"
+  },
+  {
+   "regId": "0d121ce6-3944-4586-8f5d-3ba1937fbde0",
+   "studentId": "CSC/2025/014",
+   "courseCode": "MTH101",
+   "session": "2025/2026",
+   "status": "REGISTERED"
+  },
+  {
+   "regId": "79b36cea-2cdb-48db-bf81-4364e0db653e",
+   "studentId": "CSC/2025/014",
+   "courseCode": "PHY101",
+   "session": "2025/2026",
+   "status": "REGISTERED"
+  },
+  {
+   "regId": "69c3caa2-ffbd-4491-a5ec-58daa8c77c70",
+   "studentId": "CSC/2025/014",
+   "courseCode": "CHM101",
+   "session": "2025/2026",
+   "status": "REGISTERED"
+  },
+  {
+   "regId": "cd5e0a65-efad-420b-8359-78b3818935f6",
+   "studentId": "CSC/2025/014",
+   "courseCode": "GST111",
+   "session": "2025/2026",
+   "status": "REGISTERED"
+  },
+  {
+   "regId": "c4e00b56-efbf-4338-bd52-b7a3d05ea9c3",
+   "studentId": "CSC/2025/014",
+   "courseCode": "PHY107",
+   "session": "2025/2026",
+   "status": "REGISTERED"
+  },
+  {
+   "regId": "b3333ef5-a691-48c0-b41b-6ab93a2bbe5e",
+   "studentId": "CSC/2025/015",
+   "courseCode": "CSC101",
+   "session": "2025/2026",
+   "status": "REGISTERED"
+  },
+  {
+   "regId": "a4ea16cc-bea9-40ac-b2b3-7e113e160f84",
+   "studentId": "CSC/2025/015",
+   "courseCode": "MTH101",
+   "session": "2025/2026",
+   "status": "REGISTERED"
+  },
+  {
+   "regId": "6dee0277-329e-40de-b945-3b63e24e0a44",
+   "studentId": "CSC/2025/015",
+   "courseCode": "PHY101",
+   "session": "2025/2026",
+   "status": "REGISTERED"
+  },
+  {
+   "regId": "47a8921b-d6f5-47fd-a755-4ac88ad32dbf",
+   "studentId": "CSC/2025/015",
+   "courseCode": "CHM101",
+   "session": "2025/2026",
+   "status": "REGISTERED"
+  },
+  {
+   "regId": "ad53f333-cc26-462b-a44d-590bd511b63e",
+   "studentId": "CSC/2025/015",
+   "courseCode": "GST111",
+   "session": "2025/2026",
+   "status": "REGISTERED"
+  },
+  {
+   "regId": "28e6497f-934a-4b71-ab47-ff37fe227cb1",
+   "studentId": "CSC/2025/015",
+   "courseCode": "PHY107",
+   "session": "2025/2026",
+   "status": "REGISTERED"
+  },
+  {
+   "regId": "e9d0c494-b65b-4c8a-b719-607f6adaa768",
+   "studentId": "CSC/2025/016",
+   "courseCode": "CSC101",
+   "session": "2025/2026",
+   "status": "REGISTERED"
+  },
+  {
+   "regId": "4d2af7fe-b43f-444f-beb5-9b942c241fa5",
+   "studentId": "CSC/2025/016",
+   "courseCode": "MTH101",
+   "session": "2025/2026",
+   "status": "REGISTERED"
+  },
+  {
+   "regId": "0bc57851-0de7-48a2-8281-fe1d1aa593ce",
+   "studentId": "CSC/2025/016",
+   "courseCode": "PHY101",
+   "session": "2025/2026",
+   "status": "REGISTERED"
+  },
+  {
+   "regId": "cc572abc-5357-458d-ba92-4693b5655a20",
+   "studentId": "CSC/2025/016",
+   "courseCode": "CHM101",
+   "session": "2025/2026",
+   "status": "REGISTERED"
+  },
+  {
+   "regId": "177d2851-755f-46a5-806b-46552498c13d",
+   "studentId": "CSC/2025/016",
+   "courseCode": "PHY107",
+   "session": "2025/2026",
+   "status": "REGISTERED"
+  },
+  {
+   "regId": "d2950d85-be31-4c55-8744-4bfc1057298a",
+   "studentId": "CSC/2025/017",
+   "courseCode": "MTH101",
+   "session": "2025/2026",
+   "status": "REGISTERED"
+  },
+  {
+   "regId": "501039ef-60a8-4701-ab4d-ad7932dcd97c",
+   "studentId": "CSC/2025/017",
+   "courseCode": "PHY101",
+   "session": "2025/2026",
+   "status": "REGISTERED"
+  },
+  {
+   "regId": "5d1f70c5-59c1-400c-86ff-3980bf669ff7",
+   "studentId": "CSC/2025/017",
+   "courseCode": "CHM101",
+   "session": "2025/2026",
+   "status": "REGISTERED"
+  },
+  {
+   "regId": "d8a44770-b079-4b01-ab3d-62e5bf5756f6",
+   "studentId": "CSC/2025/017",
+   "courseCode": "GST111",
+   "session": "2025/2026",
+   "status": "REGISTERED"
+  },
+  {
+   "regId": "34ba61cc-0e3b-4298-89b1-fe2ba758c3ff",
+   "studentId": "CSC/2025/017",
+   "courseCode": "PHY107",
+   "session": "2025/2026",
+   "status": "REGISTERED"
+  },
+  {
+   "regId": "601a38e1-71a1-48ab-8008-07820c3fe16a",
+   "studentId": "CSC/2025/018",
+   "courseCode": "CSC101",
+   "session": "2025/2026",
+   "status": "REGISTERED"
+  },
+  {
+   "regId": "e7f1add7-6de8-46ac-8f68-925b5b36c39c",
+   "studentId": "CSC/2025/018",
+   "courseCode": "MTH101",
+   "session": "2025/2026",
+   "status": "REGISTERED"
+  },
+  {
+   "regId": "1bc735c3-3235-45dd-8479-18b5c9458cbf",
+   "studentId": "CSC/2025/018",
+   "courseCode": "PHY101",
+   "session": "2025/2026",
+   "status": "REGISTERED"
+  },
+  {
+   "regId": "292e2bca-5110-43ee-8e8b-235d19731d8f",
+   "studentId": "CSC/2025/018",
+   "courseCode": "CHM101",
+   "session": "2025/2026",
+   "status": "REGISTERED"
+  },
+  {
+   "regId": "44d40999-195f-49c1-b593-517a750f5dab",
+   "studentId": "CSC/2025/018",
+   "courseCode": "GST111",
+   "session": "2025/2026",
+   "status": "REGISTERED"
+  },
+  {
+   "regId": "5c1ad34d-3fc2-4879-8710-39c70c8f239e",
+   "studentId": "CSC/2025/018",
+   "courseCode": "PHY107",
+   "session": "2025/2026",
+   "status": "REGISTERED"
+  },
+  {
+   "regId": "13920711-8938-4121-8039-9d52813991b7",
+   "studentId": "CSC/2025/019",
+   "courseCode": "CSC101",
+   "session": "2025/2026",
+   "status": "REGISTERED"
+  },
+  {
+   "regId": "e95e7c5c-5398-4160-8e50-33aedee71d96",
+   "studentId": "CSC/2025/019",
+   "courseCode": "MTH101",
+   "session": "2025/2026",
+   "status": "REGISTERED"
+  },
+  {
+   "regId": "c734a4ec-6f32-4453-b959-e25bffd83751",
+   "studentId": "CSC/2025/019",
+   "courseCode": "PHY101",
+   "session": "2025/2026",
+   "status": "REGISTERED"
+  },
+  {
+   "regId": "1e727ad9-0f3b-4b46-adbf-5f7167749d87",
+   "studentId": "CSC/2025/019",
+   "courseCode": "CHM101",
+   "session": "2025/2026",
+   "status": "REGISTERED"
+  },
+  {
+   "regId": "d2517b52-168a-4538-bd6c-6bafa6fed619",
+   "studentId": "CSC/2025/019",
+   "courseCode": "GST111",
+   "session": "2025/2026",
+   "status": "REGISTERED"
+  },
+  {
+   "regId": "60e5888a-d9b2-48c4-a64f-2b5e3a8d788e",
+   "studentId": "CSC/2025/019",
+   "courseCode": "PHY107",
+   "session": "2025/2026",
+   "status": "REGISTERED"
+  },
+  {
+   "regId": "cc061b5b-98e5-456f-a8f7-dab0c1b5b813",
+   "studentId": "CSC/2025/020",
+   "courseCode": "MTH101",
+   "session": "2025/2026",
+   "status": "REGISTERED"
+  },
+  {
+   "regId": "7a4962ad-114d-4a23-87ab-68c590446ca6",
+   "studentId": "CSC/2025/020",
+   "courseCode": "PHY101",
+   "session": "2025/2026",
+   "status": "REGISTERED"
+  },
+  {
+   "regId": "b3302be6-ddd3-4d59-aae6-dcde8a6315ec",
+   "studentId": "CSC/2025/020",
+   "courseCode": "GST111",
+   "session": "2025/2026",
+   "status": "REGISTERED"
+  },
+  {
+   "regId": "ee18cb8b-3448-404f-860c-63027cd01b6a",
+   "studentId": "CSC/2025/020",
+   "courseCode": "PHY107",
+   "session": "2025/2026",
+   "status": "REGISTERED"
+  },
+  {
+   "regId": "4d1fb89d-232e-4439-9f69-2c13f9a96c19",
+   "studentId": "CSC/2025/021",
+   "courseCode": "CSC101",
+   "session": "2025/2026",
+   "status": "REGISTERED"
+  },
+  {
+   "regId": "121f9fda-4292-47d1-a36a-240f86ed0a18",
+   "studentId": "CSC/2025/021",
+   "courseCode": "MTH101",
+   "session": "2025/2026",
+   "status": "REGISTERED"
+  },
+  {
+   "regId": "1903cda3-68bb-487a-9929-d7354b0e6ca0",
+   "studentId": "CSC/2025/021",
+   "courseCode": "PHY101",
+   "session": "2025/2026",
+   "status": "REGISTERED"
+  },
+  {
+   "regId": "e660668c-1829-4e5b-87ba-2fcef630aab3",
+   "studentId": "CSC/2025/021",
+   "courseCode": "CHM101",
+   "session": "2025/2026",
+   "status": "REGISTERED"
+  },
+  {
+   "regId": "f9dcfae2-c983-4601-ade9-9d0bd38024fc",
+   "studentId": "CSC/2025/021",
+   "courseCode": "GST111",
+   "session": "2025/2026",
+   "status": "REGISTERED"
+  },
+  {
+   "regId": "bbe20dff-c600-4ba1-824f-3d0d2d6fc8e5",
+   "studentId": "CSC/2025/021",
+   "courseCode": "PHY107",
+   "session": "2025/2026",
+   "status": "REGISTERED"
+  },
+  {
+   "regId": "13cf7c1c-8d31-4f19-8a47-c7193c3a32af",
+   "studentId": "CSC/2025/023",
+   "courseCode": "CSC101",
+   "session": "2025/2026",
+   "status": "REGISTERED"
+  },
+  {
+   "regId": "d99e93f6-7330-4613-8b23-3f55a79d7a80",
+   "studentId": "CSC/2025/023",
+   "courseCode": "MTH101",
+   "session": "2025/2026",
+   "status": "REGISTERED"
+  },
+  {
+   "regId": "b10f92f8-aa68-4ce5-a1a7-7954376b36f4",
+   "studentId": "CSC/2025/023",
+   "courseCode": "PHY101",
+   "session": "2025/2026",
+   "status": "REGISTERED"
+  },
+  {
+   "regId": "8329eb72-495f-4c25-89a3-2eb1502f0fd4",
+   "studentId": "CSC/2025/023",
+   "courseCode": "CHM101",
+   "session": "2025/2026",
+   "status": "REGISTERED"
+  },
+  {
+   "regId": "a856bd37-63d6-4c49-9f18-6e35d336a898",
+   "studentId": "CSC/2025/023",
+   "courseCode": "GST111",
+   "session": "2025/2026",
+   "status": "REGISTERED"
+  },
+  {
+   "regId": "d27e93cf-4dd8-44b6-9e0d-0fc81abf7fa6",
+   "studentId": "CSC/2025/023",
+   "courseCode": "PHY107",
+   "session": "2025/2026",
+   "status": "REGISTERED"
+  },
+  {
+   "regId": "19b6c4ee-c639-4253-bd9d-2bd3f0c82fca",
+   "studentId": "CSC/2025/025",
+   "courseCode": "CSC101",
+   "session": "2025/2026",
+   "status": "REGISTERED"
+  },
+  {
+   "regId": "c175c38c-8a39-4236-bb11-9fe1e0b3e5eb",
+   "studentId": "CSC/2025/025",
+   "courseCode": "MTH101",
+   "session": "2025/2026",
+   "status": "REGISTERED"
+  },
+  {
+   "regId": "fe497f06-67fe-4364-be49-57ba280aebd9",
+   "studentId": "CSC/2025/025",
+   "courseCode": "PHY101",
+   "session": "2025/2026",
+   "status": "REGISTERED"
+  },
+  {
+   "regId": "c6ac4e3a-bf56-4e0f-a194-0208eb10a8be",
+   "studentId": "CSC/2025/025",
+   "courseCode": "CHM101",
+   "session": "2025/2026",
+   "status": "REGISTERED"
+  },
+  {
+   "regId": "8dbfde0e-7f42-419a-8e12-d5390a4bcab5",
+   "studentId": "CSC/2025/025",
+   "courseCode": "GST111",
+   "session": "2025/2026",
+   "status": "REGISTERED"
+  },
+  {
+   "regId": "2f3cd323-9f34-4491-865f-50ff47b2ee89",
+   "studentId": "CSC/2025/025",
+   "courseCode": "PHY107",
+   "session": "2025/2026",
+   "status": "REGISTERED"
+  },
+  {
+   "regId": "1878e5bf-a2fc-4550-9363-ab13ca3aa73c",
+   "studentId": "CSC/2025/026",
+   "courseCode": "CSC101",
+   "session": "2025/2026",
+   "status": "REGISTERED"
+  },
+  {
+   "regId": "fa3264e2-82c3-40e6-b6d0-f5ca0b0e9865",
+   "studentId": "CSC/2025/026",
+   "courseCode": "MTH101",
+   "session": "2025/2026",
+   "status": "REGISTERED"
+  },
+  {
+   "regId": "a0cc7128-8466-4fe8-9f7e-f7354c307e0b",
+   "studentId": "CSC/2025/026",
+   "courseCode": "PHY101",
+   "session": "2025/2026",
+   "status": "REGISTERED"
+  },
+  {
+   "regId": "fa58fb4c-123d-4b08-9546-65a9e1090254",
+   "studentId": "CSC/2025/026",
+   "courseCode": "CHM101",
+   "session": "2025/2026",
+   "status": "REGISTERED"
+  },
+  {
+   "regId": "dca446ec-7093-4af1-8ef8-f75ecd3ed232",
+   "studentId": "CSC/2025/026",
+   "courseCode": "GST111",
+   "session": "2025/2026",
+   "status": "REGISTERED"
+  },
+  {
+   "regId": "37eb4251-8643-405e-b5b7-f1a7b63ecc9c",
+   "studentId": "CSC/2025/026",
+   "courseCode": "PHY107",
+   "session": "2025/2026",
+   "status": "REGISTERED"
+  },
+  {
+   "regId": "2e71def2-034e-4734-be2b-f81c1906616a",
+   "studentId": "CSC/2025/028",
+   "courseCode": "CSC101",
+   "session": "2025/2026",
+   "status": "REGISTERED"
+  },
+  {
+   "regId": "65400e86-3d04-42b7-8ea3-3e7fe4ef3ad8",
+   "studentId": "CSC/2025/028",
+   "courseCode": "MTH101",
+   "session": "2025/2026",
+   "status": "REGISTERED"
+  },
+  {
+   "regId": "39be7e7d-d3d3-4d67-a917-56dd16732698",
+   "studentId": "CSC/2025/028",
+   "courseCode": "PHY101",
+   "session": "2025/2026",
+   "status": "REGISTERED"
+  },
+  {
+   "regId": "029f3e4a-8183-4fad-b73a-c2de8e345f4e",
+   "studentId": "CSC/2025/028",
+   "courseCode": "GST111",
+   "session": "2025/2026",
+   "status": "REGISTERED"
+  },
+  {
+   "regId": "0b63e46f-4de4-4433-82ad-c98c0ecc46e8",
+   "studentId": "CSC/2025/028",
+   "courseCode": "PHY107",
+   "session": "2025/2026",
+   "status": "REGISTERED"
+  },
+  {
+   "regId": "a0c4bd6f-2ab8-4907-8032-a2a94c0bd324",
+   "studentId": "CSC/2025/029",
+   "courseCode": "CSC101",
+   "session": "2025/2026",
+   "status": "REGISTERED"
+  },
+  {
+   "regId": "648c5605-dbdd-4e6b-b103-ba026abb5e36",
+   "studentId": "CSC/2025/029",
+   "courseCode": "MTH101",
+   "session": "2025/2026",
+   "status": "REGISTERED"
+  },
+  {
+   "regId": "229bd860-9398-4595-afab-6a51b8f5e755",
+   "studentId": "CSC/2025/029",
+   "courseCode": "PHY101",
+   "session": "2025/2026",
+   "status": "REGISTERED"
+  },
+  {
+   "regId": "120cfbb7-035f-47e5-8660-5342a19cee97",
+   "studentId": "CSC/2025/029",
+   "courseCode": "CHM101",
+   "session": "2025/2026",
+   "status": "REGISTERED"
+  },
+  {
+   "regId": "f49f9314-72e3-45fd-8b76-efdb5062a629",
+   "studentId": "CSC/2025/029",
+   "courseCode": "GST111",
+   "session": "2025/2026",
+   "status": "REGISTERED"
+  },
+  {
+   "regId": "33470d5a-317d-436c-9c5b-7b499470a958",
+   "studentId": "CSC/2025/029",
+   "courseCode": "PHY107",
+   "session": "2025/2026",
+   "status": "REGISTERED"
+  },
+  {
+   "regId": "cfe45724-b13a-476c-b0aa-dfe62ce34edc",
+   "studentId": "CSC/2025/030",
+   "courseCode": "CSC101",
+   "session": "2025/2026",
+   "status": "REGISTERED"
+  },
+  {
+   "regId": "f73569b3-1a5c-4a01-8c1b-ab696d9bb27d",
+   "studentId": "CSC/2025/030",
+   "courseCode": "MTH101",
+   "session": "2025/2026",
+   "status": "REGISTERED"
+  },
+  {
+   "regId": "99fbab92-429f-4d1c-b3d8-f292f830bf99",
+   "studentId": "CSC/2025/030",
+   "courseCode": "PHY101",
+   "session": "2025/2026",
+   "status": "REGISTERED"
+  },
+  {
+   "regId": "675f3f53-af67-42c6-a9a6-f5a29ea9fd3f",
+   "studentId": "CSC/2025/030",
+   "courseCode": "CHM101",
+   "session": "2025/2026",
+   "status": "REGISTERED"
+  },
+  {
+   "regId": "5e22f800-eb1a-4d93-b9e4-5480b4c4335c",
+   "studentId": "CSC/2025/030",
+   "courseCode": "GST111",
+   "session": "2025/2026",
+   "status": "REGISTERED"
+  },
+  {
+   "regId": "d09fe2a3-b664-40ed-a9d4-261663c03703",
+   "studentId": "CSC/2025/030",
+   "courseCode": "PHY107",
+   "session": "2025/2026",
+   "status": "REGISTERED"
+  },
+  {
+   "regId": "f2a7dc90-fe68-4845-8203-479428ec7a62",
+   "studentId": "CSC/2025/031",
+   "courseCode": "CSC101",
+   "session": "2025/2026",
+   "status": "REGISTERED"
+  },
+  {
+   "regId": "e58e56fe-d163-442d-b2e7-49177201ad49",
+   "studentId": "CSC/2025/031",
+   "courseCode": "MTH101",
+   "session": "2025/2026",
+   "status": "REGISTERED"
+  },
+  {
+   "regId": "7d0745f5-8e51-48f7-8a85-fab5ad1c7398",
+   "studentId": "CSC/2025/031",
+   "courseCode": "PHY101",
+   "session": "2025/2026",
+   "status": "REGISTERED"
+  },
+  {
+   "regId": "f4ba5916-cf26-4f5c-9940-73f85d7b4bb9",
+   "studentId": "CSC/2025/031",
+   "courseCode": "CHM101",
+   "session": "2025/2026",
+   "status": "REGISTERED"
+  },
+  {
+   "regId": "9129836a-ed49-4c35-8319-616d389e3d25",
+   "studentId": "CSC/2025/031",
+   "courseCode": "GST111",
+   "session": "2025/2026",
+   "status": "REGISTERED"
+  },
+  {
+   "regId": "c35e695e-b74d-41cf-b8a4-cd7d607abce3",
+   "studentId": "CSC/2025/031",
+   "courseCode": "PHY107",
+   "session": "2025/2026",
+   "status": "REGISTERED"
+  },
+  {
+   "regId": "fc9d7e1d-c916-4381-bdce-0b35cbac0904",
+   "studentId": "CSC/2025/032",
+   "courseCode": "CSC101",
+   "session": "2025/2026",
+   "status": "REGISTERED"
+  },
+  {
+   "regId": "c8423214-6351-4d7b-bb22-3d32b2a0dff9",
+   "studentId": "CSC/2025/032",
+   "courseCode": "MTH101",
+   "session": "2025/2026",
+   "status": "REGISTERED"
+  },
+  {
+   "regId": "ed5236e0-3a39-4f4e-8c59-edf32b6e7d1b",
+   "studentId": "CSC/2025/032",
+   "courseCode": "PHY101",
+   "session": "2025/2026",
+   "status": "REGISTERED"
+  },
+  {
+   "regId": "2dbe4f34-e86b-44fa-b2e9-1731b6797a1b",
+   "studentId": "CSC/2025/032",
+   "courseCode": "CHM101",
+   "session": "2025/2026",
+   "status": "REGISTERED"
+  },
+  {
+   "regId": "bdbaee2b-1162-450e-84b2-992422f82cb8",
+   "studentId": "CSC/2025/032",
+   "courseCode": "GST111",
+   "session": "2025/2026",
+   "status": "REGISTERED"
+  },
+  {
+   "regId": "a9ddf1fe-4446-4873-9eaa-38bb0a5777c1",
+   "studentId": "CSC/2025/032",
+   "courseCode": "PHY107",
+   "session": "2025/2026",
+   "status": "REGISTERED"
+  },
+  {
+   "regId": "e810bca3-2c5c-4960-b4b5-8d900ef32fc8",
+   "studentId": "CSC/2025/033",
+   "courseCode": "CSC101",
+   "session": "2025/2026",
+   "status": "REGISTERED"
+  },
+  {
+   "regId": "e8093fc6-16a2-4e4d-be18-67a1ebea6ee0",
+   "studentId": "CSC/2025/033",
+   "courseCode": "MTH101",
+   "session": "2025/2026",
+   "status": "REGISTERED"
+  },
+  {
+   "regId": "1ae8fa90-56db-4c39-97b2-d205eb05bcd2",
+   "studentId": "CSC/2025/033",
+   "courseCode": "PHY101",
+   "session": "2025/2026",
+   "status": "REGISTERED"
+  },
+  {
+   "regId": "fa3f0f50-e6e7-4ab3-8c67-77aed865fc9b",
+   "studentId": "CSC/2025/033",
+   "courseCode": "CHM101",
+   "session": "2025/2026",
+   "status": "REGISTERED"
+  },
+  {
+   "regId": "5b20888c-935e-43fc-a904-7a404664c860",
+   "studentId": "CSC/2025/033",
+   "courseCode": "GST111",
+   "session": "2025/2026",
+   "status": "REGISTERED"
+  },
+  {
+   "regId": "fe5a1a57-bda8-4eb3-9500-ddc7c476bf48",
+   "studentId": "CSC/2025/033",
+   "courseCode": "PHY107",
+   "session": "2025/2026",
+   "status": "REGISTERED"
+  },
+  {
+   "regId": "9ef7f683-67bb-44d2-ad8e-f4c6d7fdb1b8",
+   "studentId": "CSC/2025/034",
+   "courseCode": "CSC101",
+   "session": "2025/2026",
+   "status": "REGISTERED"
+  },
+  {
+   "regId": "758c77c4-0424-47a7-bc11-c470c9f88f73",
+   "studentId": "CSC/2025/034",
+   "courseCode": "MTH101",
+   "session": "2025/2026",
+   "status": "REGISTERED"
+  },
+  {
+   "regId": "473c4a86-321b-44ec-8478-a6856f7e6f5e",
+   "studentId": "CSC/2025/034",
+   "courseCode": "PHY101",
+   "session": "2025/2026",
+   "status": "REGISTERED"
+  },
+  {
+   "regId": "4606e9ae-3569-40c4-8a6b-c57110253edf",
+   "studentId": "CSC/2025/034",
+   "courseCode": "CHM101",
+   "session": "2025/2026",
+   "status": "REGISTERED"
+  },
+  {
+   "regId": "a2ff4af3-6183-4b86-8956-6c614cd9d7ce",
+   "studentId": "CSC/2025/034",
+   "courseCode": "GST111",
+   "session": "2025/2026",
+   "status": "REGISTERED"
+  },
+  {
+   "regId": "d85e8a44-2699-4f4a-bdb0-14226b2f2167",
+   "studentId": "CSC/2025/034",
+   "courseCode": "PHY107",
+   "session": "2025/2026",
+   "status": "REGISTERED"
+  },
+  {
+   "regId": "76926f98-06ee-4e8a-86ad-efc7c16ca2e3",
+   "studentId": "CSC/2025/037",
+   "courseCode": "CSC101",
+   "session": "2025/2026",
+   "status": "REGISTERED"
+  },
+  {
+   "regId": "16128482-2fd6-4c8e-bdf5-1c0afccd7b34",
+   "studentId": "CSC/2025/037",
+   "courseCode": "MTH101",
+   "session": "2025/2026",
+   "status": "REGISTERED"
+  },
+  {
+   "regId": "fb8cd8e1-3a1b-476b-97db-2ce69e93d812",
+   "studentId": "CSC/2025/037",
+   "courseCode": "PHY101",
+   "session": "2025/2026",
+   "status": "REGISTERED"
+  },
+  {
+   "regId": "9934fb4a-fae9-415c-8995-1e35d79fe68c",
+   "studentId": "CSC/2025/037",
+   "courseCode": "CHM101",
+   "session": "2025/2026",
+   "status": "REGISTERED"
+  },
+  {
+   "regId": "f653bb6e-e17f-4d8d-acea-c3cc9533593d",
+   "studentId": "CSC/2025/037",
+   "courseCode": "GST111",
+   "session": "2025/2026",
+   "status": "REGISTERED"
+  },
+  {
+   "regId": "562276a5-9dc4-49fb-a3b4-6ed4116caa91",
+   "studentId": "CSC/2025/037",
+   "courseCode": "PHY107",
+   "session": "2025/2026",
+   "status": "REGISTERED"
+  },
+  {
+   "regId": "fbdecec4-c767-42d8-82ea-68ad0863371d",
+   "studentId": "CSC/2025/038",
+   "courseCode": "CSC101",
+   "session": "2025/2026",
+   "status": "REGISTERED"
+  },
+  {
+   "regId": "037047c4-600c-4710-8de5-84ce2d65f871",
+   "studentId": "CSC/2025/038",
+   "courseCode": "MTH101",
+   "session": "2025/2026",
+   "status": "REGISTERED"
+  },
+  {
+   "regId": "a0244875-8aef-4f59-b492-db3eaf53779b",
+   "studentId": "CSC/2025/038",
+   "courseCode": "PHY101",
+   "session": "2025/2026",
+   "status": "REGISTERED"
+  },
+  {
+   "regId": "f1cf68ee-ea7a-460b-87ac-32862766b904",
+   "studentId": "CSC/2025/038",
+   "courseCode": "CHM101",
+   "session": "2025/2026",
+   "status": "REGISTERED"
+  },
+  {
+   "regId": "988e44ae-5409-4b3a-b767-207e1d7bff04",
+   "studentId": "CSC/2025/038",
+   "courseCode": "PHY107",
+   "session": "2025/2026",
+   "status": "REGISTERED"
+  },
+  {
+   "regId": "9b52828e-71ec-4908-a1d0-d212b4972891",
+   "studentId": "CSC/2025/039",
+   "courseCode": "CSC101",
+   "session": "2025/2026",
+   "status": "REGISTERED"
+  },
+  {
+   "regId": "236e3c1e-0cbd-4e04-9ab7-fb44b35b65e3",
+   "studentId": "CSC/2025/039",
+   "courseCode": "MTH101",
+   "session": "2025/2026",
+   "status": "REGISTERED"
+  },
+  {
+   "regId": "e28d6d79-684a-4ade-ade1-949f6d776d9d",
+   "studentId": "CSC/2025/039",
+   "courseCode": "PHY101",
+   "session": "2025/2026",
+   "status": "REGISTERED"
+  },
+  {
+   "regId": "9c00fe40-15bd-459f-8ddb-609ff88eb1fe",
+   "studentId": "CSC/2025/039",
+   "courseCode": "CHM101",
+   "session": "2025/2026",
+   "status": "REGISTERED"
+  },
+  {
+   "regId": "cb175b12-d884-4d85-bbc4-8513d4687a53",
+   "studentId": "CSC/2025/039",
+   "courseCode": "GST111",
+   "session": "2025/2026",
+   "status": "REGISTERED"
+  },
+  {
+   "regId": "9f574803-ed63-4976-b414-118042839243",
+   "studentId": "CSC/2025/039",
+   "courseCode": "PHY107",
+   "session": "2025/2026",
+   "status": "REGISTERED"
+  },
+  {
+   "regId": "5caa7808-d901-4531-8e70-ca61e7c1e1a4",
+   "studentId": "CSC/2025/040",
+   "courseCode": "CSC101",
+   "session": "2025/2026",
+   "status": "REGISTERED"
+  },
+  {
+   "regId": "e195f065-c512-49c1-8883-cafa221b316c",
+   "studentId": "CSC/2025/040",
+   "courseCode": "MTH101",
+   "session": "2025/2026",
+   "status": "REGISTERED"
+  },
+  {
+   "regId": "f55e70f2-57ea-4a52-9cb7-c909934b85da",
+   "studentId": "CSC/2025/040",
+   "courseCode": "PHY101",
+   "session": "2025/2026",
+   "status": "REGISTERED"
+  },
+  {
+   "regId": "05714adc-5fe7-4cb8-8354-2ef143091beb",
+   "studentId": "CSC/2025/040",
+   "courseCode": "CHM101",
+   "session": "2025/2026",
+   "status": "REGISTERED"
+  },
+  {
+   "regId": "70a5c436-a439-43db-bf07-fab0d7ac60ec",
+   "studentId": "CSC/2025/040",
+   "courseCode": "GST111",
+   "session": "2025/2026",
+   "status": "REGISTERED"
+  },
+  {
+   "regId": "7dd94d57-28fc-44f2-8717-93355d39c2ec",
+   "studentId": "CSC/2025/040",
+   "courseCode": "PHY107",
+   "session": "2025/2026",
+   "status": "REGISTERED"
+  },
+  {
+   "regId": "4afcd08d-7b5d-4ed1-b90f-6fee663d45bf",
+   "studentId": "CSC/2024/001",
+   "courseCode": "CSC201",
+   "session": "2025/2026",
+   "status": "REGISTERED"
+  },
+  {
+   "regId": "766b7317-d4fe-4016-9665-f69a7c858e56",
+   "studentId": "CSC/2024/001",
+   "courseCode": "CSC203",
+   "session": "2025/2026",
+   "status": "REGISTERED"
+  },
+  {
+   "regId": "618bbe32-1a2f-43a9-a52f-ad6293bd2946",
+   "studentId": "CSC/2024/001",
+   "courseCode": "CSC205",
+   "session": "2025/2026",
+   "status": "REGISTERED"
+  },
+  {
+   "regId": "c00aca74-769e-4a03-a0c0-cda00f7d21bc",
+   "studentId": "CSC/2024/001",
+   "courseCode": "MTH201",
+   "session": "2025/2026",
+   "status": "REGISTERED"
+  },
+  {
+   "regId": "1abb3237-a9dc-4e46-805b-a357123bb287",
+   "studentId": "CSC/2024/001",
+   "courseCode": "STA201",
+   "session": "2025/2026",
+   "status": "REGISTERED"
+  },
+  {
+   "regId": "1e2d5ecc-8436-464f-a942-a41343adebc0",
+   "studentId": "CSC/2024/001",
+   "courseCode": "ENT211",
+   "session": "2025/2026",
+   "status": "REGISTERED"
+  },
+  {
+   "regId": "f93da5a6-e2fb-48f8-a3ca-686a2168d013",
+   "studentId": "CSC/2024/004",
+   "courseCode": "CSC201",
+   "session": "2025/2026",
+   "status": "REGISTERED"
+  },
+  {
+   "regId": "4d3a5dad-500a-4053-93fd-580fe9263152",
+   "studentId": "CSC/2024/004",
+   "courseCode": "CSC203",
+   "session": "2025/2026",
+   "status": "REGISTERED"
+  },
+  {
+   "regId": "179e48f1-2d86-4fb9-82ab-87bc5766d1db",
+   "studentId": "CSC/2024/004",
+   "courseCode": "CSC205",
+   "session": "2025/2026",
+   "status": "REGISTERED"
+  },
+  {
+   "regId": "7e922c2a-7492-455e-8464-9aa1c8be4e31",
+   "studentId": "CSC/2024/004",
+   "courseCode": "MTH201",
+   "session": "2025/2026",
+   "status": "REGISTERED"
+  },
+  {
+   "regId": "79bfb76d-7348-4d82-b83e-2fa5434f106a",
+   "studentId": "CSC/2024/004",
+   "courseCode": "STA201",
+   "session": "2025/2026",
+   "status": "REGISTERED"
+  },
+  {
+   "regId": "1a066314-a85b-4bf0-84fc-48e7ecda0125",
+   "studentId": "CSC/2024/004",
+   "courseCode": "ENT211",
+   "session": "2025/2026",
+   "status": "REGISTERED"
+  },
+  {
+   "regId": "407924a6-8a1f-44de-b8a3-8b24b2fc434f",
+   "studentId": "CSC/2024/005",
+   "courseCode": "CSC201",
+   "session": "2025/2026",
+   "status": "REGISTERED"
+  },
+  {
+   "regId": "09637a52-8acd-4efc-95af-ec07c5ecf846",
+   "studentId": "CSC/2024/005",
+   "courseCode": "CSC203",
+   "session": "2025/2026",
+   "status": "REGISTERED"
+  },
+  {
+   "regId": "1e29ada0-5293-4658-b58a-3bbc7d6ab139",
+   "studentId": "CSC/2024/005",
+   "courseCode": "CSC205",
+   "session": "2025/2026",
+   "status": "REGISTERED"
+  },
+  {
+   "regId": "e7f0ce74-1a70-4d0a-9957-9b94e19184e9",
+   "studentId": "CSC/2024/005",
+   "courseCode": "MTH201",
+   "session": "2025/2026",
+   "status": "REGISTERED"
+  },
+  {
+   "regId": "331b8fc6-aa00-4611-860f-05c3eb59bdd3",
+   "studentId": "CSC/2024/005",
+   "courseCode": "STA201",
+   "session": "2025/2026",
+   "status": "REGISTERED"
+  },
+  {
+   "regId": "7441a5d8-bd14-466a-a012-ff12509b82f0",
+   "studentId": "CSC/2024/005",
+   "courseCode": "ENT211",
+   "session": "2025/2026",
+   "status": "REGISTERED"
+  },
+  {
+   "regId": "55b1092e-6dc6-4b6d-9ef2-7835c57b98a7",
+   "studentId": "CSC/2024/006",
+   "courseCode": "CSC201",
+   "session": "2025/2026",
+   "status": "REGISTERED"
+  },
+  {
+   "regId": "ee9ed10f-9e19-4608-9850-7afd6500e6a1",
+   "studentId": "CSC/2024/006",
+   "courseCode": "CSC203",
+   "session": "2025/2026",
+   "status": "REGISTERED"
+  },
+  {
+   "regId": "e3e1c4f5-a305-49a4-a146-e40828e1a845",
+   "studentId": "CSC/2024/006",
+   "courseCode": "CSC205",
+   "session": "2025/2026",
+   "status": "REGISTERED"
+  },
+  {
+   "regId": "bbab22b5-b776-4943-9e8f-20a32c55d5d3",
+   "studentId": "CSC/2024/006",
+   "courseCode": "MTH201",
+   "session": "2025/2026",
+   "status": "REGISTERED"
+  },
+  {
+   "regId": "d2b33d47-2501-4991-8967-6d9004444f07",
+   "studentId": "CSC/2024/006",
+   "courseCode": "STA201",
+   "session": "2025/2026",
+   "status": "REGISTERED"
+  },
+  {
+   "regId": "a797b40d-d0e5-48c4-b5c4-fe1d8ed2e8e5",
+   "studentId": "CSC/2024/006",
+   "courseCode": "ENT211",
+   "session": "2025/2026",
+   "status": "REGISTERED"
+  },
+  {
+   "regId": "d96627c0-f2e4-486e-892f-b98d827aa4fe",
+   "studentId": "CSC/2024/007",
+   "courseCode": "CSC201",
+   "session": "2025/2026",
+   "status": "REGISTERED"
+  },
+  {
+   "regId": "d86ec0c4-b589-4ef3-8363-f4e0a7fb769f",
+   "studentId": "CSC/2024/007",
+   "courseCode": "CSC203",
+   "session": "2025/2026",
+   "status": "REGISTERED"
+  },
+  {
+   "regId": "c2b5be8a-4559-487d-8cac-9b5afa17ebc9",
+   "studentId": "CSC/2024/007",
+   "courseCode": "CSC205",
+   "session": "2025/2026",
+   "status": "REGISTERED"
+  },
+  {
+   "regId": "f5e217bb-8c4c-4bf4-89b1-f7ceceffe481",
+   "studentId": "CSC/2024/007",
+   "courseCode": "MTH201",
+   "session": "2025/2026",
+   "status": "REGISTERED"
+  },
+  {
+   "regId": "15f84173-3fa0-4ab6-a8e9-292903526700",
+   "studentId": "CSC/2024/007",
+   "courseCode": "STA201",
+   "session": "2025/2026",
+   "status": "REGISTERED"
+  },
+  {
+   "regId": "868446e6-e113-4ed0-b362-e49acd9ee5e6",
+   "studentId": "CSC/2024/007",
+   "courseCode": "ENT211",
+   "session": "2025/2026",
+   "status": "REGISTERED"
+  },
+  {
+   "regId": "0cceeda4-b37b-46e9-8573-a022248ad019",
+   "studentId": "CSC/2024/008",
+   "courseCode": "CSC201",
+   "session": "2025/2026",
+   "status": "REGISTERED"
+  },
+  {
+   "regId": "16478bb2-d404-4978-b5a2-205ac68e1162",
+   "studentId": "CSC/2024/008",
+   "courseCode": "CSC203",
+   "session": "2025/2026",
+   "status": "REGISTERED"
+  },
+  {
+   "regId": "5aa7b36b-ed0b-4605-a815-28f5b8437252",
+   "studentId": "CSC/2024/008",
+   "courseCode": "CSC205",
+   "session": "2025/2026",
+   "status": "REGISTERED"
+  },
+  {
+   "regId": "35e09f22-7a3e-4518-87ef-4c72e67d30eb",
+   "studentId": "CSC/2024/008",
+   "courseCode": "MTH201",
+   "session": "2025/2026",
+   "status": "REGISTERED"
+  },
+  {
+   "regId": "7574e172-76bc-4c76-a5a6-8d6e6c5e8155",
+   "studentId": "CSC/2024/008",
+   "courseCode": "STA201",
+   "session": "2025/2026",
+   "status": "REGISTERED"
+  },
+  {
+   "regId": "520b1fc4-c022-4586-b8b7-bc61a9a00738",
+   "studentId": "CSC/2024/008",
+   "courseCode": "ENT211",
+   "session": "2025/2026",
+   "status": "REGISTERED"
+  },
+  {
+   "regId": "1d8a5947-1d1f-4feb-96e8-b67a8c187a12",
+   "studentId": "CSC/2024/009",
+   "courseCode": "CSC201",
+   "session": "2025/2026",
+   "status": "REGISTERED"
+  },
+  {
+   "regId": "b51d8e1c-f3e7-402d-b2fb-7f1dbfb092a2",
+   "studentId": "CSC/2024/009",
+   "courseCode": "CSC203",
+   "session": "2025/2026",
+   "status": "REGISTERED"
+  },
+  {
+   "regId": "67c5f6b5-2079-4361-87f6-04b5b02cbe94",
+   "studentId": "CSC/2024/009",
+   "courseCode": "CSC205",
+   "session": "2025/2026",
+   "status": "REGISTERED"
+  },
+  {
+   "regId": "f4de1bc8-1a88-4568-8d26-566b07a7fbb4",
+   "studentId": "CSC/2024/009",
+   "courseCode": "MTH201",
+   "session": "2025/2026",
+   "status": "REGISTERED"
+  },
+  {
+   "regId": "d23e2242-4ba1-4cb2-ac5f-b1b88d7dfc98",
+   "studentId": "CSC/2024/009",
+   "courseCode": "STA201",
+   "session": "2025/2026",
+   "status": "REGISTERED"
+  },
+  {
+   "regId": "3bbb7681-bccd-4b76-912a-17f3191df973",
+   "studentId": "CSC/2024/009",
+   "courseCode": "ENT211",
+   "session": "2025/2026",
+   "status": "REGISTERED"
+  },
+  {
+   "regId": "701cf5a0-2584-41d0-82b0-b4ff927b1ca7",
+   "studentId": "CSC/2024/010",
+   "courseCode": "CSC201",
+   "session": "2025/2026",
+   "status": "REGISTERED"
+  },
+  {
+   "regId": "00293a6d-3096-4159-bee5-3489d2b7311c",
+   "studentId": "CSC/2024/010",
+   "courseCode": "CSC205",
+   "session": "2025/2026",
+   "status": "REGISTERED"
+  },
+  {
+   "regId": "3c8a814a-7b8c-4c7d-8104-94afbf4327f6",
+   "studentId": "CSC/2024/010",
+   "courseCode": "MTH201",
+   "session": "2025/2026",
+   "status": "REGISTERED"
+  },
+  {
+   "regId": "609f0cc8-57d7-49db-a89f-2218753f7fee",
+   "studentId": "CSC/2024/010",
+   "courseCode": "STA201",
+   "session": "2025/2026",
+   "status": "REGISTERED"
+  },
+  {
+   "regId": "77c9c6e1-b81d-4a9c-936c-40772ac84623",
+   "studentId": "CSC/2024/010",
+   "courseCode": "ENT211",
+   "session": "2025/2026",
+   "status": "REGISTERED"
+  },
+  {
+   "regId": "4d29c269-8e74-4160-95c9-b283aeaadc64",
+   "studentId": "CSC/2024/011",
+   "courseCode": "CSC201",
+   "session": "2025/2026",
+   "status": "REGISTERED"
+  },
+  {
+   "regId": "e9ae4b55-a18c-40a4-aa31-f38d21bbc0e4",
+   "studentId": "CSC/2024/011",
+   "courseCode": "CSC205",
+   "session": "2025/2026",
+   "status": "REGISTERED"
+  },
+  {
+   "regId": "2619e93b-c1e3-45f7-ba8d-62027833be8b",
+   "studentId": "CSC/2024/011",
+   "courseCode": "MTH201",
+   "session": "2025/2026",
+   "status": "REGISTERED"
+  },
+  {
+   "regId": "25786251-c65f-4783-aa55-c8d129be1c5f",
+   "studentId": "CSC/2024/011",
+   "courseCode": "STA201",
+   "session": "2025/2026",
+   "status": "REGISTERED"
+  },
+  {
+   "regId": "ffc80325-75b2-4a8a-b822-f087d57e0be7",
+   "studentId": "CSC/2024/011",
+   "courseCode": "ENT211",
+   "session": "2025/2026",
+   "status": "REGISTERED"
+  },
+  {
+   "regId": "5c275008-ee18-41cb-b999-901ad3e02a43",
+   "studentId": "CSC/2024/012",
+   "courseCode": "CSC201",
+   "session": "2025/2026",
+   "status": "REGISTERED"
+  },
+  {
+   "regId": "082e7ec9-7ffe-47f6-99c6-36987240abbd",
+   "studentId": "CSC/2024/012",
+   "courseCode": "CSC203",
+   "session": "2025/2026",
+   "status": "REGISTERED"
+  },
+  {
+   "regId": "6f41ed5e-5033-478f-907c-0e001d280021",
+   "studentId": "CSC/2024/012",
+   "courseCode": "CSC205",
+   "session": "2025/2026",
+   "status": "REGISTERED"
+  },
+  {
+   "regId": "148a8050-ffb5-4a81-a3be-012381c82c36",
+   "studentId": "CSC/2024/012",
+   "courseCode": "MTH201",
+   "session": "2025/2026",
+   "status": "REGISTERED"
+  },
+  {
+   "regId": "f1403a76-3979-4a9c-97c7-f1c54abeff15",
+   "studentId": "CSC/2024/012",
+   "courseCode": "STA201",
+   "session": "2025/2026",
+   "status": "REGISTERED"
+  },
+  {
+   "regId": "fb7652ae-05d8-469d-b9a4-5b9c39343d45",
+   "studentId": "CSC/2024/012",
+   "courseCode": "ENT211",
+   "session": "2025/2026",
+   "status": "REGISTERED"
+  },
+  {
+   "regId": "326a2595-49f0-4229-b837-fb544ad4e91f",
+   "studentId": "CSC/2024/013",
+   "courseCode": "CSC201",
+   "session": "2025/2026",
+   "status": "REGISTERED"
+  },
+  {
+   "regId": "1002ded9-289b-4f5d-9a5b-ff5759bce53d",
+   "studentId": "CSC/2024/013",
+   "courseCode": "CSC203",
+   "session": "2025/2026",
+   "status": "REGISTERED"
+  },
+  {
+   "regId": "5e43a70b-53f5-488d-ab4c-c9b5d7860fea",
+   "studentId": "CSC/2024/013",
+   "courseCode": "CSC205",
+   "session": "2025/2026",
+   "status": "REGISTERED"
+  },
+  {
+   "regId": "5cf6347f-8975-4b46-9f82-140440f5a733",
+   "studentId": "CSC/2024/013",
+   "courseCode": "MTH201",
+   "session": "2025/2026",
+   "status": "REGISTERED"
+  },
+  {
+   "regId": "33e58a1b-5d64-4b45-999f-832d06cfb126",
+   "studentId": "CSC/2024/013",
+   "courseCode": "STA201",
+   "session": "2025/2026",
+   "status": "REGISTERED"
+  },
+  {
+   "regId": "d5dd038a-86ef-4de7-bab9-50384c9a96d3",
+   "studentId": "CSC/2024/013",
+   "courseCode": "ENT211",
+   "session": "2025/2026",
+   "status": "REGISTERED"
+  },
+  {
+   "regId": "d82e1266-f760-44eb-872e-0a63fedcafe0",
+   "studentId": "CSC/2024/015",
+   "courseCode": "CSC201",
+   "session": "2025/2026",
+   "status": "REGISTERED"
+  },
+  {
+   "regId": "2f89ba30-5fc1-4fbc-8d81-fd0f307a8d84",
+   "studentId": "CSC/2024/015",
+   "courseCode": "CSC203",
+   "session": "2025/2026",
+   "status": "REGISTERED"
+  },
+  {
+   "regId": "40fc6c7c-9318-4e8d-bcef-b93d170e73c4",
+   "studentId": "CSC/2024/015",
+   "courseCode": "CSC205",
+   "session": "2025/2026",
+   "status": "REGISTERED"
+  },
+  {
+   "regId": "085aabfa-47a9-46fe-8e1f-751667f98b8d",
+   "studentId": "CSC/2024/015",
+   "courseCode": "MTH201",
+   "session": "2025/2026",
+   "status": "REGISTERED"
+  },
+  {
+   "regId": "15363034-6020-4048-93d7-384798cce5c5",
+   "studentId": "CSC/2024/015",
+   "courseCode": "STA201",
+   "session": "2025/2026",
+   "status": "REGISTERED"
+  },
+  {
+   "regId": "9a256b9c-7814-46d7-9a05-ecb4d054d07a",
+   "studentId": "CSC/2024/015",
+   "courseCode": "ENT211",
+   "session": "2025/2026",
+   "status": "REGISTERED"
+  },
+  {
+   "regId": "6ebff89f-6703-4653-9b9f-f08aef272505",
+   "studentId": "CSC/2024/016",
+   "courseCode": "CSC201",
+   "session": "2025/2026",
+   "status": "REGISTERED"
+  },
+  {
+   "regId": "b869ba9d-a544-4e44-9602-adb41cd82319",
+   "studentId": "CSC/2024/016",
+   "courseCode": "CSC203",
+   "session": "2025/2026",
+   "status": "REGISTERED"
+  },
+  {
+   "regId": "6c068d89-c3a2-442f-8d5a-2a53aaf7cad8",
+   "studentId": "CSC/2024/016",
+   "courseCode": "MTH201",
+   "session": "2025/2026",
+   "status": "REGISTERED"
+  },
+  {
+   "regId": "ec5b25c0-1c9c-4ae1-9d35-7d9af53b2316",
+   "studentId": "CSC/2024/016",
+   "courseCode": "STA201",
+   "session": "2025/2026",
+   "status": "REGISTERED"
+  },
+  {
+   "regId": "bd9c8b90-9005-4730-8974-4a8cbb5334bc",
+   "studentId": "CSC/2024/016",
+   "courseCode": "ENT211",
+   "session": "2025/2026",
+   "status": "REGISTERED"
+  },
+  {
+   "regId": "cadbdefe-17c2-4a2b-af35-4a03b2750fb1",
+   "studentId": "CSC/2024/017",
+   "courseCode": "CSC201",
+   "session": "2025/2026",
+   "status": "REGISTERED"
+  },
+  {
+   "regId": "6d74606e-13bc-4c0a-a1c6-0e7a3e299c2d",
+   "studentId": "CSC/2024/017",
+   "courseCode": "CSC203",
+   "session": "2025/2026",
+   "status": "REGISTERED"
+  },
+  {
+   "regId": "eb3bbd5f-7eb4-4d9b-b5ac-b9ff40b39ae5",
+   "studentId": "CSC/2024/017",
+   "courseCode": "CSC205",
+   "session": "2025/2026",
+   "status": "REGISTERED"
+  },
+  {
+   "regId": "c8f4ac5c-8bf1-4b8a-be0f-dd7585f9a7bd",
+   "studentId": "CSC/2024/017",
+   "courseCode": "MTH201",
+   "session": "2025/2026",
+   "status": "REGISTERED"
+  },
+  {
+   "regId": "17abd778-c085-47ff-97e4-52699450d880",
+   "studentId": "CSC/2024/017",
+   "courseCode": "STA201",
+   "session": "2025/2026",
+   "status": "REGISTERED"
+  },
+  {
+   "regId": "e9da3e8e-7083-4c4d-b009-101f6bb8dbb0",
+   "studentId": "CSC/2024/017",
+   "courseCode": "ENT211",
+   "session": "2025/2026",
+   "status": "REGISTERED"
+  },
+  {
+   "regId": "d479f6d8-f5d4-42e3-9831-61f40041538b",
+   "studentId": "CSC/2024/018",
+   "courseCode": "CSC201",
+   "session": "2025/2026",
+   "status": "REGISTERED"
+  },
+  {
+   "regId": "a5b79b39-d1e3-418d-b29c-5b01f87c7cbd",
+   "studentId": "CSC/2024/018",
+   "courseCode": "CSC203",
+   "session": "2025/2026",
+   "status": "REGISTERED"
+  },
+  {
+   "regId": "fc453aad-b032-41e9-9a4a-3ef6de4c8076",
+   "studentId": "CSC/2024/018",
+   "courseCode": "CSC205",
+   "session": "2025/2026",
+   "status": "REGISTERED"
+  },
+  {
+   "regId": "9c7ff473-b862-4d79-8358-a69a3a6ec4a0",
+   "studentId": "CSC/2024/018",
+   "courseCode": "MTH201",
+   "session": "2025/2026",
+   "status": "REGISTERED"
+  },
+  {
+   "regId": "c5ca77f9-120a-444d-a2ca-bcfeb2825824",
+   "studentId": "CSC/2024/018",
+   "courseCode": "STA201",
+   "session": "2025/2026",
+   "status": "REGISTERED"
+  },
+  {
+   "regId": "be511f45-47c2-491c-9e77-51ff97c8ba75",
+   "studentId": "CSC/2024/018",
+   "courseCode": "ENT211",
+   "session": "2025/2026",
+   "status": "REGISTERED"
+  },
+  {
+   "regId": "8de49d92-f500-4a60-89e4-ac068297361f",
+   "studentId": "CSC/2024/019",
+   "courseCode": "CSC201",
+   "session": "2025/2026",
+   "status": "REGISTERED"
+  },
+  {
+   "regId": "b7287303-bc3b-4687-a22b-f7a6f64c18c7",
+   "studentId": "CSC/2024/019",
+   "courseCode": "CSC203",
+   "session": "2025/2026",
+   "status": "REGISTERED"
+  },
+  {
+   "regId": "2fd300c3-1d38-4a72-a983-ee4a1e0147c4",
+   "studentId": "CSC/2024/019",
+   "courseCode": "CSC205",
+   "session": "2025/2026",
+   "status": "REGISTERED"
+  },
+  {
+   "regId": "e6abe77e-1630-451a-bd15-7b98ec0b3026",
+   "studentId": "CSC/2024/019",
+   "courseCode": "MTH201",
+   "session": "2025/2026",
+   "status": "REGISTERED"
+  },
+  {
+   "regId": "609d8a86-a925-4747-8c64-5499c9961d49",
+   "studentId": "CSC/2024/019",
+   "courseCode": "STA201",
+   "session": "2025/2026",
+   "status": "REGISTERED"
+  },
+  {
+   "regId": "4076274e-cc94-4384-9688-f75caf81da54",
+   "studentId": "CSC/2024/019",
+   "courseCode": "ENT211",
+   "session": "2025/2026",
+   "status": "REGISTERED"
+  },
+  {
+   "regId": "831e580c-ba5b-4d41-8924-002bf3be1247",
+   "studentId": "CSC/2024/021",
+   "courseCode": "CSC201",
+   "session": "2025/2026",
+   "status": "REGISTERED"
+  },
+  {
+   "regId": "9bb47d44-599d-4d38-8697-91e063a92c5a",
+   "studentId": "CSC/2024/021",
+   "courseCode": "CSC203",
+   "session": "2025/2026",
+   "status": "REGISTERED"
+  },
+  {
+   "regId": "a78f4d84-9fa3-4df1-b2f8-d9f2e660e727",
+   "studentId": "CSC/2024/021",
+   "courseCode": "CSC205",
+   "session": "2025/2026",
+   "status": "REGISTERED"
+  },
+  {
+   "regId": "4bd14d89-3753-48c1-bc5d-7c59733911b2",
+   "studentId": "CSC/2024/021",
+   "courseCode": "MTH201",
+   "session": "2025/2026",
+   "status": "REGISTERED"
+  },
+  {
+   "regId": "999565a5-3bf3-4d7d-bbd0-b80d80ff0dca",
+   "studentId": "CSC/2024/021",
+   "courseCode": "STA201",
+   "session": "2025/2026",
+   "status": "REGISTERED"
+  },
+  {
+   "regId": "033d04a9-f82a-470f-9447-432ea840428a",
+   "studentId": "CSC/2024/021",
+   "courseCode": "ENT211",
+   "session": "2025/2026",
+   "status": "REGISTERED"
+  },
+  {
+   "regId": "370130ad-5f40-41c0-bc02-9364d1cbf60e",
+   "studentId": "CSC/2024/023",
+   "courseCode": "CSC201",
+   "session": "2025/2026",
+   "status": "REGISTERED"
+  },
+  {
+   "regId": "c83390da-9741-46ac-8dd0-d72f5931719d",
+   "studentId": "CSC/2024/023",
+   "courseCode": "CSC203",
+   "session": "2025/2026",
+   "status": "REGISTERED"
+  },
+  {
+   "regId": "254d1e45-30b6-4e09-a342-bb64a4d65017",
+   "studentId": "CSC/2024/023",
+   "courseCode": "CSC205",
+   "session": "2025/2026",
+   "status": "REGISTERED"
+  },
+  {
+   "regId": "90fdb1bf-c0a9-4eca-bb15-e170c04704a8",
+   "studentId": "CSC/2024/023",
+   "courseCode": "MTH201",
+   "session": "2025/2026",
+   "status": "REGISTERED"
+  },
+  {
+   "regId": "b608a67d-1a6e-42e0-be65-6cb1d1b9df07",
+   "studentId": "CSC/2024/023",
+   "courseCode": "STA201",
+   "session": "2025/2026",
+   "status": "REGISTERED"
+  },
+  {
+   "regId": "7b6be8b5-6299-4966-a07f-2fdcb788fe55",
+   "studentId": "CSC/2024/023",
+   "courseCode": "ENT211",
+   "session": "2025/2026",
+   "status": "REGISTERED"
+  },
+  {
+   "regId": "aef5df8f-3038-4ec7-9db2-30a8f5ac7fed",
+   "studentId": "CSC/2024/024",
+   "courseCode": "CSC201",
+   "session": "2025/2026",
+   "status": "REGISTERED"
+  },
+  {
+   "regId": "6ad7db70-7bcb-4d67-9be9-ad9a654dccfa",
+   "studentId": "CSC/2024/024",
+   "courseCode": "CSC203",
+   "session": "2025/2026",
+   "status": "REGISTERED"
+  },
+  {
+   "regId": "4c7bc2aa-77c1-40fa-b48d-6561595473d5",
+   "studentId": "CSC/2024/024",
+   "courseCode": "CSC205",
+   "session": "2025/2026",
+   "status": "REGISTERED"
+  },
+  {
+   "regId": "01bd6049-34e5-4709-bff0-ee384d740b18",
+   "studentId": "CSC/2024/024",
+   "courseCode": "MTH201",
+   "session": "2025/2026",
+   "status": "REGISTERED"
+  },
+  {
+   "regId": "4bb7e87a-ab34-4ff1-87ad-47b23e4ffb6a",
+   "studentId": "CSC/2024/024",
+   "courseCode": "STA201",
+   "session": "2025/2026",
+   "status": "REGISTERED"
+  },
+  {
+   "regId": "3721bed3-608b-4403-9674-ca7cf3ffaf25",
+   "studentId": "CSC/2024/024",
+   "courseCode": "ENT211",
+   "session": "2025/2026",
+   "status": "REGISTERED"
+  },
+  {
+   "regId": "8b10f7dd-6a17-4a1c-88e1-9a85f18939ee",
+   "studentId": "CSC/2024/025",
+   "courseCode": "CSC201",
+   "session": "2025/2026",
+   "status": "REGISTERED"
+  },
+  {
+   "regId": "bebfbac4-d4a7-40af-8cfc-7e6818c41cbc",
+   "studentId": "CSC/2024/025",
+   "courseCode": "CSC203",
+   "session": "2025/2026",
+   "status": "REGISTERED"
+  },
+  {
+   "regId": "1af0d295-0789-406c-a806-3253466a6891",
+   "studentId": "CSC/2024/025",
+   "courseCode": "CSC205",
+   "session": "2025/2026",
+   "status": "REGISTERED"
+  },
+  {
+   "regId": "597efb28-4ca0-49d3-9213-f4f2d53b9ca9",
+   "studentId": "CSC/2024/025",
+   "courseCode": "MTH201",
+   "session": "2025/2026",
+   "status": "REGISTERED"
+  },
+  {
+   "regId": "8ab6f922-8e4f-43e6-b7b4-21913e9754fb",
+   "studentId": "CSC/2024/025",
+   "courseCode": "STA201",
+   "session": "2025/2026",
+   "status": "REGISTERED"
+  },
+  {
+   "regId": "d91e6826-90a0-480c-9f95-6d71a8a92052",
+   "studentId": "CSC/2024/025",
+   "courseCode": "ENT211",
+   "session": "2025/2026",
+   "status": "REGISTERED"
+  },
+  {
+   "regId": "e66c789d-e39c-42b7-a67b-186328d61218",
+   "studentId": "CSC/2024/026",
+   "courseCode": "CSC201",
+   "session": "2025/2026",
+   "status": "REGISTERED"
+  },
+  {
+   "regId": "a4127e60-3530-4b3d-8d25-391b430154b7",
+   "studentId": "CSC/2024/026",
+   "courseCode": "CSC203",
+   "session": "2025/2026",
+   "status": "REGISTERED"
+  },
+  {
+   "regId": "548e98a2-a173-408c-b540-6d0d60aae05a",
+   "studentId": "CSC/2024/026",
+   "courseCode": "CSC205",
+   "session": "2025/2026",
+   "status": "REGISTERED"
+  },
+  {
+   "regId": "20dbb455-8eec-4eb0-8983-3f26466b66b8",
+   "studentId": "CSC/2024/026",
+   "courseCode": "MTH201",
+   "session": "2025/2026",
+   "status": "REGISTERED"
+  },
+  {
+   "regId": "ef271206-5acf-474e-9107-e31d90edf059",
+   "studentId": "CSC/2024/026",
+   "courseCode": "STA201",
+   "session": "2025/2026",
+   "status": "REGISTERED"
+  },
+  {
+   "regId": "8cdcf3ac-0e15-48aa-9cd4-3534eb60446b",
+   "studentId": "CSC/2024/026",
+   "courseCode": "ENT211",
+   "session": "2025/2026",
+   "status": "REGISTERED"
+  },
+  {
+   "regId": "7d7c8bb4-63e4-440b-b58f-5be228fb0a17",
+   "studentId": "CSC/2024/027",
+   "courseCode": "CSC201",
+   "session": "2025/2026",
+   "status": "REGISTERED"
+  },
+  {
+   "regId": "a18871df-d799-4e77-be25-8483fc2d8d07",
+   "studentId": "CSC/2024/027",
+   "courseCode": "CSC203",
+   "session": "2025/2026",
+   "status": "REGISTERED"
+  },
+  {
+   "regId": "e7b5b189-97ff-47e0-89a0-807eaa1c7062",
+   "studentId": "CSC/2024/027",
+   "courseCode": "CSC205",
+   "session": "2025/2026",
+   "status": "REGISTERED"
+  },
+  {
+   "regId": "3ba68c95-0e56-4c53-9a60-a9c1f91058a3",
+   "studentId": "CSC/2024/027",
+   "courseCode": "MTH201",
+   "session": "2025/2026",
+   "status": "REGISTERED"
+  },
+  {
+   "regId": "82e1d6e7-c284-4d54-912e-3fe843656d2f",
+   "studentId": "CSC/2024/027",
+   "courseCode": "STA201",
+   "session": "2025/2026",
+   "status": "REGISTERED"
+  },
+  {
+   "regId": "28a32685-f37f-465d-ba99-dccb8b09fc4b",
+   "studentId": "CSC/2024/027",
+   "courseCode": "ENT211",
+   "session": "2025/2026",
+   "status": "REGISTERED"
+  },
+  {
+   "regId": "901e7681-2d41-4123-996e-ccc68c7f941e",
+   "studentId": "CSC/2024/028",
+   "courseCode": "CSC201",
+   "session": "2025/2026",
+   "status": "REGISTERED"
+  },
+  {
+   "regId": "145d2a2b-66b4-4a4d-864c-d99b2899903d",
+   "studentId": "CSC/2024/028",
+   "courseCode": "CSC203",
+   "session": "2025/2026",
+   "status": "REGISTERED"
+  },
+  {
+   "regId": "6488ecab-6ffe-4fb5-84d4-7692208488e8",
+   "studentId": "CSC/2024/028",
+   "courseCode": "CSC205",
+   "session": "2025/2026",
+   "status": "REGISTERED"
+  },
+  {
+   "regId": "d2997ea0-c10c-45d8-ae26-46cc73eb7f95",
+   "studentId": "CSC/2024/028",
+   "courseCode": "MTH201",
+   "session": "2025/2026",
+   "status": "REGISTERED"
+  },
+  {
+   "regId": "a328cf19-3cef-47f5-aac6-06d441ffa8ad",
+   "studentId": "CSC/2024/028",
+   "courseCode": "ENT211",
+   "session": "2025/2026",
+   "status": "REGISTERED"
+  },
+  {
+   "regId": "aafe5e73-1997-440a-93fb-07f82a40117f",
+   "studentId": "CSC/2024/029",
+   "courseCode": "CSC201",
+   "session": "2025/2026",
+   "status": "REGISTERED"
+  },
+  {
+   "regId": "593a1aae-ee6f-4f38-a3d6-d7dba8b4bc03",
+   "studentId": "CSC/2024/029",
+   "courseCode": "CSC203",
+   "session": "2025/2026",
+   "status": "REGISTERED"
+  },
+  {
+   "regId": "66ab0c80-5ef0-415e-bb4b-385112f8cc5b",
+   "studentId": "CSC/2024/029",
+   "courseCode": "CSC205",
+   "session": "2025/2026",
+   "status": "REGISTERED"
+  },
+  {
+   "regId": "b8a0d6e8-18de-4e86-b8c5-df7b513cac93",
+   "studentId": "CSC/2024/029",
+   "courseCode": "MTH201",
+   "session": "2025/2026",
+   "status": "REGISTERED"
+  },
+  {
+   "regId": "7e5e1463-b140-4d9e-8c1c-6e4dbb47a875",
+   "studentId": "CSC/2024/029",
+   "courseCode": "STA201",
+   "session": "2025/2026",
+   "status": "REGISTERED"
+  },
+  {
+   "regId": "2ff80f54-792e-40ad-b963-4162bd55d286",
+   "studentId": "CSC/2024/030",
+   "courseCode": "CSC201",
+   "session": "2025/2026",
+   "status": "REGISTERED"
+  },
+  {
+   "regId": "76f8eb37-ab0b-4e76-826c-954b3d7a16f7",
+   "studentId": "CSC/2024/030",
+   "courseCode": "CSC203",
+   "session": "2025/2026",
+   "status": "REGISTERED"
+  },
+  {
+   "regId": "7bc71ba0-598e-453f-8ece-b69a2e826f6d",
+   "studentId": "CSC/2024/030",
+   "courseCode": "CSC205",
+   "session": "2025/2026",
+   "status": "REGISTERED"
+  },
+  {
+   "regId": "78ec1814-8b02-49bf-86c9-00fd7b211001",
+   "studentId": "CSC/2024/030",
+   "courseCode": "MTH201",
+   "session": "2025/2026",
+   "status": "REGISTERED"
+  },
+  {
+   "regId": "3deaa844-f467-4fc7-a1ba-64c980c07b9d",
+   "studentId": "CSC/2024/030",
+   "courseCode": "STA201",
+   "session": "2025/2026",
+   "status": "REGISTERED"
+  },
+  {
+   "regId": "5bc29846-9b4c-4f55-999d-1a299a91eb76",
+   "studentId": "CSC/2024/030",
+   "courseCode": "ENT211",
+   "session": "2025/2026",
+   "status": "REGISTERED"
+  },
+  {
+   "regId": "1ec8e5bc-ac12-4491-be88-624438e11fe8",
+   "studentId": "CSC/2024/031",
+   "courseCode": "CSC201",
+   "session": "2025/2026",
+   "status": "REGISTERED"
+  },
+  {
+   "regId": "bdb87a5a-1f81-4a5d-be82-81350ef15e3e",
+   "studentId": "CSC/2024/031",
+   "courseCode": "CSC203",
+   "session": "2025/2026",
+   "status": "REGISTERED"
+  },
+  {
+   "regId": "74af13c6-1324-4d32-a466-7399d453e820",
+   "studentId": "CSC/2024/031",
+   "courseCode": "MTH201",
+   "session": "2025/2026",
+   "status": "REGISTERED"
+  },
+  {
+   "regId": "c9ddf35a-d3d9-4add-bf0c-e3c0ec4f4f7c",
+   "studentId": "CSC/2024/031",
+   "courseCode": "STA201",
+   "session": "2025/2026",
+   "status": "REGISTERED"
+  },
+  {
+   "regId": "1235a84d-f9cb-4b7b-b1d0-dc4a85815a75",
+   "studentId": "CSC/2024/031",
+   "courseCode": "ENT211",
+   "session": "2025/2026",
+   "status": "REGISTERED"
+  },
+  {
+   "regId": "ab275604-23c4-47a3-89eb-94277bb1b1af",
+   "studentId": "CSC/2024/032",
+   "courseCode": "CSC201",
+   "session": "2025/2026",
+   "status": "REGISTERED"
+  },
+  {
+   "regId": "b17c4240-7954-4d2a-964a-d7ce921de0df",
+   "studentId": "CSC/2024/032",
+   "courseCode": "CSC203",
+   "session": "2025/2026",
+   "status": "REGISTERED"
+  },
+  {
+   "regId": "485e5fc8-68fa-4d98-9901-d6a0853e61b8",
+   "studentId": "CSC/2024/032",
+   "courseCode": "CSC205",
+   "session": "2025/2026",
+   "status": "REGISTERED"
+  },
+  {
+   "regId": "db46691c-6615-4762-a83e-085af64d83eb",
+   "studentId": "CSC/2024/032",
+   "courseCode": "MTH201",
+   "session": "2025/2026",
+   "status": "REGISTERED"
+  },
+  {
+   "regId": "8165eb0d-6b4a-4ca7-a182-f87eb0b1169b",
+   "studentId": "CSC/2024/032",
+   "courseCode": "STA201",
+   "session": "2025/2026",
+   "status": "REGISTERED"
+  },
+  {
+   "regId": "2900cec2-1506-4e78-bf26-067512c07e96",
+   "studentId": "CSC/2024/032",
+   "courseCode": "ENT211",
+   "session": "2025/2026",
+   "status": "REGISTERED"
+  },
+  {
+   "regId": "4bc13cfb-2bf8-449b-9fee-8164bbd9f3a6",
+   "studentId": "CSC/2024/033",
+   "courseCode": "CSC201",
+   "session": "2025/2026",
+   "status": "REGISTERED"
+  },
+  {
+   "regId": "c9778385-1d11-4350-8ab4-204684164b11",
+   "studentId": "CSC/2024/033",
+   "courseCode": "CSC203",
+   "session": "2025/2026",
+   "status": "REGISTERED"
+  },
+  {
+   "regId": "4002086f-c615-41ae-b6e1-4ba4acdcbaa4",
+   "studentId": "CSC/2024/033",
+   "courseCode": "MTH201",
+   "session": "2025/2026",
+   "status": "REGISTERED"
+  },
+  {
+   "regId": "8fa5b3da-73bd-4667-b12b-535d376e65d8",
+   "studentId": "CSC/2024/033",
+   "courseCode": "STA201",
+   "session": "2025/2026",
+   "status": "REGISTERED"
+  },
+  {
+   "regId": "c4513b71-3fae-4acb-8e0a-ae40df71c8d7",
+   "studentId": "CSC/2024/033",
+   "courseCode": "ENT211",
+   "session": "2025/2026",
+   "status": "REGISTERED"
+  },
+  {
+   "regId": "611fd6f9-fac7-4598-989d-7e03d18a5f16",
+   "studentId": "CSC/2024/034",
+   "courseCode": "CSC201",
+   "session": "2025/2026",
+   "status": "REGISTERED"
+  },
+  {
+   "regId": "da5dae4a-cee5-49b3-873e-50a26ac19f4b",
+   "studentId": "CSC/2024/034",
+   "courseCode": "CSC203",
+   "session": "2025/2026",
+   "status": "REGISTERED"
+  },
+  {
+   "regId": "395de6cf-ae16-41a4-9775-c2c5a26d40ea",
+   "studentId": "CSC/2024/034",
+   "courseCode": "CSC205",
+   "session": "2025/2026",
+   "status": "REGISTERED"
+  },
+  {
+   "regId": "76ebeb0c-7520-4bdb-9787-3d9538da7ef3",
+   "studentId": "CSC/2024/034",
+   "courseCode": "MTH201",
+   "session": "2025/2026",
+   "status": "REGISTERED"
+  },
+  {
+   "regId": "3f563796-3f5c-466c-ad5b-86ed6688d171",
+   "studentId": "CSC/2024/034",
+   "courseCode": "STA201",
+   "session": "2025/2026",
+   "status": "REGISTERED"
+  },
+  {
+   "regId": "d5c64fb6-838e-4a56-8038-5c3efd3381dc",
+   "studentId": "CSC/2024/034",
+   "courseCode": "ENT211",
+   "session": "2025/2026",
+   "status": "REGISTERED"
+  },
+  {
+   "regId": "ffc69cca-a479-4936-87e1-39677ccbbf90",
+   "studentId": "CSC/2024/035",
+   "courseCode": "CSC201",
+   "session": "2025/2026",
+   "status": "REGISTERED"
+  },
+  {
+   "regId": "055fe1f0-3364-461f-98da-8f1eff094521",
+   "studentId": "CSC/2024/035",
+   "courseCode": "CSC203",
+   "session": "2025/2026",
+   "status": "REGISTERED"
+  },
+  {
+   "regId": "968a583a-5cae-4279-b986-a0320e07c53c",
+   "studentId": "CSC/2024/035",
+   "courseCode": "CSC205",
+   "session": "2025/2026",
+   "status": "REGISTERED"
+  },
+  {
+   "regId": "ca03a8d9-1259-4001-9c33-5413efdde0e3",
+   "studentId": "CSC/2024/035",
+   "courseCode": "MTH201",
+   "session": "2025/2026",
+   "status": "REGISTERED"
+  },
+  {
+   "regId": "35796206-5ba2-40ab-b277-ddae2caa3e1f",
+   "studentId": "CSC/2024/035",
+   "courseCode": "STA201",
+   "session": "2025/2026",
+   "status": "REGISTERED"
+  },
+  {
+   "regId": "fe856b09-4841-4d53-b94a-6782ee71e7d6",
+   "studentId": "CSC/2024/035",
+   "courseCode": "ENT211",
+   "session": "2025/2026",
+   "status": "REGISTERED"
+  },
+  {
+   "regId": "ef90df04-ea38-4749-a2a3-e64283c1214c",
+   "studentId": "CSC/2024/036",
+   "courseCode": "CSC201",
+   "session": "2025/2026",
+   "status": "REGISTERED"
+  },
+  {
+   "regId": "251ad16c-c6e3-46ee-a7b3-de1da736eac2",
+   "studentId": "CSC/2024/036",
+   "courseCode": "CSC203",
+   "session": "2025/2026",
+   "status": "REGISTERED"
+  },
+  {
+   "regId": "8da5b315-20bf-42db-8bd0-0c7bf488e120",
+   "studentId": "CSC/2024/036",
+   "courseCode": "CSC205",
+   "session": "2025/2026",
+   "status": "REGISTERED"
+  },
+  {
+   "regId": "5a787b9b-455f-45c5-be42-f36778d2a8fa",
+   "studentId": "CSC/2024/036",
+   "courseCode": "MTH201",
+   "session": "2025/2026",
+   "status": "REGISTERED"
+  },
+  {
+   "regId": "4a8dcc4a-d0d3-46ce-b1f1-1180d278d221",
+   "studentId": "CSC/2024/036",
+   "courseCode": "STA201",
+   "session": "2025/2026",
+   "status": "REGISTERED"
+  },
+  {
+   "regId": "6d0c9182-3611-4924-bc35-7b4d190b09a2",
+   "studentId": "CSC/2024/036",
+   "courseCode": "ENT211",
+   "session": "2025/2026",
+   "status": "REGISTERED"
+  },
+  {
+   "regId": "ef42c2af-2aa9-4fda-97d8-c8c0b2098836",
+   "studentId": "CSC/2024/037",
+   "courseCode": "CSC201",
+   "session": "2025/2026",
+   "status": "REGISTERED"
+  },
+  {
+   "regId": "b1ab69f9-cf18-4435-9336-7dd356e53903",
+   "studentId": "CSC/2024/037",
+   "courseCode": "CSC203",
+   "session": "2025/2026",
+   "status": "REGISTERED"
+  },
+  {
+   "regId": "1dd92567-2d19-4565-97a3-a7f16f4f6a4b",
+   "studentId": "CSC/2024/037",
+   "courseCode": "CSC205",
+   "session": "2025/2026",
+   "status": "REGISTERED"
+  },
+  {
+   "regId": "2fd9c251-5772-4acd-b718-e392b1687ddc",
+   "studentId": "CSC/2024/037",
+   "courseCode": "MTH201",
+   "session": "2025/2026",
+   "status": "REGISTERED"
+  },
+  {
+   "regId": "ede9cf8f-5055-4755-9af9-190eb458e457",
+   "studentId": "CSC/2024/037",
+   "courseCode": "STA201",
+   "session": "2025/2026",
+   "status": "REGISTERED"
+  },
+  {
+   "regId": "a5c51d54-7bd4-4b21-a90a-5e6704bd4174",
+   "studentId": "CSC/2024/037",
+   "courseCode": "ENT211",
+   "session": "2025/2026",
+   "status": "REGISTERED"
+  },
+  {
+   "regId": "8c1862f6-a5ff-4f8e-a22c-584c316b4980",
+   "studentId": "CSC/2024/038",
+   "courseCode": "CSC201",
+   "session": "2025/2026",
+   "status": "REGISTERED"
+  },
+  {
+   "regId": "1599efae-d5ef-4178-9def-fafb4ada9704",
+   "studentId": "CSC/2024/038",
+   "courseCode": "CSC203",
+   "session": "2025/2026",
+   "status": "REGISTERED"
+  },
+  {
+   "regId": "28c41969-b7b2-43c9-823a-b6076357446d",
+   "studentId": "CSC/2024/038",
+   "courseCode": "CSC205",
+   "session": "2025/2026",
+   "status": "REGISTERED"
+  },
+  {
+   "regId": "98c8626d-1698-4940-ab89-39d39386725b",
+   "studentId": "CSC/2024/038",
+   "courseCode": "MTH201",
+   "session": "2025/2026",
+   "status": "REGISTERED"
+  },
+  {
+   "regId": "509a5609-06e3-412b-beed-607c1979bafd",
+   "studentId": "CSC/2024/038",
+   "courseCode": "STA201",
+   "session": "2025/2026",
+   "status": "REGISTERED"
+  },
+  {
+   "regId": "d076b204-378b-46dc-8070-cce5e5df1a59",
+   "studentId": "CSC/2024/039",
+   "courseCode": "CSC201",
+   "session": "2025/2026",
+   "status": "REGISTERED"
+  },
+  {
+   "regId": "f98a830a-ebbc-4abf-ad7c-9e0a930fef8a",
+   "studentId": "CSC/2024/039",
+   "courseCode": "CSC205",
+   "session": "2025/2026",
+   "status": "REGISTERED"
+  },
+  {
+   "regId": "fd2b10a3-afdc-400e-b75e-5f0858c70726",
+   "studentId": "CSC/2024/039",
+   "courseCode": "MTH201",
+   "session": "2025/2026",
+   "status": "REGISTERED"
+  },
+  {
+   "regId": "9eda7ce7-9da1-48ed-986f-4b4e5e1501b3",
+   "studentId": "CSC/2024/039",
+   "courseCode": "STA201",
+   "session": "2025/2026",
+   "status": "REGISTERED"
+  },
+  {
+   "regId": "1cfd6cf0-bdec-42f4-8c70-45ff207f0d92",
+   "studentId": "CSC/2024/040",
+   "courseCode": "CSC201",
+   "session": "2025/2026",
+   "status": "REGISTERED"
+  },
+  {
+   "regId": "c49d0dc4-50eb-435c-b5a8-661fdde146e4",
+   "studentId": "CSC/2024/040",
+   "courseCode": "CSC203",
+   "session": "2025/2026",
+   "status": "REGISTERED"
+  },
+  {
+   "regId": "944aa527-1e05-4b34-b78e-c5ecf53350ae",
+   "studentId": "CSC/2024/040",
+   "courseCode": "CSC205",
+   "session": "2025/2026",
+   "status": "REGISTERED"
+  },
+  {
+   "regId": "42fd660e-fe0c-46e7-bb4f-cbff21292b44",
+   "studentId": "CSC/2024/040",
+   "courseCode": "MTH201",
+   "session": "2025/2026",
+   "status": "REGISTERED"
+  },
+  {
+   "regId": "b6142905-6c87-4539-8f01-9471a49baea8",
+   "studentId": "CSC/2024/040",
+   "courseCode": "STA201",
+   "session": "2025/2026",
+   "status": "REGISTERED"
+  },
+  {
+   "regId": "f7b67aed-c6f1-4dda-84c6-95e638bbedb9",
+   "studentId": "CSC/2023/002",
+   "courseCode": "CSC301",
+   "session": "2025/2026",
+   "status": "REGISTERED"
+  },
+  {
+   "regId": "5b1c6412-b355-4331-a1ca-fd04c2892f5c",
+   "studentId": "CSC/2023/002",
+   "courseCode": "CSC303",
+   "session": "2025/2026",
+   "status": "REGISTERED"
+  },
+  {
+   "regId": "b6d892a1-d4ab-4508-a665-feea427331e9",
+   "studentId": "CSC/2023/002",
+   "courseCode": "CSC305",
+   "session": "2025/2026",
+   "status": "REGISTERED"
+  },
+  {
+   "regId": "48c037ae-5b94-430a-b871-6fd1dd81be77",
+   "studentId": "CSC/2023/002",
+   "courseCode": "CSC307",
+   "session": "2025/2026",
+   "status": "REGISTERED"
+  },
+  {
+   "regId": "f5a5b096-9944-453a-952c-50a176e0734f",
+   "studentId": "CSC/2023/002",
+   "courseCode": "CSC309",
+   "session": "2025/2026",
+   "status": "REGISTERED"
+  },
+  {
+   "regId": "a5fe9c62-bfe9-4c2f-86e9-946016c000c3",
+   "studentId": "CSC/2023/002",
+   "courseCode": "CSC313",
+   "session": "2025/2026",
+   "status": "REGISTERED"
+  },
+  {
+   "regId": "3e012058-21fd-4ab9-92b0-ed5c37406a6a",
+   "studentId": "CSC/2023/003",
+   "courseCode": "CSC301",
+   "session": "2025/2026",
+   "status": "REGISTERED"
+  },
+  {
+   "regId": "368f09bf-152d-40ae-ae84-b1842374d8fc",
+   "studentId": "CSC/2023/003",
+   "courseCode": "CSC303",
+   "session": "2025/2026",
+   "status": "REGISTERED"
+  },
+  {
+   "regId": "6e95b6f5-76bb-48c5-a9c3-ebe95f8eb78a",
+   "studentId": "CSC/2023/003",
+   "courseCode": "CSC305",
+   "session": "2025/2026",
+   "status": "REGISTERED"
+  },
+  {
+   "regId": "2d145c42-7c90-4fd7-a7af-45cbf8f3f653",
+   "studentId": "CSC/2023/003",
+   "courseCode": "CSC307",
+   "session": "2025/2026",
+   "status": "REGISTERED"
+  },
+  {
+   "regId": "f51c926e-4547-4cb7-8f3c-33e5b4bc6799",
+   "studentId": "CSC/2023/003",
+   "courseCode": "CSC309",
+   "session": "2025/2026",
+   "status": "REGISTERED"
+  },
+  {
+   "regId": "27809fd9-5fe8-4cc9-bf3c-d438ca09c645",
+   "studentId": "CSC/2023/003",
+   "courseCode": "CSC313",
+   "session": "2025/2026",
+   "status": "REGISTERED"
+  },
+  {
+   "regId": "adf346f8-fad3-4858-acc9-85508626410d",
+   "studentId": "CSC/2023/004",
+   "courseCode": "CSC301",
+   "session": "2025/2026",
+   "status": "REGISTERED"
+  },
+  {
+   "regId": "b84a0e49-c34f-425a-85a1-478500078a0b",
+   "studentId": "CSC/2023/004",
+   "courseCode": "CSC303",
+   "session": "2025/2026",
+   "status": "REGISTERED"
+  },
+  {
+   "regId": "821fe011-7f71-4b38-810f-5d452c0c0419",
+   "studentId": "CSC/2023/004",
+   "courseCode": "CSC305",
+   "session": "2025/2026",
+   "status": "REGISTERED"
+  },
+  {
+   "regId": "a8fc04ac-9eca-42d9-a68a-584fc57a0a91",
+   "studentId": "CSC/2023/004",
+   "courseCode": "CSC307",
+   "session": "2025/2026",
+   "status": "REGISTERED"
+  },
+  {
+   "regId": "96d80435-bf3d-4ddf-801d-442a9f26aac6",
+   "studentId": "CSC/2023/004",
+   "courseCode": "CSC309",
+   "session": "2025/2026",
+   "status": "REGISTERED"
+  },
+  {
+   "regId": "67f4867c-dcd3-4f30-bf02-71a89b2839db",
+   "studentId": "CSC/2023/004",
+   "courseCode": "CSC311",
+   "session": "2025/2026",
+   "status": "REGISTERED"
+  },
+  {
+   "regId": "7aa4f894-67c5-4730-846b-7f446e29deee",
+   "studentId": "CSC/2023/005",
+   "courseCode": "CSC301",
+   "session": "2025/2026",
+   "status": "REGISTERED"
+  },
+  {
+   "regId": "b8de74a0-76b2-4107-9bc1-881da8901caa",
+   "studentId": "CSC/2023/005",
+   "courseCode": "CSC303",
+   "session": "2025/2026",
+   "status": "REGISTERED"
+  },
+  {
+   "regId": "5bcaf13d-496f-445d-9ad4-04406cc76397",
+   "studentId": "CSC/2023/005",
+   "courseCode": "CSC305",
+   "session": "2025/2026",
+   "status": "REGISTERED"
+  },
+  {
+   "regId": "af3b6a93-d45e-4b75-8957-10caa39efc15",
+   "studentId": "CSC/2023/005",
+   "courseCode": "CSC307",
+   "session": "2025/2026",
+   "status": "REGISTERED"
+  },
+  {
+   "regId": "140ddbbe-e14b-4bca-8219-9dff4e51c3c3",
+   "studentId": "CSC/2023/005",
+   "courseCode": "CSC309",
+   "session": "2025/2026",
+   "status": "REGISTERED"
+  },
+  {
+   "regId": "8e262659-81ab-4d69-b2ca-225c44b113dd",
+   "studentId": "CSC/2023/005",
+   "courseCode": "CSC311",
+   "session": "2025/2026",
+   "status": "REGISTERED"
+  },
+  {
+   "regId": "c349b595-37cf-4d78-8720-7856630575b9",
+   "studentId": "CSC/2023/006",
+   "courseCode": "CSC301",
+   "session": "2025/2026",
+   "status": "REGISTERED"
+  },
+  {
+   "regId": "c2dd1787-e935-4da6-bae9-2dc8819c33d0",
+   "studentId": "CSC/2023/006",
+   "courseCode": "CSC303",
+   "session": "2025/2026",
+   "status": "REGISTERED"
+  },
+  {
+   "regId": "8f95a92e-9735-49ec-939c-69f1c05e11d5",
+   "studentId": "CSC/2023/006",
+   "courseCode": "CSC305",
+   "session": "2025/2026",
+   "status": "REGISTERED"
+  },
+  {
+   "regId": "b402de2b-0e25-4491-b146-d7ac3ee18b53",
+   "studentId": "CSC/2023/006",
+   "courseCode": "CSC307",
+   "session": "2025/2026",
+   "status": "REGISTERED"
+  },
+  {
+   "regId": "f3ff2bd8-9f15-416c-9ff2-fc37a16ff072",
+   "studentId": "CSC/2023/006",
+   "courseCode": "CSC309",
+   "session": "2025/2026",
+   "status": "REGISTERED"
+  },
+  {
+   "regId": "acbc3891-e80c-46a2-a40d-6a74236aa154",
+   "studentId": "CSC/2023/006",
+   "courseCode": "CSC313",
+   "session": "2025/2026",
+   "status": "REGISTERED"
+  },
+  {
+   "regId": "a87ffbaf-047a-4c3b-90f8-f552194ce692",
+   "studentId": "CSC/2023/007",
+   "courseCode": "CSC301",
+   "session": "2025/2026",
+   "status": "REGISTERED"
+  },
+  {
+   "regId": "80d1a574-acbf-4cd2-adee-093f2c5160b7",
+   "studentId": "CSC/2023/007",
+   "courseCode": "CSC303",
+   "session": "2025/2026",
+   "status": "REGISTERED"
+  },
+  {
+   "regId": "3aa1aed1-2f32-41bf-b937-c791706cc1a1",
+   "studentId": "CSC/2023/007",
+   "courseCode": "CSC305",
+   "session": "2025/2026",
+   "status": "REGISTERED"
+  },
+  {
+   "regId": "e5018b2e-0fbe-42ad-8606-b03f692bb413",
+   "studentId": "CSC/2023/007",
+   "courseCode": "CSC307",
+   "session": "2025/2026",
+   "status": "REGISTERED"
+  },
+  {
+   "regId": "60e3aca0-583f-4f90-957f-933aababcad7",
+   "studentId": "CSC/2023/007",
+   "courseCode": "CSC309",
+   "session": "2025/2026",
+   "status": "REGISTERED"
+  },
+  {
+   "regId": "c0cecb92-ac0c-45af-aa5a-6b52d1f7fa1b",
+   "studentId": "CSC/2023/007",
+   "courseCode": "CSC311",
+   "session": "2025/2026",
+   "status": "REGISTERED"
+  },
+  {
+   "regId": "6df3322a-bf59-4a07-8759-8001f5d23f4f",
+   "studentId": "CSC/2023/008",
+   "courseCode": "CSC301",
+   "session": "2025/2026",
+   "status": "REGISTERED"
+  },
+  {
+   "regId": "4e8bdbc0-8b77-4fe0-8751-61089731cdc9",
+   "studentId": "CSC/2023/008",
+   "courseCode": "CSC303",
+   "session": "2025/2026",
+   "status": "REGISTERED"
+  },
+  {
+   "regId": "36b36a5a-eb31-474a-852b-05a10e3576c1",
+   "studentId": "CSC/2023/008",
+   "courseCode": "CSC305",
+   "session": "2025/2026",
+   "status": "REGISTERED"
+  },
+  {
+   "regId": "2641b62c-acad-42f5-9095-49ae15c4de10",
+   "studentId": "CSC/2023/008",
+   "courseCode": "CSC307",
+   "session": "2025/2026",
+   "status": "REGISTERED"
+  },
+  {
+   "regId": "fc1f88c1-1327-4e14-a0ec-40a50fbe1054",
+   "studentId": "CSC/2023/008",
+   "courseCode": "CSC309",
+   "session": "2025/2026",
+   "status": "REGISTERED"
+  },
+  {
+   "regId": "1494cdd1-19c7-48e2-b724-86306dfaf8ed",
+   "studentId": "CSC/2023/008",
+   "courseCode": "CSC313",
+   "session": "2025/2026",
+   "status": "REGISTERED"
+  },
+  {
+   "regId": "df6c9d00-617a-49cc-8641-ad95267091ab",
+   "studentId": "CSC/2023/009",
+   "courseCode": "CSC301",
+   "session": "2025/2026",
+   "status": "REGISTERED"
+  },
+  {
+   "regId": "17b159ed-15f0-4368-b720-371a7bedd78a",
+   "studentId": "CSC/2023/009",
+   "courseCode": "CSC303",
+   "session": "2025/2026",
+   "status": "REGISTERED"
+  },
+  {
+   "regId": "724520a2-0b56-4567-9b58-23e9670d80bb",
+   "studentId": "CSC/2023/009",
+   "courseCode": "CSC305",
+   "session": "2025/2026",
+   "status": "REGISTERED"
+  },
+  {
+   "regId": "6ab3e79c-7640-4da0-ba2d-31f73a137eb7",
+   "studentId": "CSC/2023/009",
+   "courseCode": "CSC307",
+   "session": "2025/2026",
+   "status": "REGISTERED"
+  },
+  {
+   "regId": "432ef3c0-4bbc-4bb0-b8cc-210541e7ff0e",
+   "studentId": "CSC/2023/009",
+   "courseCode": "CSC309",
+   "session": "2025/2026",
+   "status": "REGISTERED"
+  },
+  {
+   "regId": "18443873-9369-44fe-a428-cf30e0e9750b",
+   "studentId": "CSC/2023/009",
+   "courseCode": "CSC313",
+   "session": "2025/2026",
+   "status": "REGISTERED"
+  },
+  {
+   "regId": "69a6bbfb-7a80-47a2-9123-115265ab5151",
+   "studentId": "CSC/2023/010",
+   "courseCode": "CSC301",
+   "session": "2025/2026",
+   "status": "REGISTERED"
+  },
+  {
+   "regId": "df327897-3c82-45e5-805d-816264213c07",
+   "studentId": "CSC/2023/010",
+   "courseCode": "CSC303",
+   "session": "2025/2026",
+   "status": "REGISTERED"
+  },
+  {
+   "regId": "08228c75-8c5d-4f9f-b350-13888edbf80a",
+   "studentId": "CSC/2023/010",
+   "courseCode": "CSC305",
+   "session": "2025/2026",
+   "status": "REGISTERED"
+  },
+  {
+   "regId": "26fc8c7a-ad0f-494f-9315-14a823a0cb75",
+   "studentId": "CSC/2023/010",
+   "courseCode": "CSC307",
+   "session": "2025/2026",
+   "status": "REGISTERED"
+  },
+  {
+   "regId": "f2f2c8a6-426c-4044-815c-83d0ddbed1ea",
+   "studentId": "CSC/2023/010",
+   "courseCode": "CSC309",
+   "session": "2025/2026",
+   "status": "REGISTERED"
+  },
+  {
+   "regId": "7d611255-8d9b-4864-ae7f-0663d10232a1",
+   "studentId": "CSC/2023/010",
+   "courseCode": "CSC313",
+   "session": "2025/2026",
+   "status": "REGISTERED"
+  },
+  {
+   "regId": "ce78204d-6b5e-4a4c-998d-9219eaa9609c",
+   "studentId": "CSC/2023/011",
+   "courseCode": "CSC301",
+   "session": "2025/2026",
+   "status": "REGISTERED"
+  },
+  {
+   "regId": "2b1ca0c4-56cf-401e-80c3-736b80a76cb5",
+   "studentId": "CSC/2023/011",
+   "courseCode": "CSC305",
+   "session": "2025/2026",
+   "status": "REGISTERED"
+  },
+  {
+   "regId": "bda12694-6daa-48ee-910f-51bd97137ce9",
+   "studentId": "CSC/2023/011",
+   "courseCode": "CSC307",
+   "session": "2025/2026",
+   "status": "REGISTERED"
+  },
+  {
+   "regId": "81cbd4ff-6507-4063-bf9f-96ee4dc7d359",
+   "studentId": "CSC/2023/011",
+   "courseCode": "CSC309",
+   "session": "2025/2026",
+   "status": "REGISTERED"
+  },
+  {
+   "regId": "95c02ed7-8a22-4849-8e7c-4b71bb004b2e",
+   "studentId": "CSC/2023/011",
+   "courseCode": "CSC311",
+   "session": "2025/2026",
+   "status": "REGISTERED"
+  },
+  {
+   "regId": "ad7c5a76-9499-433d-bccf-e0558ccd2efb",
+   "studentId": "CSC/2023/012",
+   "courseCode": "CSC301",
+   "session": "2025/2026",
+   "status": "REGISTERED"
+  },
+  {
+   "regId": "4a37d5ba-a7e8-42bd-9380-e5b958c5bc82",
+   "studentId": "CSC/2023/012",
+   "courseCode": "CSC303",
+   "session": "2025/2026",
+   "status": "REGISTERED"
+  },
+  {
+   "regId": "6f826371-a6fb-4686-a4e0-cded36e77020",
+   "studentId": "CSC/2023/012",
+   "courseCode": "CSC305",
+   "session": "2025/2026",
+   "status": "REGISTERED"
+  },
+  {
+   "regId": "5314f149-afb0-489a-b4f0-0a22be11ca61",
+   "studentId": "CSC/2023/012",
+   "courseCode": "CSC307",
+   "session": "2025/2026",
+   "status": "REGISTERED"
+  },
+  {
+   "regId": "5dfd99f0-37fb-447b-a6db-affbbe104496",
+   "studentId": "CSC/2023/012",
+   "courseCode": "CSC309",
+   "session": "2025/2026",
+   "status": "REGISTERED"
+  },
+  {
+   "regId": "49204e15-f232-4410-ab65-651b0c721743",
+   "studentId": "CSC/2023/012",
+   "courseCode": "CSC311",
+   "session": "2025/2026",
+   "status": "REGISTERED"
+  },
+  {
+   "regId": "28d718e0-88dd-42e1-bec3-a35ec8c9791f",
+   "studentId": "CSC/2023/013",
+   "courseCode": "CSC301",
+   "session": "2025/2026",
+   "status": "REGISTERED"
+  },
+  {
+   "regId": "155a9aa2-78f4-479f-8453-1b7cf6d262ad",
+   "studentId": "CSC/2023/013",
+   "courseCode": "CSC303",
+   "session": "2025/2026",
+   "status": "REGISTERED"
+  },
+  {
+   "regId": "18a44036-fc0d-41c4-9e3f-9d20adfcbaf5",
+   "studentId": "CSC/2023/013",
+   "courseCode": "CSC305",
+   "session": "2025/2026",
+   "status": "REGISTERED"
+  },
+  {
+   "regId": "38512b82-17a3-4840-9d32-5e806992219a",
+   "studentId": "CSC/2023/013",
+   "courseCode": "CSC307",
+   "session": "2025/2026",
+   "status": "REGISTERED"
+  },
+  {
+   "regId": "59a77e6b-dfe4-4a18-8ec5-66bf7a23377e",
+   "studentId": "CSC/2023/013",
+   "courseCode": "CSC309",
+   "session": "2025/2026",
+   "status": "REGISTERED"
+  },
+  {
+   "regId": "a2dab06c-dd7d-427e-842a-f4022ca72c32",
+   "studentId": "CSC/2023/013",
+   "courseCode": "CSC311",
+   "session": "2025/2026",
+   "status": "REGISTERED"
+  },
+  {
+   "regId": "7f84f957-3b19-4894-81c8-3036849ca3d3",
+   "studentId": "CSC/2023/014",
+   "courseCode": "CSC301",
+   "session": "2025/2026",
+   "status": "REGISTERED"
+  },
+  {
+   "regId": "fd143e86-ee55-43d3-a467-61fe1e654a51",
+   "studentId": "CSC/2023/014",
+   "courseCode": "CSC303",
+   "session": "2025/2026",
+   "status": "REGISTERED"
+  },
+  {
+   "regId": "54d1b6b3-0acd-4a0c-9378-58d798a947e7",
+   "studentId": "CSC/2023/014",
+   "courseCode": "CSC305",
+   "session": "2025/2026",
+   "status": "REGISTERED"
+  },
+  {
+   "regId": "efc2a699-9c96-4f46-8775-e25b3a0ff4d5",
+   "studentId": "CSC/2023/014",
+   "courseCode": "CSC307",
+   "session": "2025/2026",
+   "status": "REGISTERED"
+  },
+  {
+   "regId": "ff81b7fb-04ba-4040-bc1e-4b1b712d5081",
+   "studentId": "CSC/2023/014",
+   "courseCode": "CSC309",
+   "session": "2025/2026",
+   "status": "REGISTERED"
+  },
+  {
+   "regId": "5154fc59-d323-4257-bc78-5322d4fc8108",
+   "studentId": "CSC/2023/014",
+   "courseCode": "CSC313",
+   "session": "2025/2026",
+   "status": "REGISTERED"
+  },
+  {
+   "regId": "70b6ab65-4479-4260-aebb-14424e4adb79",
+   "studentId": "CSC/2023/015",
+   "courseCode": "CSC301",
+   "session": "2025/2026",
+   "status": "REGISTERED"
+  },
+  {
+   "regId": "5f6be26b-c11f-4fa6-ac32-2c23d35fd260",
+   "studentId": "CSC/2023/015",
+   "courseCode": "CSC303",
+   "session": "2025/2026",
+   "status": "REGISTERED"
+  },
+  {
+   "regId": "bb5066bf-4f38-498f-803f-761d3c6cbfd9",
+   "studentId": "CSC/2023/015",
+   "courseCode": "CSC305",
+   "session": "2025/2026",
+   "status": "REGISTERED"
+  },
+  {
+   "regId": "44e2086c-fbaa-4bee-8805-0c172c2ed716",
+   "studentId": "CSC/2023/015",
+   "courseCode": "CSC307",
+   "session": "2025/2026",
+   "status": "REGISTERED"
+  },
+  {
+   "regId": "be90adf8-f522-4218-a07c-018e881f9cd5",
+   "studentId": "CSC/2023/015",
+   "courseCode": "CSC309",
+   "session": "2025/2026",
+   "status": "REGISTERED"
+  },
+  {
+   "regId": "04244325-84a3-4acb-a2b9-8beb66219371",
+   "studentId": "CSC/2023/015",
+   "courseCode": "CSC313",
+   "session": "2025/2026",
+   "status": "REGISTERED"
+  },
+  {
+   "regId": "528cbab5-891c-4370-853b-469ebfa29bbd",
+   "studentId": "CSC/2023/017",
+   "courseCode": "CSC301",
+   "session": "2025/2026",
+   "status": "REGISTERED"
+  },
+  {
+   "regId": "b5f6f7d9-e054-4284-af30-37e7ce782ae0",
+   "studentId": "CSC/2023/017",
+   "courseCode": "CSC303",
+   "session": "2025/2026",
+   "status": "REGISTERED"
+  },
+  {
+   "regId": "440a27da-ef10-412e-adc2-d9be09ba7c17",
+   "studentId": "CSC/2023/017",
+   "courseCode": "CSC305",
+   "session": "2025/2026",
+   "status": "REGISTERED"
+  },
+  {
+   "regId": "c665a4cd-e9a8-424c-b385-c36a658f5f9c",
+   "studentId": "CSC/2023/017",
+   "courseCode": "CSC307",
+   "session": "2025/2026",
+   "status": "REGISTERED"
+  },
+  {
+   "regId": "168db9ba-e03d-414f-bdae-f05d528f30ca",
+   "studentId": "CSC/2023/017",
+   "courseCode": "CSC309",
+   "session": "2025/2026",
+   "status": "REGISTERED"
+  },
+  {
+   "regId": "3191e62e-c9b0-4625-8c39-7fadacf5de37",
+   "studentId": "CSC/2023/017",
+   "courseCode": "CSC313",
+   "session": "2025/2026",
+   "status": "REGISTERED"
+  },
+  {
+   "regId": "24887008-4b54-4930-9066-f97ba66e4b84",
+   "studentId": "CSC/2023/018",
+   "courseCode": "CSC301",
+   "session": "2025/2026",
+   "status": "REGISTERED"
+  },
+  {
+   "regId": "9e3960f7-4fe7-4fb2-9618-999de14fb3bf",
+   "studentId": "CSC/2023/018",
+   "courseCode": "CSC303",
+   "session": "2025/2026",
+   "status": "REGISTERED"
+  },
+  {
+   "regId": "2f6351b7-8be8-487e-a8d7-2e95e21b2797",
+   "studentId": "CSC/2023/018",
+   "courseCode": "CSC305",
+   "session": "2025/2026",
+   "status": "REGISTERED"
+  },
+  {
+   "regId": "990eab94-25e1-4cbf-a013-de9a39dc8c96",
+   "studentId": "CSC/2023/018",
+   "courseCode": "CSC307",
+   "session": "2025/2026",
+   "status": "REGISTERED"
+  },
+  {
+   "regId": "b5e8f62d-0201-48ee-8c01-79d82d9e965e",
+   "studentId": "CSC/2023/018",
+   "courseCode": "CSC309",
+   "session": "2025/2026",
+   "status": "REGISTERED"
+  },
+  {
+   "regId": "550948fb-af2f-490f-9ee2-2aab9e9801c1",
+   "studentId": "CSC/2023/018",
+   "courseCode": "CSC311",
+   "session": "2025/2026",
+   "status": "REGISTERED"
+  },
+  {
+   "regId": "9b9ec6b3-ccbd-4efd-b462-55e148b32c90",
+   "studentId": "CSC/2023/020",
+   "courseCode": "CSC301",
+   "session": "2025/2026",
+   "status": "REGISTERED"
+  },
+  {
+   "regId": "2c66f081-42a3-4f9d-bedf-ef700795773c",
+   "studentId": "CSC/2023/020",
+   "courseCode": "CSC303",
+   "session": "2025/2026",
+   "status": "REGISTERED"
+  },
+  {
+   "regId": "f77baba2-5327-4be2-af99-a624b5fad196",
+   "studentId": "CSC/2023/020",
+   "courseCode": "CSC305",
+   "session": "2025/2026",
+   "status": "REGISTERED"
+  },
+  {
+   "regId": "76fe088c-0719-4bec-a02a-e91673d93cad",
+   "studentId": "CSC/2023/020",
+   "courseCode": "CSC307",
+   "session": "2025/2026",
+   "status": "REGISTERED"
+  },
+  {
+   "regId": "d72698ba-ac60-4270-ac60-f0db12450548",
+   "studentId": "CSC/2023/020",
+   "courseCode": "CSC309",
+   "session": "2025/2026",
+   "status": "REGISTERED"
+  },
+  {
+   "regId": "6db37d9c-4cfc-4290-b485-b76182cc79ce",
+   "studentId": "CSC/2023/020",
+   "courseCode": "CSC311",
+   "session": "2025/2026",
+   "status": "REGISTERED"
+  },
+  {
+   "regId": "0d1cfe3f-09c0-430d-8520-309edfddbfe1",
+   "studentId": "CSC/2023/021",
+   "courseCode": "CSC301",
+   "session": "2025/2026",
+   "status": "REGISTERED"
+  },
+  {
+   "regId": "3a4e43d2-5b63-4a08-8846-8206abb9b586",
+   "studentId": "CSC/2023/021",
+   "courseCode": "CSC303",
+   "session": "2025/2026",
+   "status": "REGISTERED"
+  },
+  {
+   "regId": "9076af2b-816b-4fd6-8591-7fb36920cdc7",
+   "studentId": "CSC/2023/021",
+   "courseCode": "CSC305",
+   "session": "2025/2026",
+   "status": "REGISTERED"
+  },
+  {
+   "regId": "73e462a7-f43e-4d9a-8cff-0081a05de7ab",
+   "studentId": "CSC/2023/021",
+   "courseCode": "CSC307",
+   "session": "2025/2026",
+   "status": "REGISTERED"
+  },
+  {
+   "regId": "db49afb5-583d-4352-b905-6ee0cd1ec298",
+   "studentId": "CSC/2023/021",
+   "courseCode": "CSC309",
+   "session": "2025/2026",
+   "status": "REGISTERED"
+  },
+  {
+   "regId": "55e0b800-6d83-4573-8fa5-b6640bcf34cf",
+   "studentId": "CSC/2023/021",
+   "courseCode": "CSC311",
+   "session": "2025/2026",
+   "status": "REGISTERED"
+  },
+  {
+   "regId": "abfabcec-43ee-4ad5-aa26-af8e126c2001",
+   "studentId": "CSC/2023/022",
+   "courseCode": "CSC301",
+   "session": "2025/2026",
+   "status": "REGISTERED"
+  },
+  {
+   "regId": "48d316ed-96b5-4e8a-bde6-9536f8f91875",
+   "studentId": "CSC/2023/022",
+   "courseCode": "CSC303",
+   "session": "2025/2026",
+   "status": "REGISTERED"
+  },
+  {
+   "regId": "24c05f17-c764-464c-b938-17daf5a037d2",
+   "studentId": "CSC/2023/022",
+   "courseCode": "CSC305",
+   "session": "2025/2026",
+   "status": "REGISTERED"
+  },
+  {
+   "regId": "84e4c69f-0c8e-4124-af67-b1ddce1ab5c2",
+   "studentId": "CSC/2023/022",
+   "courseCode": "CSC307",
+   "session": "2025/2026",
+   "status": "REGISTERED"
+  },
+  {
+   "regId": "e4fd05af-77d2-4297-b7dc-98a0eebac7ef",
+   "studentId": "CSC/2023/022",
+   "courseCode": "CSC309",
+   "session": "2025/2026",
+   "status": "REGISTERED"
+  },
+  {
+   "regId": "88e24f20-63ed-420a-a023-1df68905c736",
+   "studentId": "CSC/2023/022",
+   "courseCode": "CSC311",
+   "session": "2025/2026",
+   "status": "REGISTERED"
+  },
+  {
+   "regId": "2c4c1783-d84e-4316-95af-921bb3940de4",
+   "studentId": "CSC/2023/024",
+   "courseCode": "CSC301",
+   "session": "2025/2026",
+   "status": "REGISTERED"
+  },
+  {
+   "regId": "ce787ded-1318-402d-b39d-554fa1801c4b",
+   "studentId": "CSC/2023/024",
+   "courseCode": "CSC303",
+   "session": "2025/2026",
+   "status": "REGISTERED"
+  },
+  {
+   "regId": "815fa4c5-9962-43f3-8255-bae3fbd716ce",
+   "studentId": "CSC/2023/024",
+   "courseCode": "CSC307",
+   "session": "2025/2026",
+   "status": "REGISTERED"
+  },
+  {
+   "regId": "8b61ab2d-de94-4548-bf58-d6fce121953d",
+   "studentId": "CSC/2023/024",
+   "courseCode": "CSC309",
+   "session": "2025/2026",
+   "status": "REGISTERED"
+  },
+  {
+   "regId": "182857f5-cc12-48f7-a694-88cf15f51acb",
+   "studentId": "CSC/2023/024",
+   "courseCode": "CSC313",
+   "session": "2025/2026",
+   "status": "REGISTERED"
+  },
+  {
+   "regId": "acf4413c-955c-4879-a702-60ade93c8e05",
+   "studentId": "CSC/2023/026",
+   "courseCode": "CSC301",
+   "session": "2025/2026",
+   "status": "REGISTERED"
+  },
+  {
+   "regId": "c7dcf2f8-b1f6-4395-866f-8507c6a664fd",
+   "studentId": "CSC/2023/026",
+   "courseCode": "CSC303",
+   "session": "2025/2026",
+   "status": "REGISTERED"
+  },
+  {
+   "regId": "8a872c6f-de35-42fb-928c-af85d1e6acec",
+   "studentId": "CSC/2023/026",
+   "courseCode": "CSC305",
+   "session": "2025/2026",
+   "status": "REGISTERED"
+  },
+  {
+   "regId": "1452fa94-f179-413c-96bf-4df63495dd66",
+   "studentId": "CSC/2023/026",
+   "courseCode": "CSC307",
+   "session": "2025/2026",
+   "status": "REGISTERED"
+  },
+  {
+   "regId": "891434f7-09ba-4acf-b492-560a637b670b",
+   "studentId": "CSC/2023/026",
+   "courseCode": "CSC309",
+   "session": "2025/2026",
+   "status": "REGISTERED"
+  },
+  {
+   "regId": "d9bc9ea2-8582-4e30-8838-5a15457d40a2",
+   "studentId": "CSC/2023/026",
+   "courseCode": "CSC313",
+   "session": "2025/2026",
+   "status": "REGISTERED"
+  },
+  {
+   "regId": "6beb3c87-2563-49bc-a0cc-d67b81a3758d",
+   "studentId": "CSC/2023/028",
+   "courseCode": "CSC301",
+   "session": "2025/2026",
+   "status": "REGISTERED"
+  },
+  {
+   "regId": "bb3ce573-9700-4d86-ba7c-70b4b0ba4c3b",
+   "studentId": "CSC/2023/028",
+   "courseCode": "CSC303",
+   "session": "2025/2026",
+   "status": "REGISTERED"
+  },
+  {
+   "regId": "0e422252-9112-48e1-8fcd-e400bd3f2564",
+   "studentId": "CSC/2023/028",
+   "courseCode": "CSC305",
+   "session": "2025/2026",
+   "status": "REGISTERED"
+  },
+  {
+   "regId": "a058afa3-3b55-4137-92f2-055ee6e72762",
+   "studentId": "CSC/2023/028",
+   "courseCode": "CSC307",
+   "session": "2025/2026",
+   "status": "REGISTERED"
+  },
+  {
+   "regId": "c31e1a95-8961-4e6e-875e-b3292dd70c6d",
+   "studentId": "CSC/2023/028",
+   "courseCode": "CSC309",
+   "session": "2025/2026",
+   "status": "REGISTERED"
+  },
+  {
+   "regId": "fc9d164b-25ac-4b97-86ba-538595f49a62",
+   "studentId": "CSC/2023/028",
+   "courseCode": "CSC313",
+   "session": "2025/2026",
+   "status": "REGISTERED"
+  },
+  {
+   "regId": "49cac709-a0bf-49ce-98b8-17f20bb60afa",
+   "studentId": "CSC/2023/029",
+   "courseCode": "CSC301",
+   "session": "2025/2026",
+   "status": "REGISTERED"
+  },
+  {
+   "regId": "d8265d43-76c6-44a1-8920-2b3e19dc6b73",
+   "studentId": "CSC/2023/029",
+   "courseCode": "CSC303",
+   "session": "2025/2026",
+   "status": "REGISTERED"
+  },
+  {
+   "regId": "1a84c0c6-c961-4a02-87b5-a8f3625170af",
+   "studentId": "CSC/2023/029",
+   "courseCode": "CSC305",
+   "session": "2025/2026",
+   "status": "REGISTERED"
+  },
+  {
+   "regId": "82e2d073-c2d0-4b3d-92ae-c7550a2e82c2",
+   "studentId": "CSC/2023/029",
+   "courseCode": "CSC307",
+   "session": "2025/2026",
+   "status": "REGISTERED"
+  },
+  {
+   "regId": "81d1f0c6-0f7c-413b-9379-a03721464705",
+   "studentId": "CSC/2023/029",
+   "courseCode": "CSC309",
+   "session": "2025/2026",
+   "status": "REGISTERED"
+  },
+  {
+   "regId": "053ed079-8321-4a17-be99-42266666d828",
+   "studentId": "CSC/2023/029",
+   "courseCode": "CSC311",
+   "session": "2025/2026",
+   "status": "REGISTERED"
+  },
+  {
+   "regId": "8367c038-783c-4838-836c-f0297ac58cdb",
+   "studentId": "CSC/2023/032",
+   "courseCode": "CSC301",
+   "session": "2025/2026",
+   "status": "REGISTERED"
+  },
+  {
+   "regId": "09e85611-5bc7-458e-bcdc-ef3117d32c1d",
+   "studentId": "CSC/2023/032",
+   "courseCode": "CSC303",
+   "session": "2025/2026",
+   "status": "REGISTERED"
+  },
+  {
+   "regId": "cf130136-552f-4813-8770-5f59668f14eb",
+   "studentId": "CSC/2023/032",
+   "courseCode": "CSC305",
+   "session": "2025/2026",
+   "status": "REGISTERED"
+  },
+  {
+   "regId": "d0e77a6e-ecfc-4de7-9b03-2b85a29c37a2",
+   "studentId": "CSC/2023/032",
+   "courseCode": "CSC309",
+   "session": "2025/2026",
+   "status": "REGISTERED"
+  },
+  {
+   "regId": "50acae1c-7ab4-4a55-af38-8fab1f7b3123",
+   "studentId": "CSC/2023/032",
+   "courseCode": "CSC311",
+   "session": "2025/2026",
+   "status": "REGISTERED"
+  },
+  {
+   "regId": "19593bcf-13a3-449a-a546-3d247c6f6192",
+   "studentId": "CSC/2023/033",
+   "courseCode": "CSC301",
+   "session": "2025/2026",
+   "status": "REGISTERED"
+  },
+  {
+   "regId": "9854a605-e6b8-4e00-ab0c-1a9678dc7482",
+   "studentId": "CSC/2023/033",
+   "courseCode": "CSC303",
+   "session": "2025/2026",
+   "status": "REGISTERED"
+  },
+  {
+   "regId": "d39a4e7c-db79-4138-809f-d1366dd7f470",
+   "studentId": "CSC/2023/033",
+   "courseCode": "CSC305",
+   "session": "2025/2026",
+   "status": "REGISTERED"
+  },
+  {
+   "regId": "bd5e6571-ae2b-4ae4-b053-0269a183dadb",
+   "studentId": "CSC/2023/033",
+   "courseCode": "CSC307",
+   "session": "2025/2026",
+   "status": "REGISTERED"
+  },
+  {
+   "regId": "82bdc838-3de6-42bf-8d82-56d450225ac9",
+   "studentId": "CSC/2023/033",
+   "courseCode": "CSC309",
+   "session": "2025/2026",
+   "status": "REGISTERED"
+  },
+  {
+   "regId": "4d947f60-cb8d-4a80-b5ae-d2ad4b6ce671",
+   "studentId": "CSC/2023/033",
+   "courseCode": "CSC311",
+   "session": "2025/2026",
+   "status": "REGISTERED"
+  },
+  {
+   "regId": "a4893c06-b0b9-489c-a98d-46ab04621d2b",
+   "studentId": "CSC/2023/034",
+   "courseCode": "CSC301",
+   "session": "2025/2026",
+   "status": "REGISTERED"
+  },
+  {
+   "regId": "b3d7a685-3a19-497b-aca9-c89d98d79ae1",
+   "studentId": "CSC/2023/034",
+   "courseCode": "CSC303",
+   "session": "2025/2026",
+   "status": "REGISTERED"
+  },
+  {
+   "regId": "0353d1d6-43c0-4790-9eaa-7947afcda832",
+   "studentId": "CSC/2023/034",
+   "courseCode": "CSC305",
+   "session": "2025/2026",
+   "status": "REGISTERED"
+  },
+  {
+   "regId": "b4644c0d-fec8-4ac8-b550-083e44aa8d3d",
+   "studentId": "CSC/2023/034",
+   "courseCode": "CSC307",
+   "session": "2025/2026",
+   "status": "REGISTERED"
+  },
+  {
+   "regId": "e436f2a9-99eb-466e-93f4-6caa28b9f482",
+   "studentId": "CSC/2023/034",
+   "courseCode": "CSC309",
+   "session": "2025/2026",
+   "status": "REGISTERED"
+  },
+  {
+   "regId": "2c2ede2b-289b-4b6c-af40-dff9152bfc56",
+   "studentId": "CSC/2023/034",
+   "courseCode": "CSC311",
+   "session": "2025/2026",
+   "status": "REGISTERED"
+  },
+  {
+   "regId": "52538782-fb85-427a-9517-979b4c8619a5",
+   "studentId": "CSC/2023/035",
+   "courseCode": "CSC301",
+   "session": "2025/2026",
+   "status": "REGISTERED"
+  },
+  {
+   "regId": "ab8dd6a1-5b0e-426b-af83-5e27ef78a04d",
+   "studentId": "CSC/2023/035",
+   "courseCode": "CSC303",
+   "session": "2025/2026",
+   "status": "REGISTERED"
+  },
+  {
+   "regId": "f13a7258-cf92-4915-ad06-f69c21a584cc",
+   "studentId": "CSC/2023/035",
+   "courseCode": "CSC305",
+   "session": "2025/2026",
+   "status": "REGISTERED"
+  },
+  {
+   "regId": "af79c7a6-3a08-47da-89b4-dca7442a0063",
+   "studentId": "CSC/2023/035",
+   "courseCode": "CSC307",
+   "session": "2025/2026",
+   "status": "REGISTERED"
+  },
+  {
+   "regId": "0d623442-46e2-4fae-935a-b2a4bd32afbb",
+   "studentId": "CSC/2023/035",
+   "courseCode": "CSC309",
+   "session": "2025/2026",
+   "status": "REGISTERED"
+  },
+  {
+   "regId": "bfb328cf-1c72-43e0-81e2-2bdc832413f9",
+   "studentId": "CSC/2023/035",
+   "courseCode": "CSC311",
+   "session": "2025/2026",
+   "status": "REGISTERED"
+  },
+  {
+   "regId": "e8cb8030-b9bd-4baf-b191-ebff109f3db7",
+   "studentId": "CSC/2023/036",
+   "courseCode": "CSC301",
+   "session": "2025/2026",
+   "status": "REGISTERED"
+  },
+  {
+   "regId": "12e8f84c-3c7b-4cdb-9982-3570f4b08f42",
+   "studentId": "CSC/2023/036",
+   "courseCode": "CSC303",
+   "session": "2025/2026",
+   "status": "REGISTERED"
+  },
+  {
+   "regId": "32feb8eb-a728-4802-a2a4-68ba98f8b8ca",
+   "studentId": "CSC/2023/036",
+   "courseCode": "CSC305",
+   "session": "2025/2026",
+   "status": "REGISTERED"
+  },
+  {
+   "regId": "6c8a077e-ea10-4f05-8bf4-f7a382df0003",
+   "studentId": "CSC/2023/036",
+   "courseCode": "CSC307",
+   "session": "2025/2026",
+   "status": "REGISTERED"
+  },
+  {
+   "regId": "8c9cb2d2-ff09-4b0a-a60e-795370aa6b1d",
+   "studentId": "CSC/2023/036",
+   "courseCode": "CSC311",
+   "session": "2025/2026",
+   "status": "REGISTERED"
+  },
+  {
+   "regId": "ddf799ee-b43e-4950-93a1-7eecc5df8efd",
+   "studentId": "CSC/2023/037",
+   "courseCode": "CSC301",
+   "session": "2025/2026",
+   "status": "REGISTERED"
+  },
+  {
+   "regId": "8ec229d2-87c6-496b-916d-9c5d22a080b3",
+   "studentId": "CSC/2023/037",
+   "courseCode": "CSC305",
+   "session": "2025/2026",
+   "status": "REGISTERED"
+  },
+  {
+   "regId": "861a36bd-2f9b-44a8-8d8f-84f9deac897d",
+   "studentId": "CSC/2023/037",
+   "courseCode": "CSC307",
+   "session": "2025/2026",
+   "status": "REGISTERED"
+  },
+  {
+   "regId": "1e595961-0b09-4faa-85f0-b9ccee4b1d5b",
+   "studentId": "CSC/2023/037",
+   "courseCode": "CSC309",
+   "session": "2025/2026",
+   "status": "REGISTERED"
+  },
+  {
+   "regId": "2e8e2da3-fbd4-47ca-be42-e5a2816de1c1",
+   "studentId": "CSC/2023/037",
+   "courseCode": "CSC313",
+   "session": "2025/2026",
+   "status": "REGISTERED"
+  },
+  {
+   "regId": "3c352f1a-bc5b-455d-815d-b2422e9c2c6f",
+   "studentId": "CSC/2023/038",
+   "courseCode": "CSC301",
+   "session": "2025/2026",
+   "status": "REGISTERED"
+  },
+  {
+   "regId": "95f7daf0-02b6-4cd6-bdb1-064f3edd3532",
+   "studentId": "CSC/2023/038",
+   "courseCode": "CSC303",
+   "session": "2025/2026",
+   "status": "REGISTERED"
+  },
+  {
+   "regId": "fad2ff8f-da21-439d-8b77-3b6fbde9573e",
+   "studentId": "CSC/2023/038",
+   "courseCode": "CSC305",
+   "session": "2025/2026",
+   "status": "REGISTERED"
+  },
+  {
+   "regId": "c4ccae73-8481-43fd-80f7-cbc2508f50a9",
+   "studentId": "CSC/2023/038",
+   "courseCode": "CSC307",
+   "session": "2025/2026",
+   "status": "REGISTERED"
+  },
+  {
+   "regId": "8034b36e-07e6-4200-87eb-bf0e07995d2e",
+   "studentId": "CSC/2023/038",
+   "courseCode": "CSC309",
+   "session": "2025/2026",
+   "status": "REGISTERED"
+  },
+  {
+   "regId": "eff6ca6f-ca84-465d-8693-2ee1514646ea",
+   "studentId": "CSC/2023/038",
+   "courseCode": "CSC313",
+   "session": "2025/2026",
+   "status": "REGISTERED"
+  },
+  {
+   "regId": "12753550-4996-4f62-9757-55342eeffbb4",
+   "studentId": "CSC/2023/039",
+   "courseCode": "CSC301",
+   "session": "2025/2026",
+   "status": "REGISTERED"
+  },
+  {
+   "regId": "d1080dd7-8986-42e8-befb-900f9e2b07e9",
+   "studentId": "CSC/2023/039",
+   "courseCode": "CSC303",
+   "session": "2025/2026",
+   "status": "REGISTERED"
+  },
+  {
+   "regId": "631d0e9d-0937-4dfd-b129-32ef4b6a5ca2",
+   "studentId": "CSC/2023/039",
+   "courseCode": "CSC305",
+   "session": "2025/2026",
+   "status": "REGISTERED"
+  },
+  {
+   "regId": "6a655819-8cda-48d0-8e19-568b2b425253",
+   "studentId": "CSC/2023/039",
+   "courseCode": "CSC307",
+   "session": "2025/2026",
+   "status": "REGISTERED"
+  },
+  {
+   "regId": "7663c137-b31c-46ff-be65-1477989259d3",
+   "studentId": "CSC/2023/039",
+   "courseCode": "CSC309",
+   "session": "2025/2026",
+   "status": "REGISTERED"
+  },
+  {
+   "regId": "9f37399e-8eae-4da1-9fd1-daf08cc3d5ca",
+   "studentId": "CSC/2023/039",
+   "courseCode": "CSC313",
+   "session": "2025/2026",
+   "status": "REGISTERED"
+  },
+  {
+   "regId": "7ff46401-539d-4b4e-aeb9-b44e30dee17f",
+   "studentId": "CSC/2023/040",
+   "courseCode": "CSC301",
+   "session": "2025/2026",
+   "status": "REGISTERED"
+  },
+  {
+   "regId": "44c2a472-0987-43d3-94c1-93d8a2e2f4c2",
+   "studentId": "CSC/2023/040",
+   "courseCode": "CSC303",
+   "session": "2025/2026",
+   "status": "REGISTERED"
+  },
+  {
+   "regId": "4cb7314c-1cf6-41e3-86ad-1e1ed0eff359",
+   "studentId": "CSC/2023/040",
+   "courseCode": "CSC307",
+   "session": "2025/2026",
+   "status": "REGISTERED"
+  },
+  {
+   "regId": "2ce3682c-e9a5-4000-a180-12b0e657a280",
+   "studentId": "CSC/2023/040",
+   "courseCode": "CSC309",
+   "session": "2025/2026",
+   "status": "REGISTERED"
+  },
+  {
+   "regId": "9b2959f1-d2fe-4bd4-b436-bf883c499e5e",
+   "studentId": "CSC/2023/040",
+   "courseCode": "CSC311",
+   "session": "2025/2026",
+   "status": "REGISTERED"
+  },
+  {
+   "regId": "1ef28d76-1b53-4c1d-befc-4108d8d9ab21",
+   "studentId": "CSC/2022/001",
+   "courseCode": "CSC401",
+   "session": "2025/2026",
+   "status": "REGISTERED"
+  },
+  {
+   "regId": "8585bd93-4b2c-4786-84cc-45f7b525724b",
+   "studentId": "CSC/2022/001",
+   "courseCode": "CSC403",
+   "session": "2025/2026",
+   "status": "REGISTERED"
+  },
+  {
+   "regId": "fa7bd62c-7a04-4c50-9ddf-4ab86c9fb276",
+   "studentId": "CSC/2022/001",
+   "courseCode": "CSC405",
+   "session": "2025/2026",
+   "status": "REGISTERED"
+  },
+  {
+   "regId": "69e386dd-3f13-499c-bbca-85b8660e7c34",
+   "studentId": "CSC/2022/001",
+   "courseCode": "CSC407",
+   "session": "2025/2026",
+   "status": "REGISTERED"
+  },
+  {
+   "regId": "ac6dea6f-fed0-4506-8ea5-f51d646a753b",
+   "studentId": "CSC/2022/001",
+   "courseCode": "CSC411",
+   "session": "2025/2026",
+   "status": "REGISTERED"
+  },
+  {
+   "regId": "38ba889c-3137-425f-9e43-bf9db0ffc056",
+   "studentId": "CSC/2022/002",
+   "courseCode": "CSC401",
+   "session": "2025/2026",
+   "status": "REGISTERED"
+  },
+  {
+   "regId": "fb68d3a8-529d-4a9a-b7eb-e51b0444c3a8",
+   "studentId": "CSC/2022/002",
+   "courseCode": "CSC403",
+   "session": "2025/2026",
+   "status": "REGISTERED"
+  },
+  {
+   "regId": "4a385943-129b-43c0-bc31-5cdecc17ae7c",
+   "studentId": "CSC/2022/002",
+   "courseCode": "CSC405",
+   "session": "2025/2026",
+   "status": "REGISTERED"
+  },
+  {
+   "regId": "39a10959-66b5-4f05-acf9-081e81b8a5ad",
+   "studentId": "CSC/2022/002",
+   "courseCode": "CSC407",
+   "session": "2025/2026",
+   "status": "REGISTERED"
+  },
+  {
+   "regId": "03a5be43-0ba3-4c57-86b2-b023ec349314",
+   "studentId": "CSC/2022/002",
+   "courseCode": "CSC409",
+   "session": "2025/2026",
+   "status": "REGISTERED"
+  },
+  {
+   "regId": "6f65e86d-ec3d-4ef5-92d7-013955c5a530",
+   "studentId": "CSC/2022/003",
+   "courseCode": "CSC401",
+   "session": "2025/2026",
+   "status": "REGISTERED"
+  },
+  {
+   "regId": "632a60de-1341-4246-9c0e-c164864edb01",
+   "studentId": "CSC/2022/003",
+   "courseCode": "CSC403",
+   "session": "2025/2026",
+   "status": "REGISTERED"
+  },
+  {
+   "regId": "f18fa86e-f4a3-4e6e-b6b2-aff0307481de",
+   "studentId": "CSC/2022/003",
+   "courseCode": "CSC405",
+   "session": "2025/2026",
+   "status": "REGISTERED"
+  },
+  {
+   "regId": "3a81be3f-cfa1-49f1-b22b-2eb4acd31cb9",
+   "studentId": "CSC/2022/003",
+   "courseCode": "CSC407",
+   "session": "2025/2026",
+   "status": "REGISTERED"
+  },
+  {
+   "regId": "e5752db0-9e9a-4c15-99a5-552a9ff27a46",
+   "studentId": "CSC/2022/003",
+   "courseCode": "CSC411",
+   "session": "2025/2026",
+   "status": "REGISTERED"
+  },
+  {
+   "regId": "c9128e09-342b-4ebc-99f2-c16b89766cf7",
+   "studentId": "CSC/2022/005",
+   "courseCode": "CSC401",
+   "session": "2025/2026",
+   "status": "REGISTERED"
+  },
+  {
+   "regId": "0cf9e5f2-b29f-44be-a20f-0bf274d547b9",
+   "studentId": "CSC/2022/005",
+   "courseCode": "CSC403",
+   "session": "2025/2026",
+   "status": "REGISTERED"
+  },
+  {
+   "regId": "a6882e4d-7d95-4214-9c5d-c972dfb696d1",
+   "studentId": "CSC/2022/005",
+   "courseCode": "CSC405",
+   "session": "2025/2026",
+   "status": "REGISTERED"
+  },
+  {
+   "regId": "0d755fcb-c8d7-4362-918d-eee7db21af4c",
+   "studentId": "CSC/2022/005",
+   "courseCode": "CSC407",
+   "session": "2025/2026",
+   "status": "REGISTERED"
+  },
+  {
+   "regId": "049eba04-19dd-4ab3-9a0b-dd30953d99bf",
+   "studentId": "CSC/2022/005",
+   "courseCode": "CSC409",
+   "session": "2025/2026",
+   "status": "REGISTERED"
+  },
+  {
+   "regId": "90c871ed-a02c-4c7a-9e34-148876d87beb",
+   "studentId": "CSC/2022/006",
+   "courseCode": "CSC401",
+   "session": "2025/2026",
+   "status": "REGISTERED"
+  },
+  {
+   "regId": "4688f57f-7fd7-45a7-880b-61853fd51ccd",
+   "studentId": "CSC/2022/006",
+   "courseCode": "CSC403",
+   "session": "2025/2026",
+   "status": "REGISTERED"
+  },
+  {
+   "regId": "76e33755-3586-40e4-923a-c27459f20d5c",
+   "studentId": "CSC/2022/006",
+   "courseCode": "CSC407",
+   "session": "2025/2026",
+   "status": "REGISTERED"
+  },
+  {
+   "regId": "09925d22-4cd9-4a1f-ab4c-c719f680819f",
+   "studentId": "CSC/2022/006",
+   "courseCode": "CSC409",
+   "session": "2025/2026",
+   "status": "REGISTERED"
+  },
+  {
+   "regId": "6b957fbc-b04b-4778-a4c7-47b47273ba44",
+   "studentId": "CSC/2022/007",
+   "courseCode": "CSC401",
+   "session": "2025/2026",
+   "status": "REGISTERED"
+  },
+  {
+   "regId": "a01353c5-798c-417a-bab2-62691c02e9de",
+   "studentId": "CSC/2022/007",
+   "courseCode": "CSC403",
+   "session": "2025/2026",
+   "status": "REGISTERED"
+  },
+  {
+   "regId": "31d5d880-452e-4b02-907c-bea8fbb63a9e",
+   "studentId": "CSC/2022/007",
+   "courseCode": "CSC405",
+   "session": "2025/2026",
+   "status": "REGISTERED"
+  },
+  {
+   "regId": "253ce1ca-8ba5-4c93-b648-4747df9c641b",
+   "studentId": "CSC/2022/007",
+   "courseCode": "CSC407",
+   "session": "2025/2026",
+   "status": "REGISTERED"
+  },
+  {
+   "regId": "42d9daa9-1b86-4020-96a7-2b52acaab45a",
+   "studentId": "CSC/2022/007",
+   "courseCode": "CSC409",
+   "session": "2025/2026",
+   "status": "REGISTERED"
+  },
+  {
+   "regId": "3ed31f98-38ab-468b-bece-993e5a1430c0",
+   "studentId": "CSC/2022/009",
+   "courseCode": "CSC401",
+   "session": "2025/2026",
+   "status": "REGISTERED"
+  },
+  {
+   "regId": "c8611ca0-0ac1-4543-98d5-f059aae561d0",
+   "studentId": "CSC/2022/009",
+   "courseCode": "CSC403",
+   "session": "2025/2026",
+   "status": "REGISTERED"
+  },
+  {
+   "regId": "a39b6eff-c6fa-486d-82ee-6e7e7d05dab6",
+   "studentId": "CSC/2022/009",
+   "courseCode": "CSC405",
+   "session": "2025/2026",
+   "status": "REGISTERED"
+  },
+  {
+   "regId": "1abdc153-4d6a-4124-ab6e-8db5596250ca",
+   "studentId": "CSC/2022/009",
+   "courseCode": "CSC407",
+   "session": "2025/2026",
+   "status": "REGISTERED"
+  },
+  {
+   "regId": "10785fca-9739-4a38-97f1-0c65c34d6e59",
+   "studentId": "CSC/2022/009",
+   "courseCode": "CSC411",
+   "session": "2025/2026",
+   "status": "REGISTERED"
+  },
+  {
+   "regId": "2b810a21-6299-44f1-b5b6-e8d4a6eca81f",
+   "studentId": "CSC/2022/010",
+   "courseCode": "CSC401",
+   "session": "2025/2026",
+   "status": "REGISTERED"
+  },
+  {
+   "regId": "5b592662-7a2c-4c5f-8c06-bcc4d4cf2f0d",
+   "studentId": "CSC/2022/010",
+   "courseCode": "CSC403",
+   "session": "2025/2026",
+   "status": "REGISTERED"
+  },
+  {
+   "regId": "38f16008-f880-4c5f-bb0f-c0ee133bb0bf",
+   "studentId": "CSC/2022/010",
+   "courseCode": "CSC405",
+   "session": "2025/2026",
+   "status": "REGISTERED"
+  },
+  {
+   "regId": "6c694d78-c5c5-409b-95a9-b1619a6d117d",
+   "studentId": "CSC/2022/010",
+   "courseCode": "CSC407",
+   "session": "2025/2026",
+   "status": "REGISTERED"
+  },
+  {
+   "regId": "0b0bf875-888b-4136-9421-675499e5fcf1",
+   "studentId": "CSC/2022/010",
+   "courseCode": "CSC411",
+   "session": "2025/2026",
+   "status": "REGISTERED"
+  },
+  {
+   "regId": "9cf76f74-9928-48db-9a9a-ab668b04fe2b",
+   "studentId": "CSC/2022/011",
+   "courseCode": "CSC401",
+   "session": "2025/2026",
+   "status": "REGISTERED"
+  },
+  {
+   "regId": "e317b751-724f-40a8-b407-a621c537577f",
+   "studentId": "CSC/2022/011",
+   "courseCode": "CSC403",
+   "session": "2025/2026",
+   "status": "REGISTERED"
+  },
+  {
+   "regId": "35cd69b5-709d-47e4-a0d7-1a313d93bdca",
+   "studentId": "CSC/2022/011",
+   "courseCode": "CSC407",
+   "session": "2025/2026",
+   "status": "REGISTERED"
+  },
+  {
+   "regId": "ec5013bf-11b5-4a97-a96b-418aabab95fd",
+   "studentId": "CSC/2022/011",
+   "courseCode": "CSC409",
+   "session": "2025/2026",
+   "status": "REGISTERED"
+  },
+  {
+   "regId": "e56ae4d4-9766-4945-be85-70b5fad8cfd8",
+   "studentId": "CSC/2022/012",
+   "courseCode": "CSC401",
+   "session": "2025/2026",
+   "status": "REGISTERED"
+  },
+  {
+   "regId": "a627f90d-1cc6-486e-95c6-cc5ed6b9c3b2",
+   "studentId": "CSC/2022/012",
+   "courseCode": "CSC403",
+   "session": "2025/2026",
+   "status": "REGISTERED"
+  },
+  {
+   "regId": "7eb4f048-42ec-4dfc-a7b7-a6457f192080",
+   "studentId": "CSC/2022/012",
+   "courseCode": "CSC405",
+   "session": "2025/2026",
+   "status": "REGISTERED"
+  },
+  {
+   "regId": "9b3c1afb-8971-4089-877e-b22f905f3f0e",
+   "studentId": "CSC/2022/012",
+   "courseCode": "CSC407",
+   "session": "2025/2026",
+   "status": "REGISTERED"
+  },
+  {
+   "regId": "fb7b61ce-195e-4865-8fd4-82019f740f6b",
+   "studentId": "CSC/2022/012",
+   "courseCode": "CSC411",
+   "session": "2025/2026",
+   "status": "REGISTERED"
+  },
+  {
+   "regId": "611e4b15-35a5-461e-bf1e-47e713f050cf",
+   "studentId": "CSC/2022/013",
+   "courseCode": "CSC401",
+   "session": "2025/2026",
+   "status": "REGISTERED"
+  },
+  {
+   "regId": "efd8d3f4-c7c9-4211-a7f5-a602fd54cde0",
+   "studentId": "CSC/2022/013",
+   "courseCode": "CSC403",
+   "session": "2025/2026",
+   "status": "REGISTERED"
+  },
+  {
+   "regId": "8750c96c-033a-4773-8ee0-b7ecfc602599",
+   "studentId": "CSC/2022/013",
+   "courseCode": "CSC405",
+   "session": "2025/2026",
+   "status": "REGISTERED"
+  },
+  {
+   "regId": "d39a6fa2-c6ea-4e29-a884-8cb7bf8bd0fe",
+   "studentId": "CSC/2022/013",
+   "courseCode": "CSC407",
+   "session": "2025/2026",
+   "status": "REGISTERED"
+  },
+  {
+   "regId": "0386d278-fe34-40f9-9c36-2d3f7f179275",
+   "studentId": "CSC/2022/013",
+   "courseCode": "CSC409",
+   "session": "2025/2026",
+   "status": "REGISTERED"
+  },
+  {
+   "regId": "8b9ea642-a454-44b7-a633-d0f7553321c4",
+   "studentId": "CSC/2022/014",
+   "courseCode": "CSC401",
+   "session": "2025/2026",
+   "status": "REGISTERED"
+  },
+  {
+   "regId": "973e39e3-1307-4fff-9995-0079ab4c4b7c",
+   "studentId": "CSC/2022/014",
+   "courseCode": "CSC403",
+   "session": "2025/2026",
+   "status": "REGISTERED"
+  },
+  {
+   "regId": "ca1c75eb-778b-4777-8a72-1452ae63b9d3",
+   "studentId": "CSC/2022/014",
+   "courseCode": "CSC405",
+   "session": "2025/2026",
+   "status": "REGISTERED"
+  },
+  {
+   "regId": "cbe486d5-8d4a-4bf1-a0a4-96912627cf42",
+   "studentId": "CSC/2022/014",
+   "courseCode": "CSC407",
+   "session": "2025/2026",
+   "status": "REGISTERED"
+  },
+  {
+   "regId": "113ae89c-49ef-483d-bb75-d3fa8287a9ed",
+   "studentId": "CSC/2022/014",
+   "courseCode": "CSC411",
+   "session": "2025/2026",
+   "status": "REGISTERED"
+  },
+  {
+   "regId": "8b845828-03c2-4485-a420-27d145996378",
+   "studentId": "CSC/2022/015",
+   "courseCode": "CSC401",
+   "session": "2025/2026",
+   "status": "REGISTERED"
+  },
+  {
+   "regId": "d174ff12-aa61-477d-a7d3-2519b12732c2",
+   "studentId": "CSC/2022/015",
+   "courseCode": "CSC403",
+   "session": "2025/2026",
+   "status": "REGISTERED"
+  },
+  {
+   "regId": "ffa263ec-b8bd-4c1c-a24d-b90a60d7db0e",
+   "studentId": "CSC/2022/015",
+   "courseCode": "CSC405",
+   "session": "2025/2026",
+   "status": "REGISTERED"
+  },
+  {
+   "regId": "7acca6ea-6e53-4025-82b2-d5afbedb68bd",
+   "studentId": "CSC/2022/015",
+   "courseCode": "CSC407",
+   "session": "2025/2026",
+   "status": "REGISTERED"
+  },
+  {
+   "regId": "8488f6ab-5f34-4a0b-94e1-53c3d9d67342",
+   "studentId": "CSC/2022/015",
+   "courseCode": "CSC411",
+   "session": "2025/2026",
+   "status": "REGISTERED"
+  },
+  {
+   "regId": "94c58dac-0612-41ef-a090-729cd01dcb35",
+   "studentId": "CSC/2022/016",
+   "courseCode": "CSC401",
+   "session": "2025/2026",
+   "status": "REGISTERED"
+  },
+  {
+   "regId": "a2d07d64-e04a-4f81-b54f-1b707546eb80",
+   "studentId": "CSC/2022/016",
+   "courseCode": "CSC403",
+   "session": "2025/2026",
+   "status": "REGISTERED"
+  },
+  {
+   "regId": "bdbb709b-d0dc-40ac-b04c-9e38e0f38a36",
+   "studentId": "CSC/2022/016",
+   "courseCode": "CSC405",
+   "session": "2025/2026",
+   "status": "REGISTERED"
+  },
+  {
+   "regId": "f474474b-1f76-44cb-988c-4a79de6f7f41",
+   "studentId": "CSC/2022/016",
+   "courseCode": "CSC407",
+   "session": "2025/2026",
+   "status": "REGISTERED"
+  },
+  {
+   "regId": "e9ae0c26-24d4-422f-b4a2-0adcb2070aa3",
+   "studentId": "CSC/2022/016",
+   "courseCode": "CSC409",
+   "session": "2025/2026",
+   "status": "REGISTERED"
+  },
+  {
+   "regId": "45cb2a7c-bd0f-473b-bee7-df35feb51c12",
+   "studentId": "CSC/2022/017",
+   "courseCode": "CSC403",
+   "session": "2025/2026",
+   "status": "REGISTERED"
+  },
+  {
+   "regId": "84dc97af-03f4-4bca-b36f-099467e5c26c",
+   "studentId": "CSC/2022/017",
+   "courseCode": "CSC405",
+   "session": "2025/2026",
+   "status": "REGISTERED"
+  },
+  {
+   "regId": "eda6797b-42a9-4482-b1a6-47bea81093a5",
+   "studentId": "CSC/2022/017",
+   "courseCode": "CSC411",
+   "session": "2025/2026",
+   "status": "REGISTERED"
+  },
+  {
+   "regId": "eb0b49e6-f922-4dad-ba21-8fbe25ed6236",
+   "studentId": "CSC/2022/018",
+   "courseCode": "CSC401",
+   "session": "2025/2026",
+   "status": "REGISTERED"
+  },
+  {
+   "regId": "1c4becc6-a98e-4c8c-af9e-573c8aaa49e7",
+   "studentId": "CSC/2022/018",
+   "courseCode": "CSC403",
+   "session": "2025/2026",
+   "status": "REGISTERED"
+  },
+  {
+   "regId": "40b56bef-ec0b-4348-84a8-c89597b6534f",
+   "studentId": "CSC/2022/018",
+   "courseCode": "CSC405",
+   "session": "2025/2026",
+   "status": "REGISTERED"
+  },
+  {
+   "regId": "656e4b65-fa8e-4485-93c6-362962de80e9",
+   "studentId": "CSC/2022/018",
+   "courseCode": "CSC407",
+   "session": "2025/2026",
+   "status": "REGISTERED"
+  },
+  {
+   "regId": "1bbd5ac2-a3a8-45eb-a36a-3d8f59ba983d",
+   "studentId": "CSC/2022/018",
+   "courseCode": "CSC409",
+   "session": "2025/2026",
+   "status": "REGISTERED"
+  },
+  {
+   "regId": "fd30ac58-2ceb-4dfd-a91c-d4dac8ca2d85",
+   "studentId": "CSC/2022/019",
+   "courseCode": "CSC401",
+   "session": "2025/2026",
+   "status": "REGISTERED"
+  },
+  {
+   "regId": "d0e10fdf-fed9-476b-8dde-863157cfbe0e",
+   "studentId": "CSC/2022/019",
+   "courseCode": "CSC403",
+   "session": "2025/2026",
+   "status": "REGISTERED"
+  },
+  {
+   "regId": "92e78e65-dba0-464b-b218-62a00360ea5a",
+   "studentId": "CSC/2022/019",
+   "courseCode": "CSC407",
+   "session": "2025/2026",
+   "status": "REGISTERED"
+  },
+  {
+   "regId": "9f96837a-90d8-4667-b5e1-82b9ee808af3",
+   "studentId": "CSC/2022/019",
+   "courseCode": "CSC411",
+   "session": "2025/2026",
+   "status": "REGISTERED"
+  },
+  {
+   "regId": "30207f57-7619-4138-a60c-4148bda96cdf",
+   "studentId": "CSC/2022/020",
+   "courseCode": "CSC401",
+   "session": "2025/2026",
+   "status": "REGISTERED"
+  },
+  {
+   "regId": "16db7e89-b906-4468-8ac2-02580bec7ba0",
+   "studentId": "CSC/2022/020",
+   "courseCode": "CSC403",
+   "session": "2025/2026",
+   "status": "REGISTERED"
+  },
+  {
+   "regId": "9868ab8d-0678-42a2-a913-b9348a839b6f",
+   "studentId": "CSC/2022/020",
+   "courseCode": "CSC405",
+   "session": "2025/2026",
+   "status": "REGISTERED"
+  },
+  {
+   "regId": "49b5df80-8723-4715-912c-6362276873ec",
+   "studentId": "CSC/2022/020",
+   "courseCode": "CSC407",
+   "session": "2025/2026",
+   "status": "REGISTERED"
+  },
+  {
+   "regId": "39de1497-e9da-449b-9fc9-18eef60fb261",
+   "studentId": "CSC/2022/020",
+   "courseCode": "CSC409",
+   "session": "2025/2026",
+   "status": "REGISTERED"
+  },
+  {
+   "regId": "51a1b347-863f-4588-a423-5eed68dd6f32",
+   "studentId": "CSC/2022/021",
+   "courseCode": "CSC401",
+   "session": "2025/2026",
+   "status": "REGISTERED"
+  },
+  {
+   "regId": "0417e55c-9ae2-4218-a3ce-cadbf1e669c6",
+   "studentId": "CSC/2022/021",
+   "courseCode": "CSC403",
+   "session": "2025/2026",
+   "status": "REGISTERED"
+  },
+  {
+   "regId": "b48c6106-5955-4ec7-9cf6-bf7dc3fd9cc6",
+   "studentId": "CSC/2022/021",
+   "courseCode": "CSC405",
+   "session": "2025/2026",
+   "status": "REGISTERED"
+  },
+  {
+   "regId": "924825ff-2e39-4b17-b07c-6b5adb60aa8e",
+   "studentId": "CSC/2022/021",
+   "courseCode": "CSC407",
+   "session": "2025/2026",
+   "status": "REGISTERED"
+  },
+  {
+   "regId": "e4f8eb97-6b9f-48a9-8692-7ba6401e068a",
+   "studentId": "CSC/2022/021",
+   "courseCode": "CSC411",
+   "session": "2025/2026",
+   "status": "REGISTERED"
+  },
+  {
+   "regId": "1c238513-2d66-4b57-9b2c-297f125ab8fe",
+   "studentId": "CSC/2022/022",
+   "courseCode": "CSC401",
+   "session": "2025/2026",
+   "status": "REGISTERED"
+  },
+  {
+   "regId": "b16561a4-c3f1-48a7-8ddd-1727b42f4924",
+   "studentId": "CSC/2022/022",
+   "courseCode": "CSC403",
+   "session": "2025/2026",
+   "status": "REGISTERED"
+  },
+  {
+   "regId": "149e6d40-a413-49a9-be50-487662ff11ed",
+   "studentId": "CSC/2022/022",
+   "courseCode": "CSC405",
+   "session": "2025/2026",
+   "status": "REGISTERED"
+  },
+  {
+   "regId": "88e7adc0-319a-4002-ae93-c802f9cdb759",
+   "studentId": "CSC/2022/022",
+   "courseCode": "CSC407",
+   "session": "2025/2026",
+   "status": "REGISTERED"
+  },
+  {
+   "regId": "bd75dc39-8eb2-4910-a6e4-22ec8c87b271",
+   "studentId": "CSC/2022/022",
+   "courseCode": "CSC411",
+   "session": "2025/2026",
+   "status": "REGISTERED"
+  },
+  {
+   "regId": "c18cbcea-ca2b-4607-aa57-eb8e519f653a",
+   "studentId": "CSC/2022/023",
+   "courseCode": "CSC401",
+   "session": "2025/2026",
+   "status": "REGISTERED"
+  },
+  {
+   "regId": "d1a03feb-ecfb-44c1-944d-0bdb5209c757",
+   "studentId": "CSC/2022/023",
+   "courseCode": "CSC403",
+   "session": "2025/2026",
+   "status": "REGISTERED"
+  },
+  {
+   "regId": "d77b2404-3036-4db7-8879-ee416a658a57",
+   "studentId": "CSC/2022/023",
+   "courseCode": "CSC405",
+   "session": "2025/2026",
+   "status": "REGISTERED"
+  },
+  {
+   "regId": "e9aaff45-2eb0-4c32-b513-e635616659fb",
+   "studentId": "CSC/2022/023",
+   "courseCode": "CSC407",
+   "session": "2025/2026",
+   "status": "REGISTERED"
+  },
+  {
+   "regId": "78cdceef-d894-4f96-8a50-dd8ee882ef8e",
+   "studentId": "CSC/2022/023",
+   "courseCode": "CSC411",
+   "session": "2025/2026",
+   "status": "REGISTERED"
+  },
+  {
+   "regId": "e56d907c-8fc9-4c8b-af49-60b4a579344c",
+   "studentId": "CSC/2022/024",
+   "courseCode": "CSC401",
+   "session": "2025/2026",
+   "status": "REGISTERED"
+  },
+  {
+   "regId": "704c6d19-c05f-467a-a56b-227a3cc1e001",
+   "studentId": "CSC/2022/024",
+   "courseCode": "CSC403",
+   "session": "2025/2026",
+   "status": "REGISTERED"
+  },
+  {
+   "regId": "8b2aa25f-8b7b-46a3-9416-15348673ff62",
+   "studentId": "CSC/2022/024",
+   "courseCode": "CSC405",
+   "session": "2025/2026",
+   "status": "REGISTERED"
+  },
+  {
+   "regId": "b62d92a5-f3d8-4579-8755-e9531b06aecb",
+   "studentId": "CSC/2022/024",
+   "courseCode": "CSC407",
+   "session": "2025/2026",
+   "status": "REGISTERED"
+  },
+  {
+   "regId": "8d82bc5f-37c6-4a23-b099-b69a801fea31",
+   "studentId": "CSC/2022/024",
+   "courseCode": "CSC411",
+   "session": "2025/2026",
+   "status": "REGISTERED"
+  },
+  {
+   "regId": "507c232b-6f51-45b5-a126-3859442476ad",
+   "studentId": "CSC/2022/025",
+   "courseCode": "CSC403",
+   "session": "2025/2026",
+   "status": "REGISTERED"
+  },
+  {
+   "regId": "c567d429-2a95-4157-896c-e33b7fba4df8",
+   "studentId": "CSC/2022/025",
+   "courseCode": "CSC405",
+   "session": "2025/2026",
+   "status": "REGISTERED"
+  },
+  {
+   "regId": "0417daf3-e046-4059-9656-7e6fb214ef0f",
+   "studentId": "CSC/2022/025",
+   "courseCode": "CSC407",
+   "session": "2025/2026",
+   "status": "REGISTERED"
+  },
+  {
+   "regId": "4917b176-7829-478d-9a19-f90ea780064e",
+   "studentId": "CSC/2022/025",
+   "courseCode": "CSC409",
+   "session": "2025/2026",
+   "status": "REGISTERED"
+  },
+  {
+   "regId": "1663c032-a25a-4583-96b8-a34ba3227af7",
+   "studentId": "CSC/2022/026",
+   "courseCode": "CSC401",
+   "session": "2025/2026",
+   "status": "REGISTERED"
+  },
+  {
+   "regId": "2fae486a-5dc9-4508-b18a-a384ee239f0f",
+   "studentId": "CSC/2022/026",
+   "courseCode": "CSC403",
+   "session": "2025/2026",
+   "status": "REGISTERED"
+  },
+  {
+   "regId": "1a8bdaae-8d5b-4eea-aad2-f0962de5cf75",
+   "studentId": "CSC/2022/026",
+   "courseCode": "CSC405",
+   "session": "2025/2026",
+   "status": "REGISTERED"
+  },
+  {
+   "regId": "4c132957-9a4a-4d4c-8337-8d9c85387687",
+   "studentId": "CSC/2022/026",
+   "courseCode": "CSC407",
+   "session": "2025/2026",
+   "status": "REGISTERED"
+  },
+  {
+   "regId": "f4a631a6-f292-436c-be75-1add21789391",
+   "studentId": "CSC/2022/026",
+   "courseCode": "CSC411",
+   "session": "2025/2026",
+   "status": "REGISTERED"
+  },
+  {
+   "regId": "5e5ccf29-54cf-4dc9-b026-531446c5b31f",
+   "studentId": "CSC/2022/027",
+   "courseCode": "CSC401",
+   "session": "2025/2026",
+   "status": "REGISTERED"
+  },
+  {
+   "regId": "830c73f8-fc93-45a7-b226-08900c77235d",
+   "studentId": "CSC/2022/027",
+   "courseCode": "CSC403",
+   "session": "2025/2026",
+   "status": "REGISTERED"
+  },
+  {
+   "regId": "617801d4-7e88-4bd8-bfcb-790d48fc140f",
+   "studentId": "CSC/2022/027",
+   "courseCode": "CSC405",
+   "session": "2025/2026",
+   "status": "REGISTERED"
+  },
+  {
+   "regId": "27449a60-1cf4-4509-9356-c2e92cb12649",
+   "studentId": "CSC/2022/027",
+   "courseCode": "CSC407",
+   "session": "2025/2026",
+   "status": "REGISTERED"
+  },
+  {
+   "regId": "b38ad823-87c7-4545-8340-e172f5446ce4",
+   "studentId": "CSC/2022/027",
+   "courseCode": "CSC411",
+   "session": "2025/2026",
+   "status": "REGISTERED"
+  },
+  {
+   "regId": "0af5af79-10f2-4927-b7ed-633cb245aa93",
+   "studentId": "CSC/2022/028",
+   "courseCode": "CSC401",
+   "session": "2025/2026",
+   "status": "REGISTERED"
+  },
+  {
+   "regId": "a5ffed1a-3d8f-44f0-8381-08ec8eba83cc",
+   "studentId": "CSC/2022/028",
+   "courseCode": "CSC403",
+   "session": "2025/2026",
+   "status": "REGISTERED"
+  },
+  {
+   "regId": "7360ff90-9674-486f-bfe2-e04771840c14",
+   "studentId": "CSC/2022/028",
+   "courseCode": "CSC405",
+   "session": "2025/2026",
+   "status": "REGISTERED"
+  },
+  {
+   "regId": "9bea061f-adb6-42b1-a40f-0ce18bc81ed1",
+   "studentId": "CSC/2022/028",
+   "courseCode": "CSC407",
+   "session": "2025/2026",
+   "status": "REGISTERED"
+  },
+  {
+   "regId": "410b52aa-eab1-4f36-9943-7ce88b16d094",
+   "studentId": "CSC/2022/028",
+   "courseCode": "CSC411",
+   "session": "2025/2026",
+   "status": "REGISTERED"
+  },
+  {
+   "regId": "07f75907-fc30-4fa6-bde8-7aafc23150e3",
+   "studentId": "CSC/2022/029",
+   "courseCode": "CSC401",
+   "session": "2025/2026",
+   "status": "REGISTERED"
+  },
+  {
+   "regId": "0f955941-eb20-464b-870d-46e0970bcd34",
+   "studentId": "CSC/2022/029",
+   "courseCode": "CSC403",
+   "session": "2025/2026",
+   "status": "REGISTERED"
+  },
+  {
+   "regId": "ea68ecda-16fe-478a-8f23-7593602ee2cc",
+   "studentId": "CSC/2022/029",
+   "courseCode": "CSC405",
+   "session": "2025/2026",
+   "status": "REGISTERED"
+  },
+  {
+   "regId": "ecda87aa-bf7c-4b8e-b11d-ec5f625a42c1",
+   "studentId": "CSC/2022/029",
+   "courseCode": "CSC407",
+   "session": "2025/2026",
+   "status": "REGISTERED"
+  },
+  {
+   "regId": "a7eb85a6-f02a-4bfd-a927-247cc6683ea8",
+   "studentId": "CSC/2022/029",
+   "courseCode": "CSC409",
+   "session": "2025/2026",
+   "status": "REGISTERED"
+  },
+  {
+   "regId": "a946fdcc-1af2-441e-a3c0-c3302108f722",
+   "studentId": "CSC/2022/030",
+   "courseCode": "CSC401",
+   "session": "2025/2026",
+   "status": "REGISTERED"
+  },
+  {
+   "regId": "1273f41c-7f4e-4aed-a4bb-84c5864da12d",
+   "studentId": "CSC/2022/030",
+   "courseCode": "CSC403",
+   "session": "2025/2026",
+   "status": "REGISTERED"
+  },
+  {
+   "regId": "23bc430d-db33-44f7-944c-8430a4edda2c",
+   "studentId": "CSC/2022/030",
+   "courseCode": "CSC405",
+   "session": "2025/2026",
+   "status": "REGISTERED"
+  },
+  {
+   "regId": "f203925a-2118-45d5-b08f-c7841f7479fa",
+   "studentId": "CSC/2022/030",
+   "courseCode": "CSC411",
+   "session": "2025/2026",
+   "status": "REGISTERED"
+  },
+  {
+   "regId": "1f454e66-f5db-4a8f-96d5-6685e8bea43d",
+   "studentId": "CSC/2022/031",
+   "courseCode": "CSC401",
+   "session": "2025/2026",
+   "status": "REGISTERED"
+  },
+  {
+   "regId": "67b66853-98c0-4427-a54d-00cb9c227d74",
+   "studentId": "CSC/2022/031",
+   "courseCode": "CSC403",
+   "session": "2025/2026",
+   "status": "REGISTERED"
+  },
+  {
+   "regId": "d24dec9a-3a85-4e6e-97c8-80e4c4c348ef",
+   "studentId": "CSC/2022/031",
+   "courseCode": "CSC407",
+   "session": "2025/2026",
+   "status": "REGISTERED"
+  },
+  {
+   "regId": "22e7649e-dcc1-4c0d-91af-0d10796e807a",
+   "studentId": "CSC/2022/031",
+   "courseCode": "CSC411",
+   "session": "2025/2026",
+   "status": "REGISTERED"
+  },
+  {
+   "regId": "3c76a3a8-b21c-4423-ba11-0df7731d9422",
+   "studentId": "CSC/2022/032",
+   "courseCode": "CSC401",
+   "session": "2025/2026",
+   "status": "REGISTERED"
+  },
+  {
+   "regId": "2e4ba467-53a5-4548-aa56-2cdf56414d7c",
+   "studentId": "CSC/2022/032",
+   "courseCode": "CSC405",
+   "session": "2025/2026",
+   "status": "REGISTERED"
+  },
+  {
+   "regId": "7edb94f2-e700-4509-8d63-8520127a936d",
+   "studentId": "CSC/2022/032",
+   "courseCode": "CSC407",
+   "session": "2025/2026",
+   "status": "REGISTERED"
+  },
+  {
+   "regId": "48af3f6b-af88-4b65-8f5a-2c1d0dd370db",
+   "studentId": "CSC/2022/032",
+   "courseCode": "CSC409",
+   "session": "2025/2026",
+   "status": "REGISTERED"
+  },
+  {
+   "regId": "601ba93a-3d83-4628-8ad6-86161abe034e",
+   "studentId": "CSC/2022/033",
+   "courseCode": "CSC401",
+   "session": "2025/2026",
+   "status": "REGISTERED"
+  },
+  {
+   "regId": "90b092be-7555-49c5-bde1-aa80e33c4a0e",
+   "studentId": "CSC/2022/033",
+   "courseCode": "CSC403",
+   "session": "2025/2026",
+   "status": "REGISTERED"
+  },
+  {
+   "regId": "182980e3-dac4-422b-80a6-b3961e6562b3",
+   "studentId": "CSC/2022/033",
+   "courseCode": "CSC405",
+   "session": "2025/2026",
+   "status": "REGISTERED"
+  },
+  {
+   "regId": "04c6eeaa-a4fe-410a-a08a-b555d5b7b963",
+   "studentId": "CSC/2022/033",
+   "courseCode": "CSC407",
+   "session": "2025/2026",
+   "status": "REGISTERED"
+  },
+  {
+   "regId": "f72f4568-84f7-40f2-b207-3eb3ad6367eb",
+   "studentId": "CSC/2022/033",
+   "courseCode": "CSC409",
+   "session": "2025/2026",
+   "status": "REGISTERED"
+  },
+  {
+   "regId": "618f504a-fb83-427e-b27c-e9fae3a14224",
+   "studentId": "CSC/2022/034",
+   "courseCode": "CSC401",
+   "session": "2025/2026",
+   "status": "REGISTERED"
+  },
+  {
+   "regId": "41f6ecd8-fbd3-4d8f-97e9-9f89969fe07c",
+   "studentId": "CSC/2022/034",
+   "courseCode": "CSC403",
+   "session": "2025/2026",
+   "status": "REGISTERED"
+  },
+  {
+   "regId": "2a02f8e7-e16f-49ec-bbb3-ad67ccf9ef98",
+   "studentId": "CSC/2022/034",
+   "courseCode": "CSC405",
+   "session": "2025/2026",
+   "status": "REGISTERED"
+  },
+  {
+   "regId": "42288081-2682-4924-a2c8-98e462e4e98d",
+   "studentId": "CSC/2022/034",
+   "courseCode": "CSC407",
+   "session": "2025/2026",
+   "status": "REGISTERED"
+  },
+  {
+   "regId": "222f1c81-7dc4-4c4c-891e-a3985eb57d69",
+   "studentId": "CSC/2022/034",
+   "courseCode": "CSC411",
+   "session": "2025/2026",
+   "status": "REGISTERED"
+  },
+  {
+   "regId": "32a0b11e-8820-4d3e-8025-e5177154747f",
+   "studentId": "CSC/2022/035",
+   "courseCode": "CSC401",
+   "session": "2025/2026",
+   "status": "REGISTERED"
+  },
+  {
+   "regId": "9e680387-f08d-4151-9439-44089bfc778b",
+   "studentId": "CSC/2022/035",
+   "courseCode": "CSC403",
+   "session": "2025/2026",
+   "status": "REGISTERED"
+  },
+  {
+   "regId": "13f81ff8-cf67-4eeb-acc9-80dc8a4db974",
+   "studentId": "CSC/2022/035",
+   "courseCode": "CSC405",
+   "session": "2025/2026",
+   "status": "REGISTERED"
+  },
+  {
+   "regId": "53dee1f8-075a-432a-8267-5a3bd645c947",
+   "studentId": "CSC/2022/035",
+   "courseCode": "CSC407",
+   "session": "2025/2026",
+   "status": "REGISTERED"
+  },
+  {
+   "regId": "d9f6dc01-d1e2-4bb0-aed6-7c3123bf7189",
+   "studentId": "CSC/2022/035",
+   "courseCode": "CSC409",
+   "session": "2025/2026",
+   "status": "REGISTERED"
+  },
+  {
+   "regId": "7ad9faf7-ca5d-4f5a-aa17-d32379b01fc5",
+   "studentId": "CSC/2022/036",
+   "courseCode": "CSC401",
+   "session": "2025/2026",
+   "status": "REGISTERED"
+  },
+  {
+   "regId": "aa6551d4-d1e2-4436-8c55-e135ac482319",
+   "studentId": "CSC/2022/036",
+   "courseCode": "CSC403",
+   "session": "2025/2026",
+   "status": "REGISTERED"
+  },
+  {
+   "regId": "0c8bec44-d655-4c68-97f5-5b4c37dbd557",
+   "studentId": "CSC/2022/036",
+   "courseCode": "CSC405",
+   "session": "2025/2026",
+   "status": "REGISTERED"
+  },
+  {
+   "regId": "98d3aaca-a1e1-486b-be00-8b22405286c7",
+   "studentId": "CSC/2022/036",
+   "courseCode": "CSC407",
+   "session": "2025/2026",
+   "status": "REGISTERED"
+  },
+  {
+   "regId": "49b53bc2-35b3-438b-947d-8aca9c330b11",
+   "studentId": "CSC/2022/036",
+   "courseCode": "CSC411",
+   "session": "2025/2026",
+   "status": "REGISTERED"
+  },
+  {
+   "regId": "f6a26734-f687-4b2d-bc42-0c386f347316",
+   "studentId": "CSC/2022/037",
+   "courseCode": "CSC401",
+   "session": "2025/2026",
+   "status": "REGISTERED"
+  },
+  {
+   "regId": "25b4b121-41d1-4252-94b8-1306631cd44e",
+   "studentId": "CSC/2022/037",
+   "courseCode": "CSC403",
+   "session": "2025/2026",
+   "status": "REGISTERED"
+  },
+  {
+   "regId": "c5e75bf3-8f1d-412e-8f3e-fb548756c95a",
+   "studentId": "CSC/2022/037",
+   "courseCode": "CSC405",
+   "session": "2025/2026",
+   "status": "REGISTERED"
+  },
+  {
+   "regId": "48384006-4457-47b8-ba1d-c1d27bb8ef78",
+   "studentId": "CSC/2022/037",
+   "courseCode": "CSC407",
+   "session": "2025/2026",
+   "status": "REGISTERED"
+  },
+  {
+   "regId": "fff8dd46-e276-461e-bcce-0923cefdf35c",
+   "studentId": "CSC/2022/037",
+   "courseCode": "CSC411",
+   "session": "2025/2026",
+   "status": "REGISTERED"
+  },
+  {
+   "regId": "c754cad5-f047-485b-b48e-47a31b1fabad",
+   "studentId": "CSC/2022/038",
+   "courseCode": "CSC401",
+   "session": "2025/2026",
+   "status": "REGISTERED"
+  },
+  {
+   "regId": "79259452-b039-469c-a236-70eb7729e524",
+   "studentId": "CSC/2022/038",
+   "courseCode": "CSC403",
+   "session": "2025/2026",
+   "status": "REGISTERED"
+  },
+  {
+   "regId": "ca02f82c-f915-4914-ba21-404a745d0cb9",
+   "studentId": "CSC/2022/038",
+   "courseCode": "CSC405",
+   "session": "2025/2026",
+   "status": "REGISTERED"
+  },
+  {
+   "regId": "a031b1ae-8fe8-45ff-8bfa-d0b8974493f3",
+   "studentId": "CSC/2022/038",
+   "courseCode": "CSC407",
+   "session": "2025/2026",
+   "status": "REGISTERED"
+  },
+  {
+   "regId": "28ba70e5-e541-43d8-8eef-8c07f980a754",
+   "studentId": "CSC/2022/038",
+   "courseCode": "CSC409",
+   "session": "2025/2026",
+   "status": "REGISTERED"
+  },
+  {
+   "regId": "c7b66b7a-3a6c-4a9b-b79e-08e6455ef718",
+   "studentId": "CSC/2022/039",
+   "courseCode": "CSC401",
+   "session": "2025/2026",
+   "status": "REGISTERED"
+  },
+  {
+   "regId": "21c9bfcd-a80c-469e-a227-36c46902c0a6",
+   "studentId": "CSC/2022/039",
+   "courseCode": "CSC403",
+   "session": "2025/2026",
+   "status": "REGISTERED"
+  },
+  {
+   "regId": "11c15052-affd-4cf2-92fd-5f331f725d5f",
+   "studentId": "CSC/2022/039",
+   "courseCode": "CSC405",
+   "session": "2025/2026",
+   "status": "REGISTERED"
+  },
+  {
+   "regId": "726a2219-f17e-4b3b-b5cd-fb6087dc3b5f",
+   "studentId": "CSC/2022/039",
+   "courseCode": "CSC407",
+   "session": "2025/2026",
+   "status": "REGISTERED"
+  },
+  {
+   "regId": "251f6bcb-972d-446c-9ecf-09ca72742767",
+   "studentId": "CSC/2022/039",
+   "courseCode": "CSC411",
+   "session": "2025/2026",
+   "status": "REGISTERED"
+  },
+  {
+   "regId": "a4b5897b-895e-4a8b-aa8b-7b9a0e3d9a4c",
+   "studentId": "CSC/2022/040",
+   "courseCode": "CSC401",
+   "session": "2025/2026",
+   "status": "REGISTERED"
+  },
+  {
+   "regId": "43095f4f-a952-4e3f-88bf-6704a5f1528e",
+   "studentId": "CSC/2022/040",
+   "courseCode": "CSC403",
+   "session": "2025/2026",
+   "status": "REGISTERED"
+  },
+  {
+   "regId": "15a3fb74-8fcd-49c1-9753-c29cfaf56852",
+   "studentId": "CSC/2022/040",
+   "courseCode": "CSC405",
+   "session": "2025/2026",
+   "status": "REGISTERED"
+  },
+  {
+   "regId": "fb87522a-2bbb-44c1-b521-90b75c63f2ad",
+   "studentId": "CSC/2022/040",
+   "courseCode": "CSC407",
+   "session": "2025/2026",
+   "status": "REGISTERED"
+  },
+  {
+   "regId": "6f296fe2-2802-43f1-8bec-4ff999fed6a2",
+   "studentId": "CSC/2022/040",
+   "courseCode": "CSC409",
+   "session": "2025/2026",
+   "status": "REGISTERED"
+  }
+ ]
+}
